@@ -1,0 +1,48 @@
+# Public BT & Torrent Indexers (Domain Provider Format)
+# Description: Public torrent search and tracker sites (e.g. 1337x, Nyaa, E-Hentai)
+# Updated: 2026-09-30 13:52:20 UTC
+# Total Domains: 40
+# Source: https://github.com/pt-plugins/PT-depiler
+# Repo: https://github.com/Zeeshan975/Clash_rules
+#
+payload:
+  - '+.0cili.com' # 0Magnet
+  - '+.0cili.my' # 0Magnet
+  - '+.0magnet.com' # 0Magnet
+  - '+.1337x.st' # 1337x
+  - '+.1337x.to' # 1337x
+  - '+.13mag.net' # 0Magnet
+  - '+.16mag.net' # 0Magnet
+  - '+.1cili.com' # 0Magnet
+  - '+.7mag.net' # 0Magnet
+  - '+.8ci.li' # 0Magnet
+  - '+.acg.rip' # ACG.RIP
+  - '+.animetosho.org' # AnimeTosho
+  - '+.anirena.com' # AniRena
+  - '+.asnet.pw' # AniSource
+  - '+.audiobookbay.fi' # AudioBook Bay
+  - '+.audiobookbay.is' # AudioBook Bay
+  - '+.audiobookbay.lu' # AudioBook Bay
+  - '+.audiobookbay.se' # AudioBook Bay
+  - '+.audiobookbay.ws' # AudioBook Bay
+  - '+.bt.etree.org' # BT.etree
+  - '+.cili.info' # 0Magnet
+  - '+.cili.uk' # 0Magnet
+  - '+.e-hentai.org' # E-Hentai
+  - '+.exhentai.org' # E-Hentai
+  - '+.ext.to' # EXT Torrents
+  - '+.extranet.torrentbay.st' # EXT Torrents
+  - '+.extto.com' # EXT Torrents
+  - '+.getmag.net' # 0Magnet
+  - '+.nekobt.to' # nekoBT
+  - '+.nyaa.si' # Nyaa
+  - '+.share.dmhy.org' # 動漫花園資源網
+  - '+.theaudiobookbay.se' # AudioBook Bay
+  - '+.tokyo-tosho.net' # Tokyo Toshokan
+  - '+.tokyotosho.info' # Tokyo Toshokan
+  - '+.torrents-csv.com' # Torrents-CSV
+  - '+.wuji.me' # 0Magnet
+  - '+.x1337x.cc' # 1337x
+  - '+.x1337x.eu' # 1337x
+  - '+.x1337x.ws' # 1337x
+  - '+.xcili.net' # 0Magnet

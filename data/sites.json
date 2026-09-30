@@ -1,0 +1,8671 @@
+[
+  {
+    "id": "0magnet",
+    "name": "0Magnet",
+    "aka": [
+      "ØMagnet",
+      "无极磁链"
+    ],
+    "description": "ØMagnet 是一个专注于高清电影和电视剧的私人种子站点，提供高质量的影视资源下载服务。",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://16mag.net/",
+      "https://0magnet.com/",
+      "https://8ci.li/",
+      "https://7mag.net/",
+      "https://13mag.net/",
+      "https://getmag.net/",
+      "https://xcili.net/",
+      "https://1cili.com/",
+      "https://cili.info/",
+      "https://cili.uk/",
+      "https://wuji.me/",
+      "https://0cili.com/",
+      "https://0cili.my/"
+    ],
+    "legacyUrls": [
+      "https://6mag.net/",
+      "https://9mag.net/",
+      "https://0mag.net/"
+    ],
+    "activeDomains": [
+      "0cili.com",
+      "0cili.my",
+      "0magnet.com",
+      "13mag.net",
+      "16mag.net",
+      "1cili.com",
+      "7mag.net",
+      "8ci.li",
+      "cili.info",
+      "cili.uk",
+      "getmag.net",
+      "wuji.me",
+      "xcili.net"
+    ],
+    "allDomains": [
+      "0cili.com",
+      "0cili.my",
+      "0mag.net",
+      "0magnet.com",
+      "13mag.net",
+      "16mag.net",
+      "1cili.com",
+      "6mag.net",
+      "7mag.net",
+      "8ci.li",
+      "9mag.net",
+      "cili.info",
+      "cili.uk",
+      "getmag.net",
+      "wuji.me",
+      "xcili.net"
+    ]
+  },
+  {
+    "id": "1337x",
+    "name": "1337x",
+    "aka": [],
+    "description": "1337X is a Public torrent site that offers verified torrent downloads",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://1337x.to/",
+      "https://1337x.st/",
+      "https://x1337x.ws/",
+      "https://x1337x.eu/",
+      "https://x1337x.cc/"
+    ],
+    "legacyUrls": [
+      "https://1337x.is/",
+      "https://1337x.gd/",
+      "https://1337x.mrunblock.bond/",
+      "https://1337x.abcproxy.org/",
+      "https://1337x.so/",
+      "https://1337x.unblockit.download/",
+      "https://1337x.unblockninja.com/",
+      "https://1337x.ninjaproxy1.com/",
+      "https://1337x.proxyninja.org/",
+      "https://1337x.proxyninja.net/",
+      "https://1337x.torrentbay.st/",
+      "https://1337x.torrentsbay.org/",
+      "https://x1337x.se/"
+    ],
+    "activeDomains": [
+      "1337x.st",
+      "1337x.to",
+      "x1337x.cc",
+      "x1337x.eu",
+      "x1337x.ws"
+    ],
+    "allDomains": [
+      "1337x.abcproxy.org",
+      "1337x.gd",
+      "1337x.is",
+      "1337x.mrunblock.bond",
+      "1337x.ninjaproxy1.com",
+      "1337x.proxyninja.net",
+      "1337x.proxyninja.org",
+      "1337x.so",
+      "1337x.st",
+      "1337x.to",
+      "1337x.torrentbay.st",
+      "1337x.torrentsbay.org",
+      "1337x.unblockit.download",
+      "1337x.unblockninja.com",
+      "x1337x.cc",
+      "x1337x.eu",
+      "x1337x.se",
+      "x1337x.ws"
+    ]
+  },
+  {
+    "id": "13city",
+    "name": "13city",
+    "aka": [
+      "13城"
+    ],
+    "description": "一切美好源于分享",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://13city.org/",
+      "https://www.13city.org/"
+    ],
+    "legacyUrls": [
+      "https://13city.online/"
+    ],
+    "activeDomains": [
+      "13city.org"
+    ],
+    "allDomains": [
+      "13city.online",
+      "13city.org"
+    ]
+  },
+  {
+    "id": "1ptba",
+    "name": "1PTBar",
+    "aka": [
+      "壹PT"
+    ],
+    "description": "分享互联，收获快乐",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://1ptba.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "1ptba.com"
+    ],
+    "allDomains": [
+      "1ptba.com"
+    ]
+  },
+  {
+    "id": "2xfree",
+    "name": "2xFree",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "综合",
+      "VR",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.2xfree.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "2xfree.org"
+    ],
+    "allDomains": [
+      "2xfree.org"
+    ]
+  },
+  {
+    "id": "52movie",
+    "name": "52movie",
+    "aka": [],
+    "description": "The Ultimate File Sharing Experience",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.52movie.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "52movie.top"
+    ],
+    "allDomains": [
+      "52movie.top"
+    ]
+  },
+  {
+    "id": "52pt",
+    "name": "52PT",
+    "aka": [
+      "我爱PT"
+    ],
+    "description": "低调地在这个PT校园快乐成长 快乐分享",
+    "tags": [
+      "高清",
+      "电影",
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://52pt.site/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "52pt.site"
+    ],
+    "allDomains": [
+      "52pt.site"
+    ]
+  },
+  {
+    "id": "abtorrents",
+    "name": "ABTorrents",
+    "aka": [
+      "ABT"
+    ],
+    "description": "ABTorrents (ABT) is a Private Torrent Tracker for AUDIOBOOKS and EBOOKS",
+    "tags": [
+      "电子书",
+      "有声书"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://usefultrash.net/"
+    ],
+    "legacyUrls": [
+      "https://abtorrents.me/",
+      "https://abtorrents.xyz/"
+    ],
+    "activeDomains": [
+      "usefultrash.net"
+    ],
+    "allDomains": [
+      "abtorrents.me",
+      "abtorrents.xyz",
+      "usefultrash.net"
+    ]
+  },
+  {
+    "id": "acgrip",
+    "name": "ACG.RIP",
+    "aka": [],
+    "description": "与动漫花园类似的日漫资源站点",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://acg.rip/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "acg.rip"
+    ],
+    "allDomains": [
+      "acg.rip"
+    ]
+  },
+  {
+    "id": "afun",
+    "name": "Afun",
+    "aka": [],
+    "description": "希望都能找到各自的兴趣、爱好、欢喜",
+    "tags": [
+      "综合",
+      "电影",
+      "电视剧",
+      "纪录片",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.ptlover.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptlover.cc"
+    ],
+    "allDomains": [
+      "ptlover.cc"
+    ]
+  },
+  {
+    "id": "agsvpt",
+    "name": "AGSVPT",
+    "aka": [
+      "末日种子库"
+    ],
+    "description": "Arctic Global Seed Vault",
+    "tags": [
+      "综合",
+      "短剧",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.agsvpt.cn/",
+      "https://www.agsvpt.com/",
+      "https://new.agsvpt.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "agsvpt.cn",
+      "agsvpt.com"
+    ],
+    "allDomains": [
+      "agsvpt.cn",
+      "agsvpt.com"
+    ]
+  },
+  {
+    "id": "aidoruonline",
+    "name": "Aidoru!Online",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "偶像"
+    ],
+    "type": "private",
+    "schema": "AidoruOnline",
+    "isDead": false,
+    "urls": [
+      "https://aidoru-online.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "aidoru-online.me"
+    ],
+    "allDomains": [
+      "aidoru-online.me"
+    ]
+  },
+  {
+    "id": "aither",
+    "name": "Aither",
+    "aka": [
+      "ATH"
+    ],
+    "description": "",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://aither.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "aither.cc"
+    ],
+    "allDomains": [
+      "aither.cc"
+    ]
+  },
+  {
+    "id": "alingpt",
+    "name": "alingPT",
+    "aka": [],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.aling.de/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "aling.de"
+    ],
+    "allDomains": [
+      "aling.de"
+    ]
+  },
+  {
+    "id": "alpharatio",
+    "name": "AlphaRatio",
+    "aka": [
+      "AR"
+    ],
+    "description": "AlphaRatio (AR) is a Private Torrent Tracker for 0DAY / GENERAL",
+    "tags": [
+      "综合",
+      "0day"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://alpharatio.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "alpharatio.cc"
+    ],
+    "allDomains": [
+      "alpharatio.cc"
+    ]
+  },
+  {
+    "id": "animebytes",
+    "name": "AnimeBytes",
+    "aka": [
+      "AB"
+    ],
+    "description": "AnimeBytes is a Private site. Powered by Tentacles",
+    "tags": [
+      "动漫",
+      "音乐",
+      "游戏"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://animebytes.tv/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "animebytes.tv"
+    ],
+    "allDomains": [
+      "animebytes.tv"
+    ]
+  },
+  {
+    "id": "animelovers",
+    "name": "ANIMELOVERS",
+    "aka": [
+      "动漫爱好者"
+    ],
+    "description": "",
+    "tags": [
+      "动漫"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://animelovers.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "animelovers.club"
+    ],
+    "allDomains": [
+      "animelovers.club"
+    ]
+  },
+  {
+    "id": "animetosho",
+    "name": "AnimeTosho",
+    "aka": [
+      "AT",
+      "アニメ等所"
+    ],
+    "description": "AnimeTosho (AT) is an automated service that provides torrent files, magnet links and DDL for all anime releases",
+    "tags": [
+      "动画",
+      "漫画"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://animetosho.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "animetosho.org"
+    ],
+    "allDomains": [
+      "animetosho.org"
+    ]
+  },
+  {
+    "id": "animez",
+    "name": "AnimeZ",
+    "aka": [
+      "AnimeTorrents"
+    ],
+    "description": "AnimeZ (ex-AnimeTorrents) is a Private Torrent Tracker for ANIME / MANGA",
+    "tags": [
+      "动漫",
+      "漫画"
+    ],
+    "type": "private",
+    "schema": "AvistazNetwork",
+    "isDead": false,
+    "urls": [
+      "https://animez.to/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "animez.to"
+    ],
+    "allDomains": [
+      "animez.to"
+    ]
+  },
+  {
+    "id": "anirena",
+    "name": "AniRena",
+    "aka": [],
+    "description": "AniRena is a Public torrent tracker for the latest anime and Japanese related torrents",
+    "tags": [
+      "Anime"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.anirena.com/"
+    ],
+    "legacyUrls": [
+      "https://anirena.com/"
+    ],
+    "activeDomains": [
+      "anirena.com"
+    ],
+    "allDomains": [
+      "anirena.com"
+    ]
+  },
+  {
+    "id": "anisource",
+    "name": "AniSource",
+    "aka": [],
+    "description": "Download anime for free. High quality HD raws from Raws-4U, スカーRaws team (4U-Project) and Leopard-Raws.",
+    "tags": [
+      "Anime"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://asnet.pw/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "asnet.pw"
+    ],
+    "allDomains": [
+      "asnet.pw"
+    ]
+  },
+  {
+    "id": "anthelion",
+    "name": "Anthelion",
+    "aka": [
+      "ANT"
+    ],
+    "description": "Anthelion (ANT) is a Private site for MOVIES",
+    "tags": [
+      "电影"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://anthelion.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "anthelion.me"
+    ],
+    "allDomains": [
+      "anthelion.me"
+    ]
+  },
+  {
+    "id": "asiancinema",
+    "name": "AsianCinema",
+    "aka": [
+      "ACM"
+    ],
+    "description": "综合",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://eiga.moi/"
+    ],
+    "legacyUrls": [
+      "https://asiancinema.me/"
+    ],
+    "activeDomains": [
+      "eiga.moi"
+    ],
+    "allDomains": [
+      "asiancinema.me",
+      "eiga.moi"
+    ]
+  },
+  {
+    "id": "asmrpt",
+    "name": "ASMR PT",
+    "aka": [],
+    "description": "致力于成为最全ASMR PT社区",
+    "tags": [
+      "视频",
+      "ASMR"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.asmrpt.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "asmrpt.org"
+    ],
+    "allDomains": [
+      "asmrpt.org"
+    ]
+  },
+  {
+    "id": "audiences",
+    "name": "Audiences",
+    "aka": [
+      "观众",
+      "人人人"
+    ],
+    "description": "观众",
+    "tags": [
+      "综合",
+      "影视",
+      "音乐",
+      "电子书",
+      "有声书",
+      "体育",
+      "游戏"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://audiences.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "audiences.me"
+    ],
+    "allDomains": [
+      "audiences.me"
+    ]
+  },
+  {
+    "id": "audiobookbay",
+    "name": "AudioBook Bay",
+    "aka": [
+      "ABB"
+    ],
+    "description": "AudioBook Bay (ABB) is a Public Torrent Tracker for AUDIOBOOKS",
+    "tags": [
+      "有声书"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://audiobookbay.lu/",
+      "http://audiobookbay.is/",
+      "http://audiobookbay.se/",
+      "http://audiobookbay.fi/",
+      "http://audiobookbay.ws/",
+      "http://theaudiobookbay.se/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "audiobookbay.fi",
+      "audiobookbay.is",
+      "audiobookbay.lu",
+      "audiobookbay.se",
+      "audiobookbay.ws",
+      "theaudiobookbay.se"
+    ],
+    "allDomains": [
+      "audiobookbay.fi",
+      "audiobookbay.is",
+      "audiobookbay.lu",
+      "audiobookbay.se",
+      "audiobookbay.ws",
+      "theaudiobookbay.se"
+    ]
+  },
+  {
+    "id": "audionews",
+    "name": "AudioNews",
+    "aka": [
+      "AN"
+    ],
+    "description": "AudioNews (AN) is a Private Torrent Tracker for AUDIO SOFTWARE / SAMPLES / ETC",
+    "tags": [
+      "软件",
+      "0day",
+      "素材",
+      "学习",
+      "音乐制作"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://audionews.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "audionews.org"
+    ],
+    "allDomains": [
+      "audionews.org"
+    ]
+  },
+  {
+    "id": "aura4k",
+    "name": "Aura4k",
+    "aka": [
+      "A4K"
+    ],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://aura4k.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "aura4k.net"
+    ],
+    "allDomains": [
+      "aura4k.net"
+    ]
+  },
+  {
+    "id": "avgv",
+    "name": "爱薇网",
+    "aka": [
+      "AVGV"
+    ],
+    "description": "新加坡华人PT站，很有特色。",
+    "tags": [
+      "成人",
+      "AV",
+      "GAY",
+      "LES"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://avgv.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "avgv.cc"
+    ],
+    "allDomains": [
+      "avgv.cc"
+    ]
+  },
+  {
+    "id": "avistaz",
+    "name": "AvistaZ",
+    "aka": [
+      "Avz"
+    ],
+    "description": "AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / GENERAL",
+    "tags": [
+      "电影",
+      "电视剧",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AvistazNetwork",
+    "isDead": false,
+    "urls": [
+      "https://avistaz.to/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "avistaz.to"
+    ],
+    "allDomains": [
+      "avistaz.to"
+    ]
+  },
+  {
+    "id": "awesomehd",
+    "name": "Awesome-HD",
+    "aka": [
+      "AHD"
+    ],
+    "description": "",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": true,
+    "urls": [
+      "https://awesome-hd.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "awesome-hd.me"
+    ],
+    "allDomains": [
+      "awesome-hd.me"
+    ]
+  },
+  {
+    "id": "azusa",
+    "name": "梓喵",
+    "aka": [
+      "Azusa"
+    ],
+    "description": "",
+    "tags": [
+      "漫画",
+      "轻小说",
+      "Galgame",
+      "画集"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://azusa.wiki/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "azusa.wiki"
+    ],
+    "allDomains": [
+      "azusa.wiki"
+    ]
+  },
+  {
+    "id": "baconbits",
+    "name": "baconBits",
+    "aka": [
+      "bB"
+    ],
+    "description": "bB is a Private Torrent Tracker for 0DAY / GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": true,
+    "urls": [
+      "https://baconbits.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "baconbits.org"
+    ],
+    "allDomains": [
+      "baconbits.org"
+    ]
+  },
+  {
+    "id": "bakabt",
+    "name": "BakaBT",
+    "aka": [
+      "BBT"
+    ],
+    "description": "BakaBT is a Private site for the Anime Community",
+    "tags": [
+      "动漫"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://bakabt.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bakabt.me"
+    ],
+    "allDomains": [
+      "bakabt.me"
+    ]
+  },
+  {
+    "id": "baozi",
+    "name": "包子",
+    "aka": [],
+    "description": "包子PT。",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://p.t-baozi.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "t-baozi.cc"
+    ],
+    "allDomains": [
+      "t-baozi.cc"
+    ]
+  },
+  {
+    "id": "beitai",
+    "name": "备胎",
+    "aka": [],
+    "description": "找不到家时，接纳无家可归的人",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.beitai.pt/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "beitai.pt"
+    ],
+    "allDomains": [
+      "beitai.pt"
+    ]
+  },
+  {
+    "id": "bemaniso",
+    "name": "Bemaniso",
+    "aka": [],
+    "description": "Bemaniso is a Private Torrent Tracker for GAME MUSIC / BEMANI（音游原声）",
+    "tags": [
+      "游戏",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://bemaniso.ws/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bemaniso.ws"
+    ],
+    "allDomains": [
+      "bemaniso.ws"
+    ]
+  },
+  {
+    "id": "beyondhd",
+    "name": "BeyondHD",
+    "aka": [
+      "BHD"
+    ],
+    "description": "Beyond Your Imagination, BeyondHD is a community-built Movie/TV database.",
+    "tags": [
+      "电影",
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "F3NIX",
+    "isDead": false,
+    "urls": [
+      "https://beyond-hd.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "beyond-hd.me"
+    ],
+    "allDomains": [
+      "beyond-hd.me"
+    ]
+  },
+  {
+    "id": "bibliotik",
+    "name": "Bibliotik",
+    "aka": [
+      "BiB"
+    ],
+    "description": "Bibliotik is a Private Torrent Tracker for EBOOKS and AUDIOBOOKS",
+    "tags": [
+      "电子书",
+      "有声书"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://bibliotik.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bibliotik.me"
+    ],
+    "allDomains": [
+      "bibliotik.me"
+    ]
+  },
+  {
+    "id": "bitbr",
+    "name": "bitbr",
+    "aka": [],
+    "description": "bitbr 是一个葡萄牙语综合类私有种子站点",
+    "tags": [
+      "综合",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://bitbr.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bitbr.cc"
+    ],
+    "allDomains": [
+      "bitbr.cc"
+    ]
+  },
+  {
+    "id": "bitporn",
+    "name": "BitPorn",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://bitporn.eu/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bitporn.eu"
+    ],
+    "allDomains": [
+      "bitporn.eu"
+    ]
+  },
+  {
+    "id": "bitpt",
+    "name": "极速之星",
+    "aka": [],
+    "description": "极速之星IPV6资源交流平台",
+    "tags": [
+      "教育网",
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://bitpt.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bitpt.cn"
+    ],
+    "allDomains": [
+      "bitpt.cn"
+    ]
+  },
+  {
+    "id": "blutopia",
+    "name": "Blutopia",
+    "aka": [
+      "BLU"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://blutopia.cc/"
+    ],
+    "legacyUrls": [
+      "https://blutopia.xyz/"
+    ],
+    "activeDomains": [
+      "blutopia.cc"
+    ],
+    "allDomains": [
+      "blutopia.cc",
+      "blutopia.xyz"
+    ]
+  },
+  {
+    "id": "broadcasthenet",
+    "name": "BroadcastTheNet",
+    "aka": [
+      "BTN"
+    ],
+    "description": "BroadcastTheNet is a private tracker for TV shows.",
+    "tags": [
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://broadcasthe.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "broadcasthe.net"
+    ],
+    "allDomains": [
+      "broadcasthe.net"
+    ]
+  },
+  {
+    "id": "brokenstones",
+    "name": "BrokenStones",
+    "aka": [
+      "BRKs"
+    ],
+    "description": "Broken Stones is a Private site for MacOS and iOS APPS / GAMES",
+    "tags": [
+      "软件",
+      "游戏"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://brokenstones.is/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "brokenstones.is"
+    ],
+    "allDomains": [
+      "brokenstones.is"
+    ]
+  },
+  {
+    "id": "btetree",
+    "name": "BT.etree",
+    "aka": [],
+    "description": "BT.etree is a Public Tracker dedicated to Bootleg FLAC MUSIC",
+    "tags": [
+      "音乐"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://bt.etree.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bt.etree.org"
+    ],
+    "allDomains": [
+      "bt.etree.org"
+    ]
+  },
+  {
+    "id": "btschool",
+    "name": "BTSCHOOL",
+    "aka": [
+      "学校"
+    ],
+    "description": "汇聚每一个人的影响力",
+    "tags": [
+      "影视",
+      "综合",
+      "学习"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.btschool.club/"
+    ],
+    "legacyUrls": [
+      "https://pt.btschool.net/"
+    ],
+    "activeDomains": [
+      "btschool.club"
+    ],
+    "allDomains": [
+      "btschool.club",
+      "btschool.net"
+    ]
+  },
+  {
+    "id": "bwtorrents",
+    "name": "BWT",
+    "aka": [
+      "BwTorrents"
+    ],
+    "description": "BwTorrents (BWT) is an INDIAN Private Torrent Tracker for MOVIES / TV",
+    "tags": [
+      "综合",
+      "印度"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://bwtorrents.tv/",
+      "https://bwtorrents.cc/",
+      "https://bwtorrents.xyz/",
+      "https://bwtorrents.us/"
+    ],
+    "legacyUrls": [
+      "https://bwtorrents.fun/",
+      "https://bwtorrents.co/",
+      "https://www.bwtorrents.life/",
+      "https://www.bwtorrents.pro/",
+      "https://bwtorrents.live/"
+    ],
+    "activeDomains": [
+      "bwtorrents.cc",
+      "bwtorrents.tv",
+      "bwtorrents.us",
+      "bwtorrents.xyz"
+    ],
+    "allDomains": [
+      "bwtorrents.cc",
+      "bwtorrents.co",
+      "bwtorrents.fun",
+      "bwtorrents.life",
+      "bwtorrents.live",
+      "bwtorrents.pro",
+      "bwtorrents.tv",
+      "bwtorrents.us",
+      "bwtorrents.xyz"
+    ]
+  },
+  {
+    "id": "byrbt",
+    "name": "北邮人-BYRBT",
+    "aka": [],
+    "description": "著名教育网PT站点（仅支持ipv6访问与下载），有10大类资源，资源更新快，保种好。",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://byr.pt/"
+    ],
+    "legacyUrls": [
+      "https://bt.byr.cn/"
+    ],
+    "activeDomains": [
+      "byr.pt"
+    ],
+    "allDomains": [
+      "bt.byr.cn",
+      "byr.pt"
+    ]
+  },
+  {
+    "id": "capybarabr",
+    "name": "CapybaraBR",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "巴西"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://capybarabr.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "capybarabr.com"
+    ],
+    "allDomains": [
+      "capybarabr.com"
+    ]
+  },
+  {
+    "id": "carpt",
+    "name": "CarPT",
+    "aka": [
+      "车PT",
+      "车站"
+    ],
+    "description": "=链接@分享=",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://carpt.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "carpt.net"
+    ],
+    "allDomains": [
+      "carpt.net"
+    ]
+  },
+  {
+    "id": "cathoderaytube",
+    "name": "Cathode-Ray.Tube",
+    "aka": [
+      "CRT"
+    ],
+    "description": "Cathode-Ray.Tube (CRT) is a Private Torrent Tracker for CLASSIC MOVIES / TV",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": false,
+    "urls": [
+      "https://www.cathode-ray.tube/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cathode-ray.tube"
+    ],
+    "allDomains": [
+      "cathode-ray.tube"
+    ]
+  },
+  {
+    "id": "cbg",
+    "name": "藏宝阁",
+    "aka": [
+      "藏宝阁",
+      "cbg",
+      "CangBaoGe"
+    ],
+    "description": "开启藏宝阁，解锁你的光影世界，分享每一份热爱！",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://cangbao.ge/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cangbao.ge"
+    ],
+    "allDomains": [
+      "cangbao.ge"
+    ]
+  },
+  {
+    "id": "ccfbits",
+    "name": "CCFBits",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "剧集",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "TBSource",
+    "isDead": true,
+    "urls": [
+      "https://ccfbits.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ccfbits.org"
+    ],
+    "allDomains": [
+      "ccfbits.org"
+    ]
+  },
+  {
+    "id": "cdfile",
+    "name": "CD File",
+    "aka": [],
+    "description": "专注于Blu-Ray、DVD、CD等高品质光盘镜像资源，致力于打造光盘档案室",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.cdfile.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cdfile.org"
+    ],
+    "allDomains": [
+      "cdfile.org"
+    ]
+  },
+  {
+    "id": "cdy",
+    "name": "传道院",
+    "aka": [],
+    "description": "道可道，非常道，摆烂。",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.cdy.pics/"
+    ],
+    "legacyUrls": [
+      "https://pt.cdy.skin/"
+    ],
+    "activeDomains": [
+      "cdy.pics"
+    ],
+    "allDomains": [
+      "cdy.pics",
+      "cdy.skin"
+    ]
+  },
+  {
+    "id": "ceskeforum",
+    "name": "CeskeForum",
+    "aka": [],
+    "description": "CeskeForum 是一个捷克私有站点，提供电影/剧集/音乐/软件/游戏/书籍资源。",
+    "tags": [
+      "影视",
+      "音乐",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://t.ceskeforum.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ceskeforum.com"
+    ],
+    "allDomains": [
+      "ceskeforum.com"
+    ]
+  },
+  {
+    "id": "cgpeers",
+    "name": "CGPeers",
+    "aka": [
+      "CGP"
+    ],
+    "description": "CGPeers 是一个专注于计算机图形资源的私有站点",
+    "tags": [
+      "设计",
+      "教育",
+      "软件",
+      "学习",
+      "素材"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": false,
+    "urls": [
+      "https://cgpeers.to/"
+    ],
+    "legacyUrls": [
+      "https://www.cgpeers.com/"
+    ],
+    "activeDomains": [
+      "cgpeers.to"
+    ],
+    "allDomains": [
+      "cgpeers.com",
+      "cgpeers.to"
+    ]
+  },
+  {
+    "id": "chdbits",
+    "name": "CHDBits",
+    "aka": [
+      "彩虹岛",
+      "CHD"
+    ],
+    "description": "彩虹岛",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ptchdbits.co/"
+    ],
+    "legacyUrls": [
+      "https://chdbits.co/"
+    ],
+    "activeDomains": [
+      "ptchdbits.co"
+    ],
+    "allDomains": [
+      "chdbits.co",
+      "ptchdbits.co"
+    ]
+  },
+  {
+    "id": "cinemageddon",
+    "name": "Cinemageddon",
+    "aka": [],
+    "description": "Cinemageddon is a Private Torrent Tracker for B-movies",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://cinemageddon.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cinemageddon.net"
+    ],
+    "allDomains": [
+      "cinemageddon.net"
+    ]
+  },
+  {
+    "id": "cinematik",
+    "name": "Cinematik",
+    "aka": [
+      "tik"
+    ],
+    "description": "",
+    "tags": [
+      "影视,原盘"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://cinematik.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cinematik.net"
+    ],
+    "allDomains": [
+      "cinematik.net"
+    ]
+  },
+  {
+    "id": "cinemaz",
+    "name": "CinemaZ",
+    "aka": [],
+    "description": "CinemaZ is a Private Torrent Tracker for FOREIGN NON-ENGLISH MOVIES / TV / GENERAL",
+    "tags": [
+      "电影",
+      "电视剧",
+      "外语"
+    ],
+    "type": "private",
+    "schema": "AvistazNetwork",
+    "isDead": false,
+    "urls": [
+      "https://cinemaz.to/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cinemaz.to"
+    ],
+    "allDomains": [
+      "cinemaz.to"
+    ]
+  },
+  {
+    "id": "clearjav",
+    "name": "ClearJAV",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "成人",
+      "xxx"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://clearjav.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "clearjav.com"
+    ],
+    "allDomains": [
+      "clearjav.com"
+    ]
+  },
+  {
+    "id": "cnlang",
+    "name": "国语视界",
+    "aka": [],
+    "description": "国语视界音轨组，特效字幕组官方首发论坛，国语音轨和特效字幕的分享基地，蓝光DIY和4K电影爱好者的乐园。",
+    "tags": [
+      "特效字幕",
+      "国语音轨"
+    ],
+    "type": "private",
+    "schema": "Discuz",
+    "isDead": true,
+    "urls": [
+      "https://cnlang.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cnlang.org"
+    ],
+    "allDomains": [
+      "cnlang.org"
+    ]
+  },
+  {
+    "id": "cnscg",
+    "name": "圣城家园PT",
+    "aka": [],
+    "description": "hdscg，cnscg圣城家园PT站点",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.cnscg.club/"
+    ],
+    "legacyUrls": [
+      "https://www.hdscg.cc/"
+    ],
+    "activeDomains": [
+      "cnscg.club"
+    ],
+    "allDomains": [
+      "cnscg.club",
+      "hdscg.cc"
+    ]
+  },
+  {
+    "id": "concen",
+    "name": "ConCen",
+    "aka": [
+      "Conspiracy Central"
+    ],
+    "description": "ConCen (Conspiracy Central) is a Private conspiracy related torrent index",
+    "tags": [],
+    "type": "private",
+    "schema": "",
+    "isDead": true,
+    "urls": [
+      "https://concen.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "concen.org"
+    ],
+    "allDomains": [
+      "concen.org"
+    ]
+  },
+  {
+    "id": "concertos",
+    "name": "Concertos",
+    "aka": [],
+    "description": "Concertos is a Private Torrent Tracker for Live Concerts with Strict Quality Control",
+    "tags": [
+      "音乐",
+      "MV"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://concertos.live/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "concertos.live"
+    ],
+    "allDomains": [
+      "concertos.live"
+    ]
+  },
+  {
+    "id": "crabpt",
+    "name": "CrabPt",
+    "aka": [
+      "蟹黄堡"
+    ],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://crabpt.vip/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "crabpt.vip"
+    ],
+    "allDomains": [
+      "crabpt.vip"
+    ]
+  },
+  {
+    "id": "cspt",
+    "name": "财神",
+    "aka": [
+      "CSPT"
+    ],
+    "description": "财神到，八方来财！",
+    "tags": [
+      "中文",
+      "综合",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://cspt.top/",
+      "https://cspt.cc/",
+      "https://cspt.date/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cspt.cc",
+      "cspt.date",
+      "cspt.top"
+    ],
+    "allDomains": [
+      "cspt.cc",
+      "cspt.date",
+      "cspt.top"
+    ]
+  },
+  {
+    "id": "cyanbug",
+    "name": "CyanBug",
+    "aka": [
+      "大青虫"
+    ],
+    "description": "大青虫们在此聚集",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://cyanbug.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cyanbug.net"
+    ],
+    "allDomains": [
+      "cyanbug.net"
+    ]
+  },
+  {
+    "id": "dabaojian",
+    "name": "大宝剑",
+    "aka": [
+      "大保健"
+    ],
+    "description": "大宝剑是一个中文私有站点，提供电影/剧集/综艺/动漫/纪录片/短剧资源。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.525968.xyz/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "525968.xyz"
+    ],
+    "allDomains": [
+      "525968.xyz"
+    ]
+  },
+  {
+    "id": "dajiao",
+    "name": "DAJIAO",
+    "aka": [
+      "打胶"
+    ],
+    "description": "打胶",
+    "tags": [
+      "综合",
+      "纪录片"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://dajiao.cyou/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "dajiao.cyou"
+    ],
+    "allDomains": [
+      "dajiao.cyou"
+    ]
+  },
+  {
+    "id": "danishbytes",
+    "name": "DanishBytes",
+    "aka": [
+      "DBy"
+    ],
+    "description": "DanishBytes（DBy）是一个丹麦私有站点，提供电影/剧集/音乐/软件/书籍/播客资源。",
+    "tags": [
+      "影视",
+      "音乐",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://danishbytes.club/"
+    ],
+    "legacyUrls": [
+      "https://danishbytes2.org/"
+    ],
+    "activeDomains": [
+      "danishbytes.club"
+    ],
+    "allDomains": [
+      "danishbytes.club",
+      "danishbytes2.org"
+    ]
+  },
+  {
+    "id": "darkland",
+    "name": "Darkland",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://darkland.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "darkland.top"
+    ],
+    "allDomains": [
+      "darkland.top"
+    ]
+  },
+  {
+    "id": "darkpeers",
+    "name": "darkpeers",
+    "aka": [
+      "DP"
+    ],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://darkpeers.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "darkpeers.org"
+    ],
+    "allDomains": [
+      "darkpeers.org"
+    ]
+  },
+  {
+    "id": "datascene",
+    "name": "DataScene",
+    "aka": [
+      "DS"
+    ],
+    "description": "DataScene（DS）是一个罗马尼亚私有站点，提供电影/剧集/综合资源。支持 Unit3D 官方 JSON API（api/torrents/filter）。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://datascene.xyz/"
+    ],
+    "legacyUrls": [
+      "https://datascene.net/"
+    ],
+    "activeDomains": [
+      "datascene.xyz"
+    ],
+    "allDomains": [
+      "datascene.net",
+      "datascene.xyz"
+    ]
+  },
+  {
+    "id": "daxiangjiao",
+    "name": "DaXiangJiao",
+    "aka": [
+      "大象蕉",
+      "大香蕉"
+    ],
+    "description": "DaXiangJiao 私有资源分享站",
+    "tags": [
+      "影视",
+      "综合",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.daxiangjiao.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "daxiangjiao.org"
+    ],
+    "allDomains": [
+      "daxiangjiao.org"
+    ]
+  },
+  {
+    "id": "desigaane",
+    "name": "DesiGaane",
+    "aka": [
+      "DG"
+    ],
+    "description": "DesiGaane is a private tracker focused on Indian music",
+    "tags": [
+      "音楽",
+      "印度音乐"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://desigaane.rocks/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "desigaane.rocks"
+    ],
+    "allDomains": [
+      "desigaane.rocks"
+    ]
+  },
+  {
+    "id": "desitorrents",
+    "name": "DesiTorrents",
+    "aka": [
+      "Desitorrents"
+    ],
+    "description": "DesiTorrents is an INDIAN Private Torrent Tracker for MOVIES / TV",
+    "tags": [
+      "影视",
+      "综合",
+      "印度"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://torrent.desi/",
+      "https://desitorrents.tv/",
+      "https://desitorrents.rocks/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "desitorrents.rocks",
+      "desitorrents.tv",
+      "torrent.desi"
+    ],
+    "allDomains": [
+      "desitorrents.rocks",
+      "desitorrents.tv",
+      "torrent.desi"
+    ]
+  },
+  {
+    "id": "dhtclub",
+    "name": "DHTCLUB PT",
+    "aka": [],
+    "description": "The Ultimate File Sharing Experience",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.dhtclub.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "dhtclub.com"
+    ],
+    "allDomains": [
+      "dhtclub.com"
+    ]
+  },
+  {
+    "id": "dicmusic",
+    "name": "DICMusic",
+    "aka": [
+      "DIC",
+      "海豚"
+    ],
+    "description": "DICMusic 是一个专注于音乐的中文 Gazelle 站点",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://dicmusic.com/"
+    ],
+    "legacyUrls": [
+      "https://dicmusic.club/"
+    ],
+    "activeDomains": [
+      "dicmusic.com"
+    ],
+    "allDomains": [
+      "dicmusic.club",
+      "dicmusic.com"
+    ]
+  },
+  {
+    "id": "digitalcore",
+    "name": "DigitalCore",
+    "aka": [
+      "DC",
+      "DCC"
+    ],
+    "description": "In a world of sharing, people make the difference.",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Rartracker",
+    "isDead": false,
+    "urls": [
+      "https://digitalcore.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "digitalcore.club"
+    ],
+    "allDomains": [
+      "digitalcore.club"
+    ]
+  },
+  {
+    "id": "discfan",
+    "name": "DiscFan",
+    "aka": [
+      "碟粉",
+      "蝶粉"
+    ],
+    "description": "碟粉",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://discfan.net/"
+    ],
+    "legacyUrls": [
+      "https://pt.gztown.net/"
+    ],
+    "activeDomains": [
+      "discfan.net"
+    ],
+    "allDomains": [
+      "discfan.net",
+      "gztown.net"
+    ]
+  },
+  {
+    "id": "dmhy",
+    "name": "動漫花園資源網",
+    "aka": [
+      "動漫花園",
+      "DMHY"
+    ],
+    "description": "動漫花園資訊網是一個動漫愛好者交流的平台,提供最及時,最全面的動畫,漫畫,動漫音樂,動漫下載,BT,ED,動漫遊戲,資訊,分享,交流,讨论.",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://share.dmhy.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "share.dmhy.org"
+    ],
+    "allDomains": [
+      "share.dmhy.org"
+    ]
+  },
+  {
+    "id": "dragonhd",
+    "name": "龍之家",
+    "aka": [
+      "DragonHD"
+    ],
+    "description": "龍之傳人皆兄弟",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.dragonhd.xyz/"
+    ],
+    "legacyUrls": [
+      "https://dragonhd.xyz/"
+    ],
+    "activeDomains": [
+      "dragonhd.xyz"
+    ],
+    "allDomains": [
+      "dragonhd.xyz"
+    ]
+  },
+  {
+    "id": "dstudio",
+    "name": "Depth Studio",
+    "aka": [],
+    "description": "本站主打海外WEB-DL追更",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://dstudio.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "dstudio.me"
+    ],
+    "allDomains": [
+      "dstudio.me"
+    ]
+  },
+  {
+    "id": "dubhe",
+    "name": "天枢",
+    "aka": [
+      "Dubhe"
+    ],
+    "description": "七星图，始于天枢",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://dubhe.site/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "dubhe.site"
+    ],
+    "allDomains": [
+      "dubhe.site"
+    ]
+  },
+  {
+    "id": "dxdhd",
+    "name": "DXDHD",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://dxdhd.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "dxdhd.com"
+    ],
+    "allDomains": [
+      "dxdhd.com"
+    ]
+  },
+  {
+    "id": "ecustpt",
+    "name": "ECUSTPT",
+    "aka": [
+      "花梨月下"
+    ],
+    "description": "华东理工大学PT站，逢考必过",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.ecust.pp.ua/"
+    ],
+    "legacyUrls": [
+      "https://public.ecustpt.eu.org/",
+      "https://ecustpt.eu.org/"
+    ],
+    "activeDomains": [
+      "ecust.pp.ua"
+    ],
+    "allDomains": [
+      "ecust.pp.ua",
+      "ecustpt.eu.org"
+    ]
+  },
+  {
+    "id": "ehentai",
+    "name": "E-Hentai",
+    "aka": [
+      "EH"
+    ],
+    "description": "E-Hentai is a Public site for Hentai doujinshi, manga.",
+    "tags": [
+      "漫画",
+      "成人"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://e-hentai.org/",
+      "https://exhentai.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "e-hentai.org",
+      "exhentai.org"
+    ],
+    "allDomains": [
+      "e-hentai.org",
+      "exhentai.org"
+    ]
+  },
+  {
+    "id": "empornium",
+    "name": "Empornium",
+    "aka": [
+      "EMP",
+      "峨眉派"
+    ],
+    "description": "Empornium (EMP) is a Private Torrent Tracker for 3X.",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": false,
+    "urls": [
+      "https://emparadise.rs/",
+      "https://www.empornium.sx/"
+    ],
+    "legacyUrls": [
+      "https://www.empornium.is/",
+      "https://www.empornium.me/",
+      "https://www.empornium.rs/"
+    ],
+    "activeDomains": [
+      "emparadise.rs",
+      "empornium.sx"
+    ],
+    "allDomains": [
+      "emparadise.rs",
+      "empornium.is",
+      "empornium.me",
+      "empornium.rs",
+      "empornium.sx"
+    ]
+  },
+  {
+    "id": "emuwarez",
+    "name": "eMuwarez",
+    "aka": [
+      "eMz"
+    ],
+    "description": "eMuwarez（eMz）是一个西班牙私有站点，提供电影/剧集/音乐/游戏/软件资源。支持 Unit3D 官方 JSON API（api/torrents/filter）。",
+    "tags": [
+      "影视",
+      "音乐",
+      "游戏",
+      "软件",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://emuwarez.com/"
+    ],
+    "legacyUrls": [
+      "https://emuwarez.it/"
+    ],
+    "activeDomains": [
+      "emuwarez.com"
+    ],
+    "allDomains": [
+      "emuwarez.com",
+      "emuwarez.it"
+    ]
+  },
+  {
+    "id": "exoticaz",
+    "name": "ExoticaZ",
+    "aka": [
+      "Exo",
+      "YourExotic"
+    ],
+    "description": "ExoticaZ (YourExotic) is a Private Torrent Tracker of AvistaZ Network for porn",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "AvistazNetwork",
+    "isDead": false,
+    "urls": [
+      "https://exoticaz.to/"
+    ],
+    "legacyUrls": [
+      "https://torrents.yourexotic.com/"
+    ],
+    "activeDomains": [
+      "exoticaz.to"
+    ],
+    "allDomains": [
+      "exoticaz.to",
+      "yourexotic.com"
+    ]
+  },
+  {
+    "id": "exttorrents",
+    "name": "EXT Torrents",
+    "aka": [],
+    "description": "EXT Torrents is a Public torrent site for MOVIES / TV / GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://ext.to/",
+      "https://search.extto.com/",
+      "https://extranet.torrentbay.st/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ext.to",
+      "extranet.torrentbay.st",
+      "extto.com"
+    ],
+    "allDomains": [
+      "ext.to",
+      "extranet.torrentbay.st",
+      "extto.com"
+    ]
+  },
+  {
+    "id": "fappaizuri",
+    "name": "Fappaizuri",
+    "aka": [],
+    "description": "Fappaizuri is a Private Torrent Tracker for HENTAI / JAV",
+    "tags": [
+      "成人",
+      "xxx"
+    ],
+    "type": "private",
+    "schema": "Fappaizuri",
+    "isDead": false,
+    "urls": [
+      "https://www.fappaizuri.me/"
+    ],
+    "legacyUrls": [
+      "https://fappaizuri.me/"
+    ],
+    "activeDomains": [
+      "fappaizuri.me"
+    ],
+    "allDomains": [
+      "fappaizuri.me"
+    ]
+  },
+  {
+    "id": "fearnopeer",
+    "name": "FearNoPeer",
+    "aka": [
+      "FNP"
+    ],
+    "description": "FearNoPear is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://fearnopeer.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "fearnopeer.com"
+    ],
+    "allDomains": [
+      "fearnopeer.com"
+    ]
+  },
+  {
+    "id": "femdomcult",
+    "name": "Femdomcult",
+    "aka": [],
+    "description": "Femdomcult is a Private Torrent Tracker for FETISH 3X",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": false,
+    "urls": [
+      "https://femdomcult.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "femdomcult.org"
+    ],
+    "allDomains": [
+      "femdomcult.org"
+    ]
+  },
+  {
+    "id": "fhpt",
+    "name": "凤凰PT",
+    "aka": [
+      "FengHuang PT",
+      "521best"
+    ],
+    "description": "个人站，定位小体积压制、WEB-DL 电影资源，全站 Free",
+    "tags": [
+      "影视",
+      "电影",
+      "压制"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.521.best/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "521.best"
+    ],
+    "allDomains": [
+      "521.best"
+    ]
+  },
+  {
+    "id": "filelist",
+    "name": "FileList",
+    "aka": [
+      "FL"
+    ],
+    "description": "罗马尼亚最大的站点",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "FileList",
+    "isDead": false,
+    "urls": [
+      "https://filelist.io/"
+    ],
+    "legacyUrls": [
+      "https://flro.org/"
+    ],
+    "activeDomains": [
+      "filelist.io"
+    ],
+    "allDomains": [
+      "filelist.io",
+      "flro.org"
+    ]
+  },
+  {
+    "id": "filept",
+    "name": "Filept",
+    "aka": [],
+    "description": "The Ultimate File Sharing Experience",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.filept.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "filept.com"
+    ],
+    "allDomains": [
+      "filept.com"
+    ]
+  },
+  {
+    "id": "freefarm",
+    "name": "自由农场",
+    "aka": [
+      "FreeFarm",
+      "Farmm"
+    ],
+    "description": "自由农场",
+    "tags": [
+      "电视剧",
+      "韩剧",
+      "日剧"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.0ff.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "0ff.cc"
+    ],
+    "allDomains": [
+      "0ff.cc"
+    ]
+  },
+  {
+    "id": "fsm",
+    "name": "FSM",
+    "aka": [
+      "飞天拉面神教"
+    ],
+    "description": "FSM（飞天拉面神教）是一家专注于R18内容的PT站点，需要配置搜索入口才可搜索",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "FSM",
+    "isDead": true,
+    "urls": [
+      "https://fsm.name/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "fsm.name"
+    ],
+    "allDomains": [
+      "fsm.name"
+    ]
+  },
+  {
+    "id": "gainbound",
+    "name": "丐帮",
+    "aka": [],
+    "description": "降龙掌青竹杖 美酒佳肴来作伴",
+    "tags": [
+      "高清",
+      "电影",
+      "纪录片"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://gainbound.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "gainbound.net"
+    ],
+    "allDomains": [
+      "gainbound.net"
+    ]
+  },
+  {
+    "id": "gazellegames",
+    "name": "GazelleGames",
+    "aka": [
+      "GGn"
+    ],
+    "description": "GazelleGames is a Private gaming tracker",
+    "tags": [
+      "游戏"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://gazellegames.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "gazellegames.net"
+    ],
+    "allDomains": [
+      "gazellegames.net"
+    ]
+  },
+  {
+    "id": "geminitracker",
+    "name": "GeminiTracker",
+    "aka": [
+      "G3MINI"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://gemini-tracker.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "gemini-tracker.org"
+    ],
+    "allDomains": [
+      "gemini-tracker.org"
+    ]
+  },
+  {
+    "id": "generationfree",
+    "name": "Generation-Free",
+    "aka": [
+      "GF-FREE",
+      "GF"
+    ],
+    "description": "Generation-Free (GF-Free) 是一个法语综合类私有 PT 站点，资源涵盖影视、音乐、书籍、游戏与软件",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://generation-free.org/"
+    ],
+    "legacyUrls": [
+      "https://generation-free.biz/"
+    ],
+    "activeDomains": [
+      "generation-free.org"
+    ],
+    "allDomains": [
+      "generation-free.biz",
+      "generation-free.org"
+    ]
+  },
+  {
+    "id": "gfxpeers",
+    "name": "GFXPeers",
+    "aka": [],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": true,
+    "urls": [
+      "https://gfxpeers.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "gfxpeers.net"
+    ],
+    "allDomains": [
+      "gfxpeers.net"
+    ]
+  },
+  {
+    "id": "ggpt",
+    "name": "GGPT",
+    "aka": [],
+    "description": "gamegamept.com",
+    "tags": [
+      "游戏"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.gamegamept.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "gamegamept.com"
+    ],
+    "allDomains": [
+      "gamegamept.com"
+    ]
+  },
+  {
+    "id": "greatposterwall",
+    "name": "GreatPosterWall",
+    "aka": [
+      "海豹",
+      "GPW"
+    ],
+    "description": "GPW 全名 Great Poster Wall，结合了长城（the Great Wall）、海报墙（Poster Wall）两个词，同时，「海报」谐音「海豹」，所以大家可以在 Logo 上看到一只萌萌的小海豹",
+    "tags": [
+      "电影"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://greatposterwall.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "greatposterwall.com"
+    ],
+    "allDomains": [
+      "greatposterwall.com"
+    ]
+  },
+  {
+    "id": "gtnet",
+    "name": "Gay-Torrents.net",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.gay-torrents.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "gay-torrents.net"
+    ],
+    "allDomains": [
+      "gay-torrents.net"
+    ]
+  },
+  {
+    "id": "gtorg",
+    "name": "Gay-Torrents.Org",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://gay-torrents.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "gay-torrents.org"
+    ],
+    "allDomains": [
+      "gay-torrents.org"
+    ]
+  },
+  {
+    "id": "gtru",
+    "name": "GayTorrent.ru",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.gaytor.rent/"
+    ],
+    "legacyUrls": [
+      "https://www.gaytorrent.ru/"
+    ],
+    "activeDomains": [
+      "gaytor.rent"
+    ],
+    "allDomains": [
+      "gaytor.rent",
+      "gaytorrent.ru"
+    ]
+  },
+  {
+    "id": "haidan",
+    "name": "海胆",
+    "aka": [
+      "海胆之家",
+      "HaiDan"
+    ],
+    "description": "",
+    "tags": [
+      "电影",
+      "电视剧",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.haidan.cc/"
+    ],
+    "legacyUrls": [
+      "https://www.haidan.video/"
+    ],
+    "activeDomains": [
+      "haidan.cc"
+    ],
+    "allDomains": [
+      "haidan.cc",
+      "haidan.video"
+    ]
+  },
+  {
+    "id": "happyfappy",
+    "name": "HappyFappy",
+    "aka": [
+      "HF"
+    ],
+    "description": "",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": false,
+    "urls": [
+      "https://www.happyfappy.net/"
+    ],
+    "legacyUrls": [
+      "https://happyfappy.net/",
+      "https://www.happyfappy.org/"
+    ],
+    "activeDomains": [
+      "happyfappy.net"
+    ],
+    "allDomains": [
+      "happyfappy.net",
+      "happyfappy.org"
+    ]
+  },
+  {
+    "id": "hares",
+    "name": "HaresClub",
+    "aka": [
+      "白兔",
+      "白兔俱乐部"
+    ],
+    "description": "2160p/4k 及以上的高清资源站点",
+    "tags": [
+      "影视",
+      "纪录片",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://club.hares.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hares.top"
+    ],
+    "allDomains": [
+      "hares.top"
+    ]
+  },
+  {
+    "id": "hd4fans",
+    "name": "HD4FANS",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "兽组"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.hd4fans.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hd4fans.org"
+    ],
+    "allDomains": [
+      "hd4fans.org"
+    ]
+  },
+  {
+    "id": "hd4free",
+    "name": "HD4Free",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://hd4.xyz/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hd4.xyz"
+    ],
+    "allDomains": [
+      "hd4.xyz"
+    ]
+  },
+  {
+    "id": "hdai",
+    "name": "HDAI",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.hd.ai/"
+    ],
+    "legacyUrls": [
+      "https://hd.ai/"
+    ],
+    "activeDomains": [
+      "hd.ai"
+    ],
+    "allDomains": [
+      "hd.ai"
+    ]
+  },
+  {
+    "id": "hdarea",
+    "name": "HDArea",
+    "aka": [
+      "高清视界",
+      "好大"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hdarea.club/"
+    ],
+    "legacyUrls": [
+      "https://www.hdarea.co/"
+    ],
+    "activeDomains": [
+      "hdarea.club"
+    ],
+    "allDomains": [
+      "hdarea.club",
+      "hdarea.co"
+    ]
+  },
+  {
+    "id": "hdatmos",
+    "name": "HDATMOS",
+    "aka": [
+      "阿童木"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://hdatmos.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdatmos.club"
+    ],
+    "allDomains": [
+      "hdatmos.club"
+    ]
+  },
+  {
+    "id": "hdbao",
+    "name": "HDBao",
+    "aka": [],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hdbao.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdbao.cc"
+    ],
+    "allDomains": [
+      "hdbao.cc"
+    ]
+  },
+  {
+    "id": "hdbits",
+    "name": "HDBits",
+    "aka": [
+      "HDB"
+    ],
+    "description": "HDBits is a Private site for the HighDefinition Bittorrent Community",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://hdbits.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdbits.org"
+    ],
+    "allDomains": [
+      "hdbits.org"
+    ]
+  },
+  {
+    "id": "hdchina",
+    "name": "HDChina",
+    "aka": [
+      "瓷器"
+    ],
+    "description": "高清影音人士分享乐园",
+    "tags": [
+      "影视",
+      "音乐",
+      "纪录片",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://hdchina.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdchina.org"
+    ],
+    "allDomains": [
+      "hdchina.org"
+    ]
+  },
+  {
+    "id": "hdcity",
+    "name": "HDCity",
+    "aka": [
+      "城市"
+    ],
+    "description": "",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hdcity.city/",
+      "https://hdcity.leniter.org/",
+      "https://hdcity.work/"
+    ],
+    "legacyUrls": [
+      "https://hdcity.top/"
+    ],
+    "activeDomains": [
+      "hdcity.city",
+      "hdcity.leniter.org",
+      "hdcity.work"
+    ],
+    "allDomains": [
+      "hdcity.city",
+      "hdcity.leniter.org",
+      "hdcity.top",
+      "hdcity.work"
+    ]
+  },
+  {
+    "id": "hdclone",
+    "name": "HDClone",
+    "aka": [],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.hdclone.top/"
+    ],
+    "legacyUrls": [
+      "https://pt.hdclone.org/"
+    ],
+    "activeDomains": [
+      "hdclone.top"
+    ],
+    "allDomains": [
+      "hdclone.org",
+      "hdclone.top"
+    ]
+  },
+  {
+    "id": "hddisk",
+    "name": "HDDisk",
+    "aka": [
+      "HDD"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://hddisk.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hddisk.org"
+    ],
+    "allDomains": [
+      "hddisk.org"
+    ]
+  },
+  {
+    "id": "hddolby",
+    "name": "HD Dolby",
+    "aka": [
+      "高清杜比"
+    ],
+    "description": "高清杜比",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.hddolby.com/"
+    ],
+    "legacyUrls": [
+      "https://hddolby.com/"
+    ],
+    "activeDomains": [
+      "hddolby.com"
+    ],
+    "allDomains": [
+      "hddolby.com"
+    ]
+  },
+  {
+    "id": "hdf",
+    "name": "HD-Forever",
+    "aka": [
+      "HD-F",
+      "HDF"
+    ],
+    "description": "HD-Forever (HD-F) is a FRENCH Private Torrent Tracker for HD MOVIES",
+    "tags": [
+      "法国"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://hdf.world/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdf.world"
+    ],
+    "allDomains": [
+      "hdf.world"
+    ]
+  },
+  {
+    "id": "hdfans",
+    "name": "HDFans",
+    "aka": [
+      "红豆饭"
+    ],
+    "description": "与志同道合之人前行 分享更多值得珍藏的资源",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hdfans.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdfans.org"
+    ],
+    "allDomains": [
+      "hdfans.org"
+    ]
+  },
+  {
+    "id": "hdhome",
+    "name": "HDHome",
+    "aka": [
+      "家园"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hdhome.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdhome.org"
+    ],
+    "allDomains": [
+      "hdhome.org"
+    ]
+  },
+  {
+    "id": "hdkylin",
+    "name": "HDKylin",
+    "aka": [
+      "麒麟"
+    ],
+    "description": "与志同道合之人前行 分享更多值得珍藏的资源",
+    "tags": [
+      "综合",
+      "电影",
+      "电视剧",
+      "纪录片"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.hdkyl.in/",
+      "https://na.hdkylin.com/",
+      "https://cf.hdkylin.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdkyl.in",
+      "hdkylin.com"
+    ],
+    "allDomains": [
+      "hdkyl.in",
+      "hdkylin.com"
+    ]
+  },
+  {
+    "id": "hdmayi",
+    "name": "HDmayi",
+    "aka": [
+      "小蚂蚁PT",
+      "XiaoMayi"
+    ],
+    "description": "非商业,有电影情怀,真电影爱好者",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "http://hdmayi.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdmayi.com"
+    ],
+    "allDomains": [
+      "hdmayi.com"
+    ]
+  },
+  {
+    "id": "hdpost",
+    "name": "HDPOST",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "电影",
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://pt.hdpost.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdpost.top"
+    ],
+    "allDomains": [
+      "hdpost.top"
+    ]
+  },
+  {
+    "id": "hdpt",
+    "name": "明教",
+    "aka": [],
+    "description": "综合性的PT论坛    欢迎您的加入！",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://hdpt.xyz/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdpt.xyz"
+    ],
+    "allDomains": [
+      "hdpt.xyz"
+    ]
+  },
+  {
+    "id": "hdroute",
+    "name": "HDRoute",
+    "aka": [],
+    "description": "HDRoute - 高清影视资源站点",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "http://hdroute.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdroute.org"
+    ],
+    "allDomains": [
+      "hdroute.org"
+    ]
+  },
+  {
+    "id": "hdsky",
+    "name": "HDSky",
+    "aka": [
+      "HDS",
+      "天空"
+    ],
+    "description": "高清发烧友后花园PT",
+    "tags": [
+      "影视",
+      "纪录片",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hdsky.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdsky.me"
+    ],
+    "allDomains": [
+      "hdsky.me"
+    ]
+  },
+  {
+    "id": "hdspace",
+    "name": "HD-Space",
+    "aka": [
+      "HD-S"
+    ],
+    "description": "HD-Space (HDS) is a Private Torrent Tracker for HD MOVIES / TV",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "XBTIT",
+    "isDead": false,
+    "urls": [
+      "https://hd-space.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hd-space.org"
+    ],
+    "allDomains": [
+      "hd-space.org"
+    ]
+  },
+  {
+    "id": "hdstreet",
+    "name": "高清街",
+    "aka": [],
+    "description": "高清街专注于华语影视俱乐部",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://hdstreet.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdstreet.club"
+    ],
+    "allDomains": [
+      "hdstreet.club"
+    ]
+  },
+  {
+    "id": "hdtime",
+    "name": "HDTime",
+    "aka": [
+      "时间",
+      "时光"
+    ],
+    "description": "HDTime, time to forever!",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hdtime.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdtime.org"
+    ],
+    "allDomains": [
+      "hdtime.org"
+    ]
+  },
+  {
+    "id": "hdtorrents",
+    "name": "HD-Torrents",
+    "aka": [
+      "HDT"
+    ],
+    "description": "HD-Torrents is a private tracker for HD content.",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "XBTIT",
+    "isDead": false,
+    "urls": [
+      "https://hd-torrents.org/",
+      "https://hd-torrents.net/",
+      "https://hd-torrents.me/",
+      "https://hdts.ru/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hd-torrents.me",
+      "hd-torrents.net",
+      "hd-torrents.org",
+      "hdts.ru"
+    ],
+    "allDomains": [
+      "hd-torrents.me",
+      "hd-torrents.net",
+      "hd-torrents.org",
+      "hdts.ru"
+    ]
+  },
+  {
+    "id": "hdunited",
+    "name": "HD-UNiT3D",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://hd-united.vn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hd-united.vn"
+    ],
+    "allDomains": [
+      "hd-united.vn"
+    ]
+  },
+  {
+    "id": "hdupt",
+    "name": "HDU",
+    "aka": [
+      "好多油"
+    ],
+    "description": "这是一个尊重版权的私有资源PT分享站点HDU。高清有你，你有UPXIN",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.hdupt.com/",
+      "https://pt.upxin.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdupt.com",
+      "upxin.net"
+    ],
+    "allDomains": [
+      "hdupt.com",
+      "upxin.net"
+    ]
+  },
+  {
+    "id": "hdvideo",
+    "name": "HDVideo",
+    "aka": [],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hdvideo.top/"
+    ],
+    "legacyUrls": [
+      "https://hdvideo.one/"
+    ],
+    "activeDomains": [
+      "hdvideo.top"
+    ],
+    "allDomains": [
+      "hdvideo.one",
+      "hdvideo.top"
+    ]
+  },
+  {
+    "id": "hdzone",
+    "name": "HDZone",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "电影"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://hdfun.me/"
+    ],
+    "legacyUrls": [
+      "https://hdzone.me/"
+    ],
+    "activeDomains": [
+      "hdfun.me"
+    ],
+    "allDomains": [
+      "hdfun.me",
+      "hdzone.me"
+    ]
+  },
+  {
+    "id": "hellenichd",
+    "name": "HELLENIC-HD",
+    "aka": [],
+    "description": "HELLENIC-HD 是一个希腊私有站点，提供电影/剧集/音乐/游戏/软件/书籍/体育资源。支持 Unit3D 官方 JSON API（api/torrents/filter）。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://hellenic-hd.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hellenic-hd.cc"
+    ],
+    "allDomains": [
+      "hellenic-hd.cc"
+    ]
+  },
+  {
+    "id": "hhanclub",
+    "name": "憨憨",
+    "aka": [
+      "HHanClub"
+    ],
+    "description": "",
+    "tags": [
+      "电影",
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hhanclub.net/"
+    ],
+    "legacyUrls": [
+      "https://hhanclub.top/"
+    ],
+    "activeDomains": [
+      "hhanclub.net"
+    ],
+    "allDomains": [
+      "hhanclub.net",
+      "hhanclub.top"
+    ]
+  },
+  {
+    "id": "hitpt",
+    "name": "百川PT",
+    "aka": [
+      "百川PT"
+    ],
+    "description": "校内10兆高速下载，优质高清资源共享！",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.hitpt.com/"
+    ],
+    "legacyUrls": [
+      "https://pt.ghtt.net/"
+    ],
+    "activeDomains": [
+      "hitpt.com"
+    ],
+    "allDomains": [
+      "ghtt.net",
+      "hitpt.com"
+    ]
+  },
+  {
+    "id": "homiehelpdesk",
+    "name": "HomieHelpdesk",
+    "aka": [
+      "HHD"
+    ],
+    "description": "HomieHelpdesk（HHD）是一个私有站点，提供电影/剧集/动漫/音乐/游戏/软件/书籍资源。支持 Unit3D 官方 JSON API（api/torrents/filter）。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://homiehelpdesk.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "homiehelpdesk.net"
+    ],
+    "allDomains": [
+      "homiehelpdesk.net"
+    ]
+  },
+  {
+    "id": "hqmusic",
+    "name": "HQMusic",
+    "aka": [],
+    "description": "HQMusic 是一个越南音乐私有站点。",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://tracker.hqmusic.info/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hqmusic.info"
+    ],
+    "allDomains": [
+      "hqmusic.info"
+    ]
+  },
+  {
+    "id": "hspt",
+    "name": "回声PT",
+    "aka": [],
+    "description": "近来可好？",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://hspt.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hspt.club"
+    ],
+    "allDomains": [
+      "hspt.club"
+    ]
+  },
+  {
+    "id": "htpt",
+    "name": "海棠PT",
+    "aka": [
+      "海棠曲艺园",
+      "海棠"
+    ],
+    "description": "主打曲艺、戏曲、相声、评书、小品、广播剧、有声小说等中国传统有声资源",
+    "tags": [
+      "曲艺",
+      "小品",
+      "有声小说"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.htpt.cc/",
+      "https://htpt.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "htpt.cc"
+    ],
+    "allDomains": [
+      "htpt.cc"
+    ]
+  },
+  {
+    "id": "hudbt",
+    "name": "蝴蝶-HUDBT",
+    "aka": [],
+    "description": "HUDBT,教育网高速IPv6BT下载站。",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://hudbt.hust.edu.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hudbt.hust.edu.cn"
+    ],
+    "allDomains": [
+      "hudbt.hust.edu.cn"
+    ]
+  },
+  {
+    "id": "huno",
+    "name": "HUNO",
+    "aka": [],
+    "description": "HAWKE-UNO IS A HAWKE-ONE SERVICE POWERED BY UNIT3D.",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://hawke.uno/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hawke.uno"
+    ],
+    "allDomains": [
+      "hawke.uno"
+    ]
+  },
+  {
+    "id": "hxpt",
+    "name": "好学",
+    "aka": [
+      "HXPT"
+    ],
+    "description": "好学者如春苗，日有所长；心向学，梦有光！",
+    "tags": [
+      "学习"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.hxpt.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hxpt.org"
+    ],
+    "allDomains": [
+      "hxpt.org"
+    ]
+  },
+  {
+    "id": "ianon",
+    "name": "iAnon",
+    "aka": [],
+    "description": "iAnon is a Private MacOS software tracker",
+    "tags": [
+      "Apple",
+      "macOS",
+      "软件"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": true,
+    "urls": [
+      "https://ianon.app/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ianon.app"
+    ],
+    "allDomains": [
+      "ianon.app"
+    ]
+  },
+  {
+    "id": "icc2022",
+    "name": "ICC",
+    "aka": [
+      "冰淇淋"
+    ],
+    "description": "冰淇淋",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.icc2022.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "icc2022.com"
+    ],
+    "allDomains": [
+      "icc2022.com"
+    ]
+  },
+  {
+    "id": "ihdbits",
+    "name": "iHDBits",
+    "aka": [],
+    "description": "The Ultimate File Sharing Experience",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "http://ihdbits.me/",
+      "https://pt.newworld.plus/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ihdbits.me",
+      "newworld.plus"
+    ],
+    "allDomains": [
+      "ihdbits.me",
+      "newworld.plus"
+    ]
+  },
+  {
+    "id": "ilolicon",
+    "name": "ilolicon",
+    "aka": [
+      "爱萝莉"
+    ],
+    "description": "主打动漫，追番和萝莉资源，兼顾热门国漫和爆款剧集的连载，设有影视对比区和专业级画质对比bbcode的站点。",
+    "tags": [
+      "萝莉",
+      "动漫",
+      "成人",
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://mua.xloli.cc/"
+    ],
+    "legacyUrls": [
+      "https://share.ilolicon.com/"
+    ],
+    "activeDomains": [
+      "xloli.cc"
+    ],
+    "allDomains": [
+      "ilolicon.com",
+      "xloli.cc"
+    ]
+  },
+  {
+    "id": "iptorrents",
+    "name": "IPTorrents",
+    "aka": [
+      "IPT"
+    ],
+    "description": "IPTorrents - #1 Private Tracker",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://iptorrents.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "iptorrents.com"
+    ],
+    "allDomains": [
+      "iptorrents.com"
+    ]
+  },
+  {
+    "id": "itzmx",
+    "name": "PT分享站",
+    "aka": [],
+    "description": "PT分享",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.itzmx.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pt.itzmx.com"
+    ],
+    "allDomains": [
+      "pt.itzmx.com"
+    ]
+  },
+  {
+    "id": "joyhd",
+    "name": "JoyHD",
+    "aka": [],
+    "description": "JoyHD成立於2013年，發佈藍光原碟，藍光DIY和原抓音樂。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.joyhd.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "joyhd.net"
+    ],
+    "allDomains": [
+      "joyhd.net"
+    ]
+  },
+  {
+    "id": "jpopsuki",
+    "name": "JPopSuki",
+    "aka": [
+      "JPS",
+      "JPOP"
+    ],
+    "description": "JPopSuki是一个专注于日本音乐的音乐PT站点",
+    "tags": [
+      "音乐",
+      "日韩"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://jpopsuki.eu/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "jpopsuki.eu"
+    ],
+    "allDomains": [
+      "jpopsuki.eu"
+    ]
+  },
+  {
+    "id": "jptv4us",
+    "name": "JPTV4us",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://jptv4.us/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "jptv4.us"
+    ],
+    "allDomains": [
+      "jptv4.us"
+    ]
+  },
+  {
+    "id": "jptvclub",
+    "name": "JPTVClub",
+    "aka": [],
+    "description": "JPTV.club 是一个专注于日本电视剧、电影和 FANRES（粉丝录像）资源的私有高清种子社区库",
+    "tags": [
+      "影视",
+      "剧集",
+      "动漫"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://jptv.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "jptv.club"
+    ],
+    "allDomains": [
+      "jptv.club"
+    ]
+  },
+  {
+    "id": "kamept",
+    "name": "KamePT",
+    "aka": [
+      "龟站"
+    ],
+    "description": "主打二次元同人AV的站点",
+    "tags": [
+      "成人",
+      "COS",
+      "动漫",
+      "音乐",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://kamept.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "kamept.com"
+    ],
+    "allDomains": [
+      "kamept.com"
+    ]
+  },
+  {
+    "id": "karagarga",
+    "name": "KaraGarga",
+    "aka": [
+      "KG"
+    ],
+    "description": "KaraGarga is a private tracker for non-mainstream movies, music and literature.",
+    "tags": [
+      "电影",
+      "音乐",
+      "文学"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://karagarga.in/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "karagarga.in"
+    ],
+    "allDomains": [
+      "karagarga.in"
+    ]
+  },
+  {
+    "id": "keepfrds",
+    "name": "PT@KEEPFRDS",
+    "aka": [
+      "FRDS",
+      "朋友"
+    ],
+    "description": "KEEP FRIENDS 专注于小而美的分享，给大家带来更多更优的视听体验。 Let us keep friends forever!",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.keepfrds.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "keepfrds.com"
+    ],
+    "allDomains": [
+      "keepfrds.com"
+    ]
+  },
+  {
+    "id": "kelu",
+    "name": "Kelu",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://our.kelu.one/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "our.kelu.one"
+    ],
+    "allDomains": [
+      "our.kelu.one"
+    ]
+  },
+  {
+    "id": "kimoji",
+    "name": "KIMOJI",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://kimoji.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "kimoji.club"
+    ],
+    "allDomains": [
+      "kimoji.club"
+    ]
+  },
+  {
+    "id": "kufei",
+    "name": "库非",
+    "aka": [
+      "Kufei"
+    ],
+    "description": "库非资源下载分享",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://kufei.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "kufei.org"
+    ],
+    "allDomains": [
+      "kufei.org"
+    ]
+  },
+  {
+    "id": "kufirc",
+    "name": "kufirc",
+    "aka": [
+      "kf"
+    ],
+    "description": "XXX Animal",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": false,
+    "urls": [
+      "https://kufirc.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "kufirc.com"
+    ],
+    "allDomains": [
+      "kufirc.com"
+    ]
+  },
+  {
+    "id": "kunlun",
+    "name": "昆仑",
+    "aka": [
+      "Kunlun",
+      "YHPP"
+    ],
+    "description": "生生不息，相伴永恒",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.yhpp.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "yhpp.cc"
+    ],
+    "allDomains": [
+      "yhpp.cc"
+    ]
+  },
+  {
+    "id": "lajidui",
+    "name": "lajidui",
+    "aka": [
+      "垃圾堆"
+    ],
+    "description": "极致文件共享体验",
+    "tags": [
+      "综合",
+      "影视综艺",
+      "游戏软件",
+      "电子书"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.lajidui.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "lajidui.top"
+    ],
+    "allDomains": [
+      "lajidui.top"
+    ]
+  },
+  {
+    "id": "latteam",
+    "name": "LAT-Team",
+    "aka": [],
+    "description": "LAT-Team is a UNIT3D Private Torrent Tracker for Latin content.",
+    "tags": [
+      "西班牙语"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://lat-team.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "lat-team.com"
+    ],
+    "allDomains": [
+      "lat-team.com"
+    ]
+  },
+  {
+    "id": "learnflakes",
+    "name": "LearnFlakes",
+    "aka": [],
+    "description": "LearnFlakes is a Private Torrent Tracker for CERTIFICATE / TRAINING E-LEARNING（IT 认证与在线培训课程）",
+    "tags": [
+      "学习"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://learnflakes.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "learnflakes.net"
+    ],
+    "allDomains": [
+      "learnflakes.net"
+    ]
+  },
+  {
+    "id": "lemonhd",
+    "name": "LemonHD",
+    "aka": [
+      "柠檬不酸"
+    ],
+    "description": "柠檬不酸",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://lemonhd.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "lemonhd.club"
+    ],
+    "allDomains": [
+      "lemonhd.club"
+    ]
+  },
+  {
+    "id": "lemonhdnet",
+    "name": "柠檬不甜",
+    "aka": [],
+    "description": "柠檬不甜",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://lemonhd.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "lemonhd.net"
+    ],
+    "allDomains": [
+      "lemonhd.net"
+    ]
+  },
+  {
+    "id": "lemonhdorg",
+    "name": "LemonHD",
+    "aka": [
+      "柠檬",
+      "LeagueHD"
+    ],
+    "description": "LemonHD（原名 LeagueHD）是一个专注于高清资源的中文私密种子分享站点，主要提供电影、电视剧以及综合类别内容。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://lemonhd.org/"
+    ],
+    "legacyUrls": [
+      "https://leaguehd.com/"
+    ],
+    "activeDomains": [
+      "lemonhd.org"
+    ],
+    "allDomains": [
+      "leaguehd.com",
+      "lemonhd.org"
+    ]
+  },
+  {
+    "id": "longpt",
+    "name": "LongPT",
+    "aka": [
+      "LongPT",
+      "龙PT"
+    ],
+    "description": "长长久久，平平安安！",
+    "tags": [
+      "综合",
+      "影视",
+      "动漫",
+      "有声书"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://longpt.org/",
+      "https://wiiii.dpdns.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "longpt.org",
+      "wiiii.dpdns.org"
+    ],
+    "allDomains": [
+      "longpt.org",
+      "wiiii.dpdns.org"
+    ]
+  },
+  {
+    "id": "losslessclub",
+    "name": "LosslessClub",
+    "aka": [],
+    "description": "LosslessClub is a RUSSIAN Private Torrent Tracker for High Quality Music（无损音乐）",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://losslessclub.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "losslessclub.com"
+    ],
+    "allDomains": [
+      "losslessclub.com"
+    ]
+  },
+  {
+    "id": "lpbits",
+    "name": "LP-Bits",
+    "aka": [
+      "LP-Bits 2.0"
+    ],
+    "description": "LP-Bits 是专注于 Linkin Park 音乐发布的私有站点。",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://lp-bits.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "lp-bits.com"
+    ],
+    "allDomains": [
+      "lp-bits.com"
+    ]
+  },
+  {
+    "id": "lst",
+    "name": "LST",
+    "aka": [],
+    "description": "Something cool",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://lst.gg/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "lst.gg"
+    ],
+    "allDomains": [
+      "lst.gg"
+    ]
+  },
+  {
+    "id": "luckpt",
+    "name": "LuckPT",
+    "aka": [],
+    "description": "汇聚多元精彩，启程旋律之旅。",
+    "tags": [
+      "影视",
+      "综合",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.luckpt.de/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "luckpt.de"
+    ],
+    "allDomains": [
+      "luckpt.de"
+    ]
+  },
+  {
+    "id": "luminarr",
+    "name": "Luminarr",
+    "aka": [
+      "LUME"
+    ],
+    "description": "Luminarr is a Private Torrent Tracker for MOVIES / TV",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://luminarr.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "luminarr.me"
+    ],
+    "allDomains": [
+      "luminarr.me"
+    ]
+  },
+  {
+    "id": "lztr",
+    "name": "LzTr",
+    "aka": [],
+    "description": "LzTr is a Private site for Original Soundtracks and Classical Music（原声带与古典音乐）",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://lztr.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "lztr.me"
+    ],
+    "allDomains": [
+      "lztr.me"
+    ]
+  },
+  {
+    "id": "march",
+    "name": "March-Media",
+    "aka": [
+      "三月传媒"
+    ],
+    "description": "分享所爱，开放交流",
+    "tags": [
+      "WEB",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://duckboobee.org/",
+      "https://marchcms.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "duckboobee.org",
+      "marchcms.org"
+    ],
+    "allDomains": [
+      "duckboobee.org",
+      "marchcms.org"
+    ]
+  },
+  {
+    "id": "midnightscene",
+    "name": "MidnightScene",
+    "aka": [
+      "MS"
+    ],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://midnightscene.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "midnightscene.cc"
+    ],
+    "allDomains": [
+      "midnightscene.cc"
+    ]
+  },
+  {
+    "id": "milkie",
+    "name": "Milkie",
+    "aka": [
+      "ME",
+      "奶昔"
+    ],
+    "description": "Milkie.cc (ME) is Private Torrent Tracker for 0DAY / GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://milkie.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "milkie.cc"
+    ],
+    "allDomains": [
+      "milkie.cc"
+    ]
+  },
+  {
+    "id": "minept",
+    "name": "MINE.pt",
+    "aka": [
+      "MINE",
+      "地雷站",
+      "矿站"
+    ],
+    "description": "国内首个使用meanTorrent架构站点",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "meanTorrent",
+    "isDead": true,
+    "urls": [
+      "https://mine.pt/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "mine.pt"
+    ],
+    "allDomains": [
+      "mine.pt"
+    ]
+  },
+  {
+    "id": "moecat",
+    "name": "MoeCat",
+    "aka": [],
+    "description": "让我成为你的双眼，把那世界万千，描绘在你面前。",
+    "tags": [
+      "动漫",
+      "电影",
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://moecat.best/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "moecat.best"
+    ],
+    "allDomains": [
+      "moecat.best"
+    ]
+  },
+  {
+    "id": "momentpt",
+    "name": "MomentPT",
+    "aka": [
+      "瞬间"
+    ],
+    "description": "Moment 是摄影爱好者的净土。只有影像与心灵的对话，故本站禁止发布影视资源，望谅解",
+    "tags": [
+      "摄影",
+      "图片",
+      "艺术"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.momentpt.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "momentpt.top"
+    ],
+    "allDomains": [
+      "momentpt.top"
+    ]
+  },
+  {
+    "id": "monikadesign",
+    "name": "Monikadesign",
+    "aka": [
+      "MDU",
+      "莫妮卡"
+    ],
+    "description": "",
+    "tags": [
+      "动漫"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://monikadesign.uk/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "monikadesign.uk"
+    ],
+    "allDomains": [
+      "monikadesign.uk"
+    ]
+  },
+  {
+    "id": "mooko",
+    "name": "MooKo",
+    "aka": [],
+    "description": "MooKo is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": true,
+    "urls": [
+      "https://mooko.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "mooko.org"
+    ],
+    "allDomains": [
+      "mooko.org"
+    ]
+  },
+  {
+    "id": "morethantv",
+    "name": "MoreThanTV",
+    "aka": [
+      "MTV"
+    ],
+    "description": "MoreThanTV is a Private Torrent Tracker for TV / MOVIES",
+    "tags": [
+      "电视剧",
+      "剧集",
+      "电影"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": true,
+    "urls": [
+      "https://www.morethantv.me/"
+    ],
+    "legacyUrls": [
+      "https://www.morethan.tv/"
+    ],
+    "activeDomains": [
+      "morethantv.me"
+    ],
+    "allDomains": [
+      "morethan.tv",
+      "morethantv.me"
+    ]
+  },
+  {
+    "id": "mteam",
+    "name": "M-Team - TP",
+    "aka": [
+      "MTeam",
+      "馒头"
+    ],
+    "description": "综合性网站，有分享率要求",
+    "tags": [
+      "影视",
+      "综合",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "mTorrent",
+    "isDead": false,
+    "urls": [
+      "https://kp.m-team.cc/",
+      "https://zp.m-team.io/",
+      "https://ob.m-team.cc/",
+      "https://h5.m-team.cc/"
+    ],
+    "legacyUrls": [
+      "https://xp.m-team.io/",
+      "https://pt.m-team.cc/",
+      "https://tp.m-team.cc/",
+      "https://xp.m-team.cc/",
+      "https://ap.m-team.cc/",
+      "https://next.m-team.cc/"
+    ],
+    "activeDomains": [
+      "m-team.cc",
+      "m-team.io"
+    ],
+    "allDomains": [
+      "m-team.cc",
+      "m-team.io"
+    ]
+  },
+  {
+    "id": "musopia",
+    "name": "音乐乌托邦",
+    "aka": [],
+    "description": "汇聚每一个人的影响力，让音乐流行起来吧！",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.musopia.vip/",
+      "https://pt.xzt.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "musopia.vip",
+      "xzt.me"
+    ],
+    "allDomains": [
+      "musopia.vip",
+      "xzt.me"
+    ]
+  },
+  {
+    "id": "muxuege",
+    "name": "慕雪阁",
+    "aka": [],
+    "description": "慕雪阁 - 有一峰名清静峰，峰内有一阁，名为慕雪阁，阁主慕雪，阁内有大量高阶功法！",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.muxuege.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "muxuege.org"
+    ],
+    "allDomains": [
+      "muxuege.org"
+    ]
+  },
+  {
+    "id": "myanonamouse",
+    "name": "MyAnonamouse",
+    "aka": [
+      "MAM"
+    ],
+    "description": "Friendliness, Warmth and Sharing",
+    "tags": [
+      "电子书",
+      "有声书"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://www.myanonamouse.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "myanonamouse.net"
+    ],
+    "allDomains": [
+      "myanonamouse.net"
+    ]
+  },
+  {
+    "id": "mypt",
+    "name": "MyPT",
+    "aka": [
+      "我的PT"
+    ],
+    "description": "我的PT(CC) | 人類資源庫",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://cc.mypt.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "mypt.cc"
+    ],
+    "allDomains": [
+      "mypt.cc"
+    ]
+  },
+  {
+    "id": "nanyangpt",
+    "name": "南洋PT",
+    "aka": [],
+    "description": "网站由西安交通大学学生自主创建与管理，汇集学习资料、纪录片、电影、剧集等各类优质资源",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://nanyangpt.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "nanyangpt.com"
+    ],
+    "allDomains": [
+      "nanyangpt.com"
+    ]
+  },
+  {
+    "id": "ncore",
+    "name": "nCore",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "匈牙利"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://ncore.pro/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ncore.pro"
+    ],
+    "allDomains": [
+      "ncore.pro"
+    ]
+  },
+  {
+    "id": "nebulance",
+    "name": "Nebulance",
+    "aka": [
+      "NBL"
+    ],
+    "description": "Nebulance is a Private site. At Nebulance we will change the way you think about TV.",
+    "tags": [
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://nebulance.io/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "nebulance.io"
+    ],
+    "allDomains": [
+      "nebulance.io"
+    ]
+  },
+  {
+    "id": "nekobt",
+    "name": "nekoBT",
+    "aka": [],
+    "description": "nekoBT is a Public Torrent Tracker for ANIME",
+    "tags": [
+      "动漫"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://nekobt.to/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "nekobt.to"
+    ],
+    "allDomains": [
+      "nekobt.to"
+    ]
+  },
+  {
+    "id": "neu6",
+    "name": "六维空间",
+    "aka": [],
+    "description": "东北大学ipv6资源分享平台",
+    "tags": [
+      "教育网",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "http://bt.neu6.edu.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bt.neu6.edu.cn"
+    ],
+    "allDomains": [
+      "bt.neu6.edu.cn"
+    ]
+  },
+  {
+    "id": "nexushd",
+    "name": "NexusHD",
+    "aka": [],
+    "description": "国内第一个创建并使用NexusPHP架构的PT站",
+    "tags": [
+      "教育网"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://v6.nexushd.org/",
+      "https://www.nexushd.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "nexushd.org"
+    ],
+    "allDomains": [
+      "nexushd.org"
+    ]
+  },
+  {
+    "id": "nicept",
+    "name": "NicePT",
+    "aka": [
+      "老师"
+    ],
+    "description": "老师",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.nicept.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "nicept.net"
+    ],
+    "allDomains": [
+      "nicept.net"
+    ]
+  },
+  {
+    "id": "njtupt",
+    "name": "浦园",
+    "aka": [],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://njtupt.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "njtupt.top"
+    ],
+    "allDomains": [
+      "njtupt.top"
+    ]
+  },
+  {
+    "id": "nordicbytes",
+    "name": "NordicBytes",
+    "aka": [
+      "NBy",
+      "DanishBytes"
+    ],
+    "description": "NordicBytes is a Private Torrent Tracker for NORDIC content",
+    "tags": [
+      "北欧"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://nordicbytes.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "nordicbytes.org"
+    ],
+    "allDomains": [
+      "nordicbytes.org"
+    ]
+  },
+  {
+    "id": "nordicquality",
+    "name": "NordicQuality",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "北欧"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://nordicq.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "nordicq.org"
+    ],
+    "allDomains": [
+      "nordicq.org"
+    ]
+  },
+  {
+    "id": "novahd",
+    "name": "NovaHD",
+    "aka": [
+      "星云"
+    ],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.novahd.top/",
+      "https://tracker.novahd.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "novahd.top"
+    ],
+    "allDomains": [
+      "novahd.top"
+    ]
+  },
+  {
+    "id": "npupt",
+    "name": "NPUBits",
+    "aka": [
+      "蒲公英"
+    ],
+    "description": "界面独具一格的教育网站点",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://npupt.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "npupt.com"
+    ],
+    "allDomains": [
+      "npupt.com"
+    ]
+  },
+  {
+    "id": "nwsuaf6",
+    "name": "麦田PT",
+    "aka": [],
+    "description": "西北农林科技大学ipv6资源分享平台",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.nwsuaf6.edu.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pt.nwsuaf6.edu.cn"
+    ],
+    "allDomains": [
+      "pt.nwsuaf6.edu.cn"
+    ]
+  },
+  {
+    "id": "nyaa",
+    "name": "Nyaa",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://nyaa.si/",
+      "https://sukebei.nyaa.si/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "nyaa.si"
+    ],
+    "allDomains": [
+      "nyaa.si"
+    ]
+  },
+  {
+    "id": "okpt",
+    "name": "OKPT",
+    "aka": [],
+    "description": "做你最好的新手村",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.okpt.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "okpt.net"
+    ],
+    "allDomains": [
+      "okpt.net"
+    ]
+  },
+  {
+    "id": "oldtoonsworld",
+    "name": "OldToonsWorld",
+    "aka": [
+      "OTW"
+    ],
+    "description": "Old Toons World (OTW) is a Private Torrent Tracker for ANIMATED MOVIES / TV",
+    "tags": [
+      "动画",
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://oldtoons.world/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "oldtoons.world"
+    ],
+    "allDomains": [
+      "oldtoons.world"
+    ]
+  },
+  {
+    "id": "onlyencodes",
+    "name": "OnlyEncodes+",
+    "aka": [
+      "OE"
+    ],
+    "description": "Encodes Live Here, Now with More!",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://onlyencodes.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "onlyencodes.cc"
+    ],
+    "allDomains": [
+      "onlyencodes.cc"
+    ]
+  },
+  {
+    "id": "opencd",
+    "name": "OpenCD",
+    "aka": [
+      "皇后"
+    ],
+    "description": "皇后，专一的音乐类PT站，是目前国内最大的无损音乐PT",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://open.cd/",
+      "https://www.open.cd/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "open.cd"
+    ],
+    "allDomains": [
+      "open.cd"
+    ]
+  },
+  {
+    "id": "oppaiti",
+    "name": "Oppaitime",
+    "aka": [],
+    "description": "成人动漫站",
+    "tags": [
+      "动画",
+      "漫画",
+      "游戏",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": true,
+    "urls": [
+      "https://oppaiti.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "oppaiti.me"
+    ],
+    "allDomains": [
+      "oppaiti.me"
+    ]
+  },
+  {
+    "id": "orpheus",
+    "name": "Orpheus",
+    "aka": [
+      "OPS"
+    ],
+    "description": "Orpheus is a music-focused private tracker, successor to RED",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://orpheus.network/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "orpheus.network"
+    ],
+    "allDomains": [
+      "orpheus.network"
+    ]
+  },
+  {
+    "id": "oshenpt",
+    "name": "OshenPT",
+    "aka": [
+      "奥申"
+    ],
+    "description": "我为人人，人人为我，只为分享不为盈利",
+    "tags": [
+      "综合",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.oshen.win/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "oshen.win"
+    ],
+    "allDomains": [
+      "oshen.win"
+    ]
+  },
+  {
+    "id": "ourbits",
+    "name": "OurBits",
+    "aka": [
+      "我堡",
+      "OB"
+    ],
+    "description": "综合性网站，有分享率要求",
+    "tags": [
+      "影视",
+      "动漫",
+      "纪录片",
+      "综艺"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ourbits.club/",
+      "https://www.ourbits.club/",
+      "https://pt.ourhelp.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ourbits.club",
+      "ourhelp.club"
+    ],
+    "allDomains": [
+      "ourbits.club",
+      "ourhelp.club"
+    ]
+  },
+  {
+    "id": "pandapt",
+    "name": "PandaPT",
+    "aka": [
+      "熊猫高清"
+    ],
+    "description": "熊猫高清",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pandapt.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pandapt.net"
+    ],
+    "allDomains": [
+      "pandapt.net"
+    ]
+  },
+  {
+    "id": "passthepopcorn",
+    "name": "PassThePopcorn",
+    "aka": [
+      "PTP"
+    ],
+    "description": "PassThePopcorn (PTP) is a Private site for MOVIES",
+    "tags": [
+      "电影"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://passthepopcorn.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "passthepopcorn.me"
+    ],
+    "allDomains": [
+      "passthepopcorn.me"
+    ]
+  },
+  {
+    "id": "piggo",
+    "name": "Piggo",
+    "aka": [
+      "猪猪"
+    ],
+    "description": "猪猪网",
+    "tags": [
+      "影视",
+      "综合",
+      "少儿"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://piggo.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "piggo.me"
+    ],
+    "allDomains": [
+      "piggo.me"
+    ]
+  },
+  {
+    "id": "pixelcove",
+    "name": "PixelCove",
+    "aka": [
+      "PxC"
+    ],
+    "description": "PixelCove (Ultimate Gamer) is a Private Torrent Tracker for GAMES",
+    "tags": [
+      "游戏"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": false,
+    "urls": [
+      "https://www.pixelcove.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pixelcove.me"
+    ],
+    "allDomains": [
+      "pixelcove.me"
+    ]
+  },
+  {
+    "id": "playletpt",
+    "name": "PlayLet",
+    "aka": [],
+    "description": "微而精，短而美",
+    "tags": [
+      "短剧"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://playlet.cc/"
+    ],
+    "legacyUrls": [
+      "https://playletpt.xyz/"
+    ],
+    "activeDomains": [
+      "playlet.cc"
+    ],
+    "allDomains": [
+      "playlet.cc",
+      "playletpt.xyz"
+    ]
+  },
+  {
+    "id": "polishtorrent",
+    "name": "PolishTorrent",
+    "aka": [
+      "PTT"
+    ],
+    "description": "PolishTorrent（PTT）是一个波兰私有站点，提供电影/剧集资源。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://polishtorrent.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "polishtorrent.top"
+    ],
+    "allDomains": [
+      "polishtorrent.top"
+    ]
+  },
+  {
+    "id": "pornbay",
+    "name": "Pornbay",
+    "aka": [
+      "PB"
+    ],
+    "description": "",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "private",
+    "schema": "Luminance",
+    "isDead": true,
+    "urls": [
+      "https://pornbay.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pornbay.org"
+    ],
+    "allDomains": [
+      "pornbay.org"
+    ]
+  },
+  {
+    "id": "pornbits",
+    "name": "Pornbits",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "Adult"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": true,
+    "urls": [
+      "https://pornbits.net/",
+      "https://pornbits.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pornbits.net",
+      "pornbits.org"
+    ],
+    "allDomains": [
+      "pornbits.net",
+      "pornbits.org"
+    ]
+  },
+  {
+    "id": "pornolab",
+    "name": "PornoLab",
+    "aka": [],
+    "description": "PornoLab is a Semi-Private Russian site for 3X",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://pornolab.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pornolab.net"
+    ],
+    "allDomains": [
+      "pornolab.net"
+    ]
+  },
+  {
+    "id": "portugas",
+    "name": "Portugas",
+    "aka": [],
+    "description": "Portugas is a UNIT3D Private Torrent Tracker for Portuguese content.",
+    "tags": [
+      "葡萄牙"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://portugas.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "portugas.org"
+    ],
+    "allDomains": [
+      "portugas.org"
+    ]
+  },
+  {
+    "id": "privatehd",
+    "name": "PrivateHD",
+    "aka": [
+      "PHD"
+    ],
+    "description": "PrivateHD is a Private Torrent Tracker of AvistaZ Network",
+    "tags": [
+      "电影",
+      "高清"
+    ],
+    "type": "private",
+    "schema": "AvistazNetwork",
+    "isDead": false,
+    "urls": [
+      "https://privatehd.to/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "privatehd.to"
+    ],
+    "allDomains": [
+      "privatehd.to"
+    ]
+  },
+  {
+    "id": "pt99",
+    "name": "PT99",
+    "aka": [],
+    "description": "An Average PT",
+    "tags": [
+      "综合",
+      "记录片",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.j99.info/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "j99.info"
+    ],
+    "allDomains": [
+      "j99.info"
+    ]
+  },
+  {
+    "id": "ptcafe",
+    "name": "咖啡",
+    "aka": [
+      "PTCafe",
+      "咖啡PT"
+    ],
+    "description": "热爱生活·享受咖啡",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ptcafe.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptcafe.club"
+    ],
+    "allDomains": [
+      "ptcafe.club"
+    ]
+  },
+  {
+    "id": "ptchina",
+    "name": "PTChina",
+    "aka": [
+      "铂金学院"
+    ],
+    "description": "PT新手的梦想之家，PT老鸟的黄埔军校",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://ptchina.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptchina.org"
+    ],
+    "allDomains": [
+      "ptchina.org"
+    ]
+  },
+  {
+    "id": "ptdream",
+    "name": "PTDream",
+    "aka": [
+      "PT梦想"
+    ],
+    "description": "",
+    "tags": [
+      "剧集",
+      "电影",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.ptdream.net/",
+      "https://plus.ptdream.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptdream.net"
+    ],
+    "allDomains": [
+      "ptdream.net"
+    ]
+  },
+  {
+    "id": "pter",
+    "name": "PTer",
+    "aka": [
+      "PTerClub",
+      "猫站"
+    ],
+    "description": "ＰＴ之友俱乐部",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pterclub.net/"
+    ],
+    "legacyUrls": [
+      "https://pter.club/",
+      "https://pterclub.com/"
+    ],
+    "activeDomains": [
+      "pterclub.net"
+    ],
+    "allDomains": [
+      "pter.club",
+      "pterclub.com",
+      "pterclub.net"
+    ]
+  },
+  {
+    "id": "ptfans",
+    "name": "PTFans",
+    "aka": [],
+    "description": "追随你的激情，共享PT乐趣！",
+    "tags": [
+      "影视",
+      "综合",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ptfans.cc/",
+      "https://cusat.win/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "cusat.win",
+      "ptfans.cc"
+    ],
+    "allDomains": [
+      "cusat.win",
+      "ptfans.cc"
+    ]
+  },
+  {
+    "id": "ptgtk",
+    "name": "PT GTK",
+    "aka": [],
+    "description": "分享好看的电影剧集",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.gtkpw.xyz/",
+      "https://pt.gtk.pw/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "gtk.pw",
+      "gtkpw.xyz"
+    ],
+    "allDomains": [
+      "gtk.pw",
+      "gtkpw.xyz"
+    ]
+  },
+  {
+    "id": "pthome",
+    "name": "PTHome",
+    "aka": [
+      "PT之家",
+      "铂金家"
+    ],
+    "description": "分享至美 高清之家",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pthome.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pthome.net"
+    ],
+    "allDomains": [
+      "pthome.net"
+    ]
+  },
+  {
+    "id": "ptlao",
+    "name": "PTLAO",
+    "aka": [
+      "忘年桥"
+    ],
+    "description": "",
+    "tags": [
+      "成人",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ptlao.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptlao.top"
+    ],
+    "allDomains": [
+      "ptlao.top"
+    ]
+  },
+  {
+    "id": "ptlgs",
+    "name": "PTLGS",
+    "aka": [
+      "劳改所"
+    ],
+    "description": "PTLGS(劳改所)，黑奴的最终归宿",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ptlgs.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptlgs.org"
+    ],
+    "allDomains": [
+      "ptlgs.org"
+    ]
+  },
+  {
+    "id": "ptlsp",
+    "name": "PTLSP",
+    "aka": [],
+    "description": "PTLSP是一个集刮削音乐专辑、影视、剧集、游戏、纪录片、动漫、MV等众多资源为一体的综合PT站，本站旗下有着独家音乐专辑刮削制作小组以及独家压制小组",
+    "tags": [
+      "综合",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.ptlsp.com/"
+    ],
+    "legacyUrls": [
+      "https://ptlsp.com/"
+    ],
+    "activeDomains": [
+      "ptlsp.com"
+    ],
+    "allDomains": [
+      "ptlsp.com"
+    ]
+  },
+  {
+    "id": "ptmsg",
+    "name": "PTMSG",
+    "aka": [
+      "马杀鸡"
+    ],
+    "description": "The Ultimate File Sharing Experience",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.msg.vg/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "msg.vg"
+    ],
+    "allDomains": [
+      "msg.vg"
+    ]
+  },
+  {
+    "id": "ptneko",
+    "name": "超科学PT喵",
+    "aka": [],
+    "description": "这里什么也没有",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ptneko.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptneko.com"
+    ],
+    "allDomains": [
+      "ptneko.com"
+    ]
+  },
+  {
+    "id": "ptsbao",
+    "name": "PTSBao",
+    "aka": [
+      "烧包",
+      "骚包"
+    ],
+    "description": "烧包 - 扬帆远航 风雨同路",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ptsbao.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptsbao.club"
+    ],
+    "allDomains": [
+      "ptsbao.club"
+    ]
+  },
+  {
+    "id": "ptskit",
+    "name": "PTSkit",
+    "aka": [
+      "拾刻"
+    ],
+    "description": "短的是时间 长的是热爱",
+    "tags": [
+      "短剧",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.ptskit.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptskit.org"
+    ],
+    "allDomains": [
+      "ptskit.org"
+    ]
+  },
+  {
+    "id": "pttime",
+    "name": "PTTime",
+    "aka": [
+      "PT时间"
+    ],
+    "description": "PT时间",
+    "tags": [
+      "影视",
+      "综合",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.pttime.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pttime.org"
+    ],
+    "allDomains": [
+      "pttime.org"
+    ]
+  },
+  {
+    "id": "ptvicomo",
+    "name": "象岛",
+    "aka": [],
+    "description": "大象自中虚，中虚真不渝！",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://ptvicomo.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptvicomo.net"
+    ],
+    "allDomains": [
+      "ptvicomo.net"
+    ]
+  },
+  {
+    "id": "ptzone",
+    "name": "PTzone",
+    "aka": [],
+    "description": "分享地带！",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ptzone.xyz/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ptzone.xyz"
+    ],
+    "allDomains": [
+      "ptzone.xyz"
+    ]
+  },
+  {
+    "id": "pussytorrents",
+    "name": "Pussytorrents",
+    "aka": [
+      "PT"
+    ],
+    "description": "PussyTorrents is a Semi-Private Torrent Tracker for 3X",
+    "tags": [
+      "XXX"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://pussytorrents.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pussytorrents.org"
+    ],
+    "allDomains": [
+      "pussytorrents.org"
+    ]
+  },
+  {
+    "id": "qingwa",
+    "name": "QingWa",
+    "aka": [
+      "青蛙PT"
+    ],
+    "description": "慈善性质的非盈利的资源分享网站。",
+    "tags": [
+      "综合",
+      "影视",
+      "动漫",
+      "儿童区",
+      "纪录片"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.qingwapt.com/",
+      "https://www.qingwapt.org/",
+      "https://www.qingwa.pro/",
+      "https://qingwapt.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "qingwa.pro",
+      "qingwapt.com",
+      "qingwapt.org"
+    ],
+    "allDomains": [
+      "qingwa.pro",
+      "qingwapt.com",
+      "qingwapt.org"
+    ]
+  },
+  {
+    "id": "qingyingpt",
+    "name": "清影PT",
+    "aka": [],
+    "description": "哈尔滨工业大学维护的PT站",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://hitpt.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hitpt.org"
+    ],
+    "allDomains": [
+      "hitpt.org"
+    ]
+  },
+  {
+    "id": "racing4everyone",
+    "name": "Racing4Everyone",
+    "aka": [
+      "R4E"
+    ],
+    "description": "Racing4Everyone（R4E）是一个专注于赛车运动的私有站点，提供赛事/影视资源。",
+    "tags": [
+      "体育",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://racing4everyone.eu/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "racing4everyone.eu"
+    ],
+    "allDomains": [
+      "racing4everyone.eu"
+    ]
+  },
+  {
+    "id": "railgunpt",
+    "name": "RailgunPT",
+    "aka": [
+      "BILIBILI"
+    ],
+    "description": "B站PT",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://bilibili.download/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bilibili.download"
+    ],
+    "allDomains": [
+      "bilibili.download"
+    ]
+  },
+  {
+    "id": "raingfh",
+    "name": "雨",
+    "aka": [],
+    "description": "与你相逢，就是奇迹",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://raingfh.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "raingfh.top"
+    ],
+    "allDomains": [
+      "raingfh.top"
+    ]
+  },
+  {
+    "id": "rastastugan",
+    "name": "Rastastugan",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "音乐",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://rastastugan.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "rastastugan.org"
+    ],
+    "allDomains": [
+      "rastastugan.org"
+    ]
+  },
+  {
+    "id": "redacted",
+    "name": "Redacted",
+    "aka": [
+      "RED",
+      "红"
+    ],
+    "description": "Redacted is a music-focused private tracker",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://redacted.sh/"
+    ],
+    "legacyUrls": [
+      "https://redacted.ch/"
+    ],
+    "activeDomains": [
+      "redacted.sh"
+    ],
+    "allDomains": [
+      "redacted.ch",
+      "redacted.sh"
+    ]
+  },
+  {
+    "id": "redleaves",
+    "name": "红叶",
+    "aka": [
+      "RedLeaves"
+    ],
+    "description": "红叶成立于2022年10月，主打有声小说，有综合区。目前站内设立有声官组,资源产出稳定。喜欢有声内容的朋友，欢迎你的加入！",
+    "tags": [
+      "有声书",
+      "综合",
+      "影视",
+      "游戏"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://leaves.red/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "leaves.red"
+    ],
+    "allDomains": [
+      "leaves.red"
+    ]
+  },
+  {
+    "id": "reelflix",
+    "name": "ReelFliX",
+    "aka": [
+      "RFX"
+    ],
+    "description": "Keep it Reel",
+    "tags": [
+      "电影"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://reelflix.cc/",
+      "https://reelflix.xyz/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "reelflix.cc",
+      "reelflix.xyz"
+    ],
+    "allDomains": [
+      "reelflix.cc",
+      "reelflix.xyz"
+    ]
+  },
+  {
+    "id": "retroflix",
+    "name": "RetroFlix",
+    "aka": [
+      "RF"
+    ],
+    "description": "RetroFlix is a Private site for Classic Movies / TV / General Releases",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://retroflix.net/",
+      "https://retroflix.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "retroflix.club",
+      "retroflix.net"
+    ],
+    "allDomains": [
+      "retroflix.club",
+      "retroflix.net"
+    ]
+  },
+  {
+    "id": "retrotoon",
+    "name": "RetroToon World",
+    "aka": [
+      "RetroToon",
+      "RTW"
+    ],
+    "description": "RetroToon World is a Private Torrent Tracker for ANIMATED MOVIES / TV",
+    "tags": [
+      "动画",
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://retrotoon.world/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "retrotoon.world"
+    ],
+    "allDomains": [
+      "retrotoon.world"
+    ]
+  },
+  {
+    "id": "rockethd",
+    "name": "RocketHD",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://rocket-hd.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "rocket-hd.cc"
+    ],
+    "allDomains": [
+      "rocket-hd.cc"
+    ]
+  },
+  {
+    "id": "rousi",
+    "name": "Rousi",
+    "aka": [
+      "肉丝"
+    ],
+    "description": "你也喜欢 Rousi 对吧？",
+    "tags": [
+      "影视",
+      "综合",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://rousi.zip/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "rousi.zip"
+    ],
+    "allDomains": [
+      "rousi.zip"
+    ]
+  },
+  {
+    "id": "rousipro",
+    "name": "Rousi Pro",
+    "aka": [
+      "Rousi",
+      "肉丝"
+    ],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "Rousi",
+    "isDead": false,
+    "urls": [
+      "https://rousi.pro/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "rousi.pro"
+    ],
+    "allDomains": [
+      "rousi.pro"
+    ]
+  },
+  {
+    "id": "rs",
+    "name": "睿思",
+    "aka": [
+      "西电睿思"
+    ],
+    "description": "西电睿思PT",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://resource.xidian.edu.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "resource.xidian.edu.cn"
+    ],
+    "allDomains": [
+      "resource.xidian.edu.cn"
+    ]
+  },
+  {
+    "id": "rutracker",
+    "name": "RuTracker.org",
+    "aka": [
+      "RUT"
+    ],
+    "description": "RuTracker.org is a RUSSIAN Semi-Private site with a thriving file-sharing community",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://rutracker.org/",
+      "https://rutracker.net/"
+    ],
+    "legacyUrls": [
+      "https://rutracker.nl/"
+    ],
+    "activeDomains": [
+      "rutracker.net",
+      "rutracker.org"
+    ],
+    "allDomains": [
+      "rutracker.net",
+      "rutracker.nl",
+      "rutracker.org"
+    ]
+  },
+  {
+    "id": "sanpro",
+    "name": "伞",
+    "aka": [],
+    "description": "欢迎来到伞",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": true,
+    "urls": [
+      "https://sanpro.pw/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sanpro.pw"
+    ],
+    "allDomains": [
+      "sanpro.pw"
+    ]
+  },
+  {
+    "id": "sbpt",
+    "name": "SBPT",
+    "aka": [],
+    "description": "SBPT is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://sbpt.link/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sbpt.link"
+    ],
+    "allDomains": [
+      "sbpt.link"
+    ]
+  },
+  {
+    "id": "sdbits",
+    "name": "SDBits",
+    "aka": [],
+    "description": "SDB, HDB姊妹站",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": true,
+    "urls": [
+      "https://sdbits.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sdbits.org"
+    ],
+    "allDomains": [
+      "sdbits.org"
+    ]
+  },
+  {
+    "id": "secretcinema",
+    "name": "Secret Cinema",
+    "aka": [
+      "SC"
+    ],
+    "description": "Secret Cinema is a Private ratioless site for rare MOVIES.",
+    "tags": [
+      "电影",
+      "电子书",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": false,
+    "urls": [
+      "https://secret-cinema.pw/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "secret-cinema.pw"
+    ],
+    "allDomains": [
+      "secret-cinema.pw"
+    ]
+  },
+  {
+    "id": "seedpool",
+    "name": "seedpool",
+    "aka": [
+      "SP"
+    ],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://seedpool.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "seedpool.org"
+    ],
+    "allDomains": [
+      "seedpool.org"
+    ]
+  },
+  {
+    "id": "sewerpt",
+    "name": "下水道",
+    "aka": [
+      "SewerPT"
+    ],
+    "description": "再小众的热爱，也值得被世界看见",
+    "tags": [
+      "冷门",
+      "低分",
+      "粤语",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://sewerpt.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sewerpt.com"
+    ],
+    "allDomains": [
+      "sewerpt.com"
+    ]
+  },
+  {
+    "id": "shareisland",
+    "name": "ShareIsland",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://shareisland.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "shareisland.org"
+    ],
+    "allDomains": [
+      "shareisland.org"
+    ]
+  },
+  {
+    "id": "sharkpt",
+    "name": "鲨鱼PT",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://sharkpt.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sharkpt.net"
+    ],
+    "allDomains": [
+      "sharkpt.net"
+    ]
+  },
+  {
+    "id": "simurg",
+    "name": "Simurg",
+    "aka": [],
+    "description": "Simurg is a private digital library focused on carefully catalogued e-books and audiobooks.",
+    "tags": [
+      "电子书",
+      "有声书"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://simurg.world/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "simurg.world"
+    ],
+    "allDomains": [
+      "simurg.world"
+    ]
+  },
+  {
+    "id": "siqi",
+    "name": "思齐",
+    "aka": [
+      "SiQi"
+    ],
+    "description": "见贤思齐！",
+    "tags": [
+      "图书"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://si-qi.xyz/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "si-qi.xyz"
+    ],
+    "allDomains": [
+      "si-qi.xyz"
+    ]
+  },
+  {
+    "id": "sjtu",
+    "name": "葡萄",
+    "aka": [
+      "PuTao",
+      "SJTU"
+    ],
+    "description": "Free Share, Join us",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.sjtu.edu.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pt.sjtu.edu.cn"
+    ],
+    "allDomains": [
+      "pt.sjtu.edu.cn"
+    ]
+  },
+  {
+    "id": "skipthecommercials",
+    "name": "SkipTheCommercials",
+    "aka": [
+      "STC"
+    ],
+    "description": "SkipTheCommercials（STC）是一个专注于去除广告的影视资源私有站点（主要收录 TV 节目）。",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://skipthecommercials.xyz/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "skipthecommercials.xyz"
+    ],
+    "allDomains": [
+      "skipthecommercials.xyz"
+    ]
+  },
+  {
+    "id": "skyeysnow",
+    "name": "SkyeySnow",
+    "aka": [
+      "天雪"
+    ],
+    "description": "这是一个高清动漫的完全非盈利论坛，高清动漫是一个很小的圈子 论坛方向为DVD/BDRip和BDMV&BDMV用字幕相关。",
+    "tags": [
+      "动漫"
+    ],
+    "type": "private",
+    "schema": "Discuz",
+    "isDead": false,
+    "urls": [
+      "https://www.skyey2.com/",
+      "https://skyeysnow.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "skyey2.com",
+      "skyeysnow.com"
+    ],
+    "allDomains": [
+      "skyey2.com",
+      "skyeysnow.com"
+    ]
+  },
+  {
+    "id": "snakepop",
+    "name": "Snakepop",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": true,
+    "urls": [
+      "https://snakepop.art/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "snakepop.art"
+    ],
+    "allDomains": [
+      "snakepop.art"
+    ]
+  },
+  {
+    "id": "soulvoice",
+    "name": "SoulVoice",
+    "aka": [
+      "聆音"
+    ],
+    "description": "致力于建设一个有声资源，电子书为主，学习资料，影视资源为辅的PT分享站。",
+    "tags": [
+      "影视",
+      "综合",
+      "电子书",
+      "有声书"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.soulvoice.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "soulvoice.club"
+    ],
+    "allDomains": [
+      "soulvoice.club"
+    ]
+  },
+  {
+    "id": "speedapp",
+    "name": "SpeedApp",
+    "aka": [],
+    "description": "SpeedApp is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://speedapp.io/"
+    ],
+    "legacyUrls": [
+      "https://icetorrent.org/",
+      "https://scenefz.me/",
+      "https://u-torrents.ro/",
+      "https://myxz.eu/"
+    ],
+    "activeDomains": [
+      "speedapp.io"
+    ],
+    "allDomains": [
+      "icetorrent.org",
+      "myxz.eu",
+      "scenefz.me",
+      "speedapp.io",
+      "u-torrents.ro"
+    ]
+  },
+  {
+    "id": "sportscult",
+    "name": "SportsCult",
+    "aka": [
+      "SC"
+    ],
+    "description": "SportsCult is a Private Torrent Tracker for SPORTS",
+    "tags": [
+      "运动"
+    ],
+    "type": "private",
+    "schema": "XBTIT",
+    "isDead": false,
+    "urls": [
+      "https://sportscult.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sportscult.org"
+    ],
+    "allDomains": [
+      "sportscult.org"
+    ]
+  },
+  {
+    "id": "springsunday",
+    "name": "SpringSunday",
+    "aka": [
+      "CMCT",
+      "SSD",
+      "春天"
+    ],
+    "description": "Classic Movie Compression Team",
+    "tags": [
+      "影视",
+      "音乐",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://springsunday.net/"
+    ],
+    "legacyUrls": [
+      "https://hdcmct.org/"
+    ],
+    "activeDomains": [
+      "springsunday.net"
+    ],
+    "allDomains": [
+      "hdcmct.org",
+      "springsunday.net"
+    ]
+  },
+  {
+    "id": "starspace",
+    "name": "星空",
+    "aka": [
+      "StarSpace",
+      "影"
+    ],
+    "description": "We all have a dream.",
+    "tags": [
+      "影视",
+      "音乐",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://star-space.net/"
+    ],
+    "legacyUrls": [
+      "https://shadowflow.org/"
+    ],
+    "activeDomains": [
+      "star-space.net"
+    ],
+    "allDomains": [
+      "shadowflow.org",
+      "star-space.net"
+    ]
+  },
+  {
+    "id": "stspt",
+    "name": "STSPT",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://www.sts.tw/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sts.tw"
+    ],
+    "allDomains": [
+      "sts.tw"
+    ]
+  },
+  {
+    "id": "sugoimusic",
+    "name": "SugoiMusic",
+    "aka": [
+      "SM"
+    ],
+    "description": "SugoiMusic is a private tracker focused on Asian music: music, concerts, PVs, variety & drama shows, Blu-ray/DVDs, and pictures.",
+    "tags": [
+      "音乐",
+      "亚洲音乐"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": true,
+    "urls": [
+      "https://sugoimusic.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sugoimusic.me"
+    ],
+    "allDomains": [
+      "sugoimusic.me"
+    ]
+  },
+  {
+    "id": "sunnypt",
+    "name": "Sunny",
+    "aka": [
+      "SunnyPT",
+      "阳光"
+    ],
+    "description": "The Ultimate File Sharing Experience",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "SunnyPT",
+    "isDead": false,
+    "urls": [
+      "https://sunnypt.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sunnypt.top"
+    ],
+    "allDomains": [
+      "sunnypt.top"
+    ]
+  },
+  {
+    "id": "superbits",
+    "name": "Superbits",
+    "aka": [],
+    "description": "Sveriges största bittorrent tracker.",
+    "tags": [
+      "综合",
+      "影视",
+      "瑞典"
+    ],
+    "type": "private",
+    "schema": "Rartracker",
+    "isDead": false,
+    "urls": [
+      "https://superbits.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "superbits.org"
+    ],
+    "allDomains": [
+      "superbits.org"
+    ]
+  },
+  {
+    "id": "tangpt",
+    "name": "躺平",
+    "aka": [],
+    "description": "无论你是老鸟还是新手，在这里都可以安心“躺平”，享受高效、清爽的PT。",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.tangpt.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tangpt.top"
+    ],
+    "allDomains": [
+      "tangpt.top"
+    ]
+  },
+  {
+    "id": "tccf",
+    "name": "TorrentCCF",
+    "aka": [
+      "TCCF",
+      "ET8"
+    ],
+    "description": "兼有学习资源和软件资源的影视PT站点",
+    "tags": [
+      "影视",
+      "综合",
+      "学习"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://et8.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "et8.org"
+    ],
+    "allDomains": [
+      "et8.org"
+    ]
+  },
+  {
+    "id": "teamhd",
+    "name": "TeamHD",
+    "aka": [],
+    "description": "TeamHD is a RUSSIAN Private Torrent Tracker for HD MOVIES / TV",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://teamhd.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "teamhd.org"
+    ],
+    "allDomains": [
+      "teamhd.org"
+    ]
+  },
+  {
+    "id": "telly",
+    "name": "Telly",
+    "aka": [],
+    "description": "印度影视综合站点",
+    "tags": [
+      "影视",
+      "综合",
+      "印度"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://telly.wtf/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "telly.wtf"
+    ],
+    "allDomains": [
+      "telly.wtf"
+    ]
+  },
+  {
+    "id": "tey",
+    "name": "tey",
+    "aka": [
+      "太乙"
+    ],
+    "description": "心不空则丹不结",
+    "tags": [
+      "电视剧",
+      "韩剧"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.tey.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tey.cc"
+    ],
+    "allDomains": [
+      "tey.cc"
+    ]
+  },
+  {
+    "id": "thegeeks",
+    "name": "TheGeeks",
+    "aka": [
+      "TG"
+    ],
+    "description": "The Geeks is a Private Torrent Tracker for Technology E-LEARNING",
+    "tags": [
+      "学习"
+    ],
+    "type": "private",
+    "schema": "TCG",
+    "isDead": false,
+    "urls": [
+      "https://thegeeks.click/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "thegeeks.click"
+    ],
+    "allDomains": [
+      "thegeeks.click"
+    ]
+  },
+  {
+    "id": "thevault",
+    "name": "TheVault",
+    "aka": [
+      "TV"
+    ],
+    "description": "TheVault (TVBZ) is a Private Torrent Tracker for BUSINESS / MARKETING E-LEARNING",
+    "tags": [
+      "学习"
+    ],
+    "type": "private",
+    "schema": "TCG",
+    "isDead": false,
+    "urls": [
+      "https://thevault.click/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "thevault.click"
+    ],
+    "allDomains": [
+      "thevault.click"
+    ]
+  },
+  {
+    "id": "tjupt",
+    "name": "北洋园PT",
+    "aka": [
+      "北洋园"
+    ],
+    "description": "TJUPT是天津市首个、全国前列的校园Private Tracker，建立于2010年，",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://tjupt.org/",
+      "https://www.tjupt.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tjupt.org"
+    ],
+    "allDomains": [
+      "tjupt.org"
+    ]
+  },
+  {
+    "id": "tlfbits",
+    "name": "TLFBits",
+    "aka": [
+      "TLF Bits",
+      "The Last Fantasy",
+      "TLF",
+      "吐鲁番"
+    ],
+    "description": "水管虽小，坚持则大！宛如TLF，虽弱却奢华",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.eastgame.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pt.eastgame.org"
+    ],
+    "allDomains": [
+      "pt.eastgame.org"
+    ]
+  },
+  {
+    "id": "tlzdigital",
+    "name": "TLZ Digital",
+    "aka": [
+      "TLZ"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://tlzdigital.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tlzdigital.com"
+    ],
+    "allDomains": [
+      "tlzdigital.com"
+    ]
+  },
+  {
+    "id": "tmpt",
+    "name": "唐门",
+    "aka": [],
+    "description": "欢迎来到唐门",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://tmpt.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tmpt.top"
+    ],
+    "allDomains": [
+      "tmpt.top"
+    ]
+  },
+  {
+    "id": "tokyopt",
+    "name": "Tokyo",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://www.tokyo-manga.top/"
+    ],
+    "legacyUrls": [
+      "https://www.tokyopt.xyz/"
+    ],
+    "activeDomains": [
+      "tokyo-manga.top"
+    ],
+    "allDomains": [
+      "tokyo-manga.top",
+      "tokyopt.xyz"
+    ]
+  },
+  {
+    "id": "tokyotosho",
+    "name": "Tokyo Toshokan",
+    "aka": [
+      "東京 図書館"
+    ],
+    "description": "Tokyo Toshokan is a Public BitTorrent Library for JAPANESE Media",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.tokyotosho.info/",
+      "https://tokyo-tosho.net/"
+    ],
+    "legacyUrls": [
+      "https://tokyotosho.se/"
+    ],
+    "activeDomains": [
+      "tokyo-tosho.net",
+      "tokyotosho.info"
+    ],
+    "allDomains": [
+      "tokyo-tosho.net",
+      "tokyotosho.info",
+      "tokyotosho.se"
+    ]
+  },
+  {
+    "id": "torrentday",
+    "name": "TorrentsTD",
+    "aka": [
+      "TorrentDay",
+      "TD"
+    ],
+    "description": "TorrentDay (TD) is a Private site for TV / MOVIES / GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://tday.love/",
+      "https://torrentday.cool/",
+      "https://secure.torrentday.com/",
+      "https://classic.torrentday.com/",
+      "https://www.torrentday.com/",
+      "https://www.torrentday.me/",
+      "https://torrentday.it/",
+      "https://td.findnemo.net/",
+      "https://td.getcrazy.me/",
+      "https://td.workisboring.net/",
+      "https://tday.findnemo.net/",
+      "https://tday.getcrazy.me/",
+      "https://tday.workisboring.net/"
+    ],
+    "legacyUrls": [
+      "https://torrentday.com/",
+      "https://tdonline.org/",
+      "https://torrentday.eu/",
+      "https://td-update.com/",
+      "https://www.torrentday.ru/",
+      "https://www.td.af/",
+      "https://td.venom.global/",
+      "https://tday.venom.global/"
+    ],
+    "activeDomains": [
+      "findnemo.net",
+      "getcrazy.me",
+      "tday.love",
+      "torrentday.com",
+      "torrentday.cool",
+      "torrentday.it",
+      "torrentday.me",
+      "workisboring.net"
+    ],
+    "allDomains": [
+      "findnemo.net",
+      "getcrazy.me",
+      "td-update.com",
+      "td.af",
+      "tday.love",
+      "tdonline.org",
+      "torrentday.com",
+      "torrentday.cool",
+      "torrentday.eu",
+      "torrentday.it",
+      "torrentday.me",
+      "torrentday.ru",
+      "venom.global",
+      "workisboring.net"
+    ]
+  },
+  {
+    "id": "torrenthub",
+    "name": "TorrentHub",
+    "aka": [],
+    "description": "分享每个人的力量",
+    "tags": [
+      "影视",
+      "教育",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://torrenthub.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "torrenthub.club"
+    ],
+    "allDomains": [
+      "torrenthub.club"
+    ]
+  },
+  {
+    "id": "torrentleech",
+    "name": "TorrentLeech",
+    "aka": [
+      "TL"
+    ],
+    "description": "TorrentLeech (TL) is a Private Torrent Tracker for 0DAY / GENERAL. not here _ not scene",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://www.torrentleech.org/",
+      "https://www.torrentleech.cc/",
+      "https://www.torrentleech.me/",
+      "https://www.tleechreload.org/",
+      "https://www.tlgetin.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tleechreload.org",
+      "tlgetin.cc",
+      "torrentleech.cc",
+      "torrentleech.me",
+      "torrentleech.org"
+    ],
+    "allDomains": [
+      "tleechreload.org",
+      "tlgetin.cc",
+      "torrentleech.cc",
+      "torrentleech.me",
+      "torrentleech.org"
+    ]
+  },
+  {
+    "id": "torrentscsv",
+    "name": "Torrents-CSV",
+    "aka": [
+      "TorrentsCSV"
+    ],
+    "description": "Torrents.csv is a self-hostable, open source torrent search engine and database",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://torrents-csv.com/"
+    ],
+    "legacyUrls": [
+      "https://torrents-csv.ml/"
+    ],
+    "activeDomains": [
+      "torrents-csv.com"
+    ],
+    "allDomains": [
+      "torrents-csv.com",
+      "torrents-csv.ml"
+    ]
+  },
+  {
+    "id": "torrentseeds",
+    "name": "TorrentSeeds",
+    "aka": [],
+    "description": "",
+    "tags": [],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": true,
+    "urls": [
+      "https://www.torrentseeds.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "torrentseeds.org"
+    ],
+    "allDomains": [
+      "torrentseeds.org"
+    ]
+  },
+  {
+    "id": "tosky",
+    "name": "ToSky",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://t.tosky.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tosky.club"
+    ],
+    "allDomains": [
+      "tosky.club"
+    ]
+  },
+  {
+    "id": "totheglory",
+    "name": "ToTheGlory",
+    "aka": [
+      "TTG",
+      "套套哥",
+      "听听歌"
+    ],
+    "description": "ToTheGlory（TTG）是一个综合性PT站点，以高清电影、电视剧、音乐、动漫资源为主。",
+    "tags": [
+      "影视",
+      "音乐",
+      "游戏",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "TBSource",
+    "isDead": false,
+    "urls": [
+      "https://totheglory.im/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "totheglory.im"
+    ],
+    "allDomains": [
+      "totheglory.im"
+    ]
+  },
+  {
+    "id": "trancetraffic",
+    "name": "TranceTraffic",
+    "aka": [],
+    "description": "TranceTraffic is a Private Torrent Tracker for MUSIC（Trance 电子音乐）",
+    "tags": [
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://www.trancetraffic.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "trancetraffic.com"
+    ],
+    "allDomains": [
+      "trancetraffic.com"
+    ]
+  },
+  {
+    "id": "tu88",
+    "name": "TU88",
+    "aka": [],
+    "description": "僅分享圖片,適合手機平板PT客戶端直接下載",
+    "tags": [
+      "漫画",
+      "图集",
+      "绘本",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.tu88.men/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tu88.men"
+    ],
+    "allDomains": [
+      "tu88.men"
+    ]
+  },
+  {
+    "id": "turkseed",
+    "name": "TURKSEED",
+    "aka": [],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://turkseed.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "turkseed.com"
+    ],
+    "allDomains": [
+      "turkseed.com"
+    ]
+  },
+  {
+    "id": "u2",
+    "name": "U2",
+    "aka": [
+      "幼儿园"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "动漫"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://u2.dmhy.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "u2.dmhy.org"
+    ],
+    "allDomains": [
+      "u2.dmhy.org"
+    ]
+  },
+  {
+    "id": "ubits",
+    "name": "UBits",
+    "aka": [
+      "UB",
+      "U堡"
+    ],
+    "description": "原盘爱好者集散地",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ubits.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ubits.club"
+    ],
+    "allDomains": [
+      "ubits.club"
+    ]
+  },
+  {
+    "id": "uhdbits",
+    "name": "UHDBits",
+    "aka": [
+      "UHD"
+    ],
+    "description": "",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "GazelleJSONAPI",
+    "isDead": true,
+    "urls": [
+      "https://uhdbits.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "uhdbits.org"
+    ],
+    "allDomains": [
+      "uhdbits.org"
+    ]
+  },
+  {
+    "id": "ultrahd",
+    "name": "UltraHD",
+    "aka": [],
+    "description": "专注韩语语种内容，包含韩影、韩剧、韩综、动漫以及纪录片",
+    "tags": [
+      "电影",
+      "电视剧",
+      "综艺",
+      "纪录片",
+      "动漫"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://ultrahd.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ultrahd.net"
+    ],
+    "allDomains": [
+      "ultrahd.net"
+    ]
+  },
+  {
+    "id": "uploadcx",
+    "name": "ULCX",
+    "aka": [],
+    "description": "upload.cx",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://upload.cx/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "upload.cx"
+    ],
+    "allDomains": [
+      "upload.cx"
+    ]
+  },
+  {
+    "id": "vclib",
+    "name": "VC-Lib",
+    "aka": [],
+    "description": "专注于虚拟歌姬 （非虚拟偶像）相关内容的站点，禁R18",
+    "tags": [
+      "虚拟歌姬",
+      "音乐",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.vclib.online/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "vclib.online"
+    ],
+    "allDomains": [
+      "vclib.online"
+    ]
+  },
+  {
+    "id": "whupt",
+    "name": "珞樱-WHUPT",
+    "aka": [],
+    "description": "武汉大学自己的武汉大学网络中心提供硬件支持、由学生自主运行与管理的校园资源共享平台",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://whu.pt/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "whu.pt"
+    ],
+    "allDomains": [
+      "whu.pt"
+    ]
+  },
+  {
+    "id": "wihd",
+    "name": "WiHD",
+    "aka": [
+      "World-In-HD"
+    ],
+    "description": "World-In-HD is a French Private Torrent Tracker for HD内容",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://world-in-hd.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "world-in-hd.net"
+    ],
+    "allDomains": [
+      "world-in-hd.net"
+    ]
+  },
+  {
+    "id": "wintersakura",
+    "name": "WinterSakura",
+    "aka": [
+      "冬樱"
+    ],
+    "description": "",
+    "tags": [
+      "电影",
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://wintersakura.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "wintersakura.net"
+    ],
+    "allDomains": [
+      "wintersakura.net"
+    ]
+  },
+  {
+    "id": "wukongwendao",
+    "name": "悟空问道",
+    "aka": [],
+    "description": "探索未知、持续学习",
+    "tags": [
+      "人工智能"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://wukongwendao.top/",
+      "https://wukongwendao.top/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "wukongwendao.top"
+    ],
+    "allDomains": [
+      "wukongwendao.top"
+    ]
+  },
+  {
+    "id": "xauat6",
+    "name": "溪涧草堂PT",
+    "aka": [],
+    "description": "以热播电影，热播剧集，热播综艺为主，纪录，动漫，GTV，资料等资源为辅，多方面地为用户提供丰富的资源下载",
+    "tags": [
+      "教育网",
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "http://pt.xauat6.edu.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pt.xauat6.edu.cn"
+    ],
+    "allDomains": [
+      "pt.xauat6.edu.cn"
+    ]
+  },
+  {
+    "id": "xdypt",
+    "name": "修道院",
+    "aka": [],
+    "description": "修身为始，修道为终。",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://xdypt.vip/",
+      "https://pt.1ctrl.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "1ctrl.cn",
+      "xdypt.vip"
+    ],
+    "allDomains": [
+      "1ctrl.cn",
+      "xdypt.vip"
+    ]
+  },
+  {
+    "id": "xingtan",
+    "name": "杏坛",
+    "aka": [
+      "杏林",
+      "XingTan"
+    ],
+    "description": "杏坛 - 积少成多，聚沙成塔。",
+    "tags": [
+      "医学",
+      "电子书",
+      "学术"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://xingtan.one/"
+    ],
+    "legacyUrls": [
+      "https://xinglin.one/"
+    ],
+    "activeDomains": [
+      "xingtan.one"
+    ],
+    "allDomains": [
+      "xinglin.one",
+      "xingtan.one"
+    ]
+  },
+  {
+    "id": "xingwan",
+    "name": "星湾",
+    "aka": [],
+    "description": "XingWan - 星湾 是一个专注中文字幕资源的站点。",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://xingwan.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "xingwan.cc"
+    ],
+    "allDomains": [
+      "xingwan.cc"
+    ]
+  },
+  {
+    "id": "xingyunge",
+    "name": "星陨阁",
+    "aka": [],
+    "description": "三十年河东，三十年河西！莫欺少年穷！",
+    "tags": [
+      "综合",
+      "影视",
+      "国漫"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.xingyungept.org/",
+      "https://pt.xingyungept.cn/"
+    ],
+    "legacyUrls": [
+      "https://xingyunge.top/"
+    ],
+    "activeDomains": [
+      "xingyungept.cn",
+      "xingyungept.org"
+    ],
+    "allDomains": [
+      "xingyunge.top",
+      "xingyungept.cn",
+      "xingyungept.org"
+    ]
+  },
+  {
+    "id": "xite",
+    "name": "x·ite.me",
+    "aka": [],
+    "description": "x·ite.me 是一个综合类私有种子站点",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": true,
+    "urls": [
+      "https://x-ite.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "x-ite.me"
+    ],
+    "allDomains": [
+      "x-ite.me"
+    ]
+  },
+  {
+    "id": "xtr",
+    "name": "XTR",
+    "aka": [
+      "ExtremlyMTorrents"
+    ],
+    "description": "ExtremlyMTorrents (XTR) is a Private Torrent Tracker for GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://extremlymtorrents.ws/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "extremlymtorrents.ws"
+    ],
+    "allDomains": [
+      "extremlymtorrents.ws"
+    ]
+  },
+  {
+    "id": "ydypt",
+    "name": "伊甸园",
+    "aka": [],
+    "description": "这里是伊甸园 让我们赤裸坦诚相见",
+    "tags": [
+      "综合",
+      "XXX"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://pt.hdbd.us/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "hdbd.us"
+    ],
+    "allDomains": [
+      "hdbd.us"
+    ]
+  },
+  {
+    "id": "yemapt",
+    "name": "YemaPT",
+    "aka": [],
+    "description": "YemaPT 是一个由全新技术架构构建而来的综合类资源PT站点。有分享率和登录要求，可访问 wiki.yemapt.org 查看。",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "YemaPT",
+    "isDead": false,
+    "urls": [
+      "https://www.yemapt.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "yemapt.org"
+    ],
+    "allDomains": [
+      "yemapt.org"
+    ]
+  },
+  {
+    "id": "yingk",
+    "name": "影客",
+    "aka": [
+      "影客PT",
+      "YingkPT",
+      "美盒子",
+      "MeiHeZi"
+    ],
+    "description": "",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": true,
+    "urls": [
+      "https://yingk.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "yingk.com"
+    ],
+    "allDomains": [
+      "yingk.com"
+    ]
+  },
+  {
+    "id": "yinguskg",
+    "name": "樱花",
+    "aka": [
+      "YingUSKG",
+      "ying.us.kg",
+      "Ying"
+    ],
+    "description": "YingUSKG PT站点",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://pt.ying.us.kg/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "ying.us.kg"
+    ],
+    "allDomains": [
+      "ying.us.kg"
+    ]
+  },
+  {
+    "id": "yuscene",
+    "name": "YUSCENE",
+    "aka": [
+      "YS"
+    ],
+    "description": "",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://yu-scene.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "yu-scene.net"
+    ],
+    "allDomains": [
+      "yu-scene.net"
+    ]
+  },
+  {
+    "id": "yzyy",
+    "name": "YzYY",
+    "aka": [],
+    "description": "综合影视音乐资源站，基于 Discuz 论坛架构 + 自定义种子聚合模块",
+    "tags": [
+      "综合",
+      "影视",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://www.yzyy.org/",
+      "https://bbs.yzyy.asia/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "yzyy.asia",
+      "yzyy.org"
+    ],
+    "allDomains": [
+      "yzyy.asia",
+      "yzyy.org"
+    ]
+  },
+  {
+    "id": "zhixing",
+    "name": "知行PT",
+    "aka": [],
+    "description": "北京交通大学知行PT",
+    "tags": [
+      "教育网",
+      "综合",
+      "影视"
+    ],
+    "type": "private",
+    "schema": "CGBTSource",
+    "isDead": false,
+    "urls": [
+      "http://pt.zhixing.bjtu.edu.cn/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "zhixing.bjtu.edu.cn"
+    ],
+    "allDomains": [
+      "zhixing.bjtu.edu.cn"
+    ]
+  },
+  {
+    "id": "zhuque",
+    "name": "朱雀",
+    "aka": [
+      "Zhuque"
+    ],
+    "description": "新架构的影视站点",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "TNode",
+    "isDead": false,
+    "urls": [
+      "https://zhuque.in/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "zhuque.in"
+    ],
+    "allDomains": [
+      "zhuque.in"
+    ]
+  },
+  {
+    "id": "zmpt",
+    "name": "织梦",
+    "aka": [
+      "织梦PT",
+      "ZMPT"
+    ],
+    "description": "为爱启航，造就梦想！",
+    "tags": [],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://zmpt.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "zmpt.cc"
+    ],
+    "allDomains": [
+      "zmpt.cc"
+    ]
+  },
+  {
+    "id": "zrpt",
+    "name": "ZRPT",
+    "aka": [
+      "探索自然美",
+      "专注纪录片"
+    ],
+    "description": "探索自然之美，专注纪录片的PT站点",
+    "tags": [
+      "纪录片",
+      "自然",
+      "教育"
+    ],
+    "type": "private",
+    "schema": "NexusPHP",
+    "isDead": false,
+    "urls": [
+      "https://naturept.top/"
+    ],
+    "legacyUrls": [
+      "https://zrpt.cc/"
+    ],
+    "activeDomains": [
+      "naturept.top"
+    ],
+    "allDomains": [
+      "naturept.top",
+      "zrpt.cc"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+name: Auto Update Clash Rules
+
+on:
+  schedule:
+    # Run daily at 02:00 UTC (10:00 CST)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+jobs:
+  update-rules:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Clone PT-depiler
+        run: |
+          git clone --depth 1 https://github.com/pt-plugins/PT-depiler.git pt-depiler
+
+      - name: Generate Clash Rules
+        run: |
+          python scripts/generate.py pt-depiler
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add rules/ data/ PT.yaml PT.list PT_Domain.yaml README.md
+          if git diff --staged --quiet; then
+            echo "No changes detected. Rules are up to date."
+          else
+            git commit -m "chore: auto-update PT Clash rules [skip ci]"
+            git push
+          fi

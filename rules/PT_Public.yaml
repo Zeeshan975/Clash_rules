@@ -1,0 +1,48 @@
+# Public BT & Torrent Indexers
+# Description: Public torrent search and tracker sites (e.g. 1337x, Nyaa, E-Hentai)
+# Updated: 2026-09-30 13:52:20 UTC
+# Total Rules: 40
+# Source: https://github.com/pt-plugins/PT-depiler
+# Repo: https://github.com/Zeeshan975/Clash_rules
+#
+payload:
+  - DOMAIN-SUFFIX,0cili.com # 0Magnet
+  - DOMAIN-SUFFIX,0cili.my # 0Magnet
+  - DOMAIN-SUFFIX,0magnet.com # 0Magnet
+  - DOMAIN-SUFFIX,1337x.st # 1337x
+  - DOMAIN-SUFFIX,1337x.to # 1337x
+  - DOMAIN-SUFFIX,13mag.net # 0Magnet
+  - DOMAIN-SUFFIX,16mag.net # 0Magnet
+  - DOMAIN-SUFFIX,1cili.com # 0Magnet
+  - DOMAIN-SUFFIX,7mag.net # 0Magnet
+  - DOMAIN-SUFFIX,8ci.li # 0Magnet
+  - DOMAIN-SUFFIX,acg.rip # ACG.RIP
+  - DOMAIN-SUFFIX,animetosho.org # AnimeTosho
+  - DOMAIN-SUFFIX,anirena.com # AniRena
+  - DOMAIN-SUFFIX,asnet.pw # AniSource
+  - DOMAIN-SUFFIX,audiobookbay.fi # AudioBook Bay
+  - DOMAIN-SUFFIX,audiobookbay.is # AudioBook Bay
+  - DOMAIN-SUFFIX,audiobookbay.lu # AudioBook Bay
+  - DOMAIN-SUFFIX,audiobookbay.se # AudioBook Bay
+  - DOMAIN-SUFFIX,audiobookbay.ws # AudioBook Bay
+  - DOMAIN-SUFFIX,bt.etree.org # BT.etree
+  - DOMAIN-SUFFIX,cili.info # 0Magnet
+  - DOMAIN-SUFFIX,cili.uk # 0Magnet
+  - DOMAIN-SUFFIX,e-hentai.org # E-Hentai
+  - DOMAIN-SUFFIX,exhentai.org # E-Hentai
+  - DOMAIN-SUFFIX,ext.to # EXT Torrents
+  - DOMAIN-SUFFIX,extranet.torrentbay.st # EXT Torrents
+  - DOMAIN-SUFFIX,extto.com # EXT Torrents
+  - DOMAIN-SUFFIX,getmag.net # 0Magnet
+  - DOMAIN-SUFFIX,nekobt.to # nekoBT
+  - DOMAIN-SUFFIX,nyaa.si # Nyaa
+  - DOMAIN-SUFFIX,share.dmhy.org # 動漫花園資源網
+  - DOMAIN-SUFFIX,theaudiobookbay.se # AudioBook Bay
+  - DOMAIN-SUFFIX,tokyo-tosho.net # Tokyo Toshokan
+  - DOMAIN-SUFFIX,tokyotosho.info # Tokyo Toshokan
+  - DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
+  - DOMAIN-SUFFIX,wuji.me # 0Magnet
+  - DOMAIN-SUFFIX,x1337x.cc # 1337x
+  - DOMAIN-SUFFIX,x1337x.eu # 1337x
+  - DOMAIN-SUFFIX,x1337x.ws # 1337x
+  - DOMAIN-SUFFIX,xcili.net # 0Magnet
