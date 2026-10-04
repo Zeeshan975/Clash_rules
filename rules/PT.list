@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-03 07:52:47 UTC
-# Total Rules: 324
+# Updated: 2026-10-04 08:15:14 UTC
+# Total Rules: 325
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -115,7 +115,6 @@ DOMAIN-SUFFIX,filelist.io # FileList
 DOMAIN-SUFFIX,findnemo.net # TorrentsTD
 DOMAIN-SUFFIX,gamegamept.com # GGPT
 DOMAIN-SUFFIX,gay-torrents.net # Gay-Torrents.net
-DOMAIN-SUFFIX,gay-torrents.org # Gay-Torrents.Org
 DOMAIN-SUFFIX,gaytor.rent # GayTorrent.ru
 DOMAIN-SUFFIX,gazellegames.net # GazelleGames
 DOMAIN-SUFFIX,gemini-tracker.org # GeminiTracker
@@ -290,6 +289,8 @@ DOMAIN-SUFFIX,torrentday.com # TorrentsTD
 DOMAIN-SUFFIX,torrentday.cool # TorrentsTD
 DOMAIN-SUFFIX,torrentday.it # TorrentsTD
 DOMAIN-SUFFIX,torrentday.me # TorrentsTD
+DOMAIN-SUFFIX,torrenting.com # Torrenting
+DOMAIN-SUFFIX,torrenting.me # Torrenting
 DOMAIN-SUFFIX,torrentleech.cc # TorrentLeech
 DOMAIN-SUFFIX,torrentleech.me # TorrentLeech
 DOMAIN-SUFFIX,torrentleech.org # TorrentLeech

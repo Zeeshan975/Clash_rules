@@ -2892,7 +2892,7 @@
     ],
     "type": "private",
     "schema": "",
-    "isDead": false,
+    "isDead": true,
     "urls": [
       "https://gay-torrents.org/"
     ],
@@ -7795,6 +7795,33 @@
     ],
     "allDomains": [
       "torrenthub.club"
+    ]
+  },
+  {
+    "id": "torrenting",
+    "name": "Torrenting",
+    "aka": [
+      "TT"
+    ],
+    "description": "Torrenting (TT) is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://torrenting.com/",
+      "https://torrenting.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "torrenting.com",
+      "torrenting.me"
+    ],
+    "allDomains": [
+      "torrenting.com",
+      "torrenting.me"
     ]
   },
   {

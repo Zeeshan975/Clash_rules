@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-03 07:52:47 UTC
-# Total Domains: 490
+# Updated: 2026-10-04 08:15:14 UTC
+# Total Domains: 492
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -441,6 +441,8 @@ payload:
   - '+.torrentday.me' # TorrentsTD
   - '+.torrentday.ru' # TorrentsTD
   - '+.torrenthub.club' # TorrentHub
+  - '+.torrenting.com' # Torrenting
+  - '+.torrenting.me' # Torrenting
   - '+.torrentleech.cc' # TorrentLeech
   - '+.torrentleech.me' # TorrentLeech
   - '+.torrentleech.org' # TorrentLeech

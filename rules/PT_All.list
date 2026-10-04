@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-03 07:52:47 UTC
-# Total Rules: 490
+# Updated: 2026-10-04 08:15:14 UTC
+# Total Rules: 492
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -440,6 +440,8 @@ DOMAIN-SUFFIX,torrentday.it # TorrentsTD
 DOMAIN-SUFFIX,torrentday.me # TorrentsTD
 DOMAIN-SUFFIX,torrentday.ru # TorrentsTD
 DOMAIN-SUFFIX,torrenthub.club # TorrentHub
+DOMAIN-SUFFIX,torrenting.com # Torrenting
+DOMAIN-SUFFIX,torrenting.me # Torrenting
 DOMAIN-SUFFIX,torrentleech.cc # TorrentLeech
 DOMAIN-SUFFIX,torrentleech.me # TorrentLeech
 DOMAIN-SUFFIX,torrentleech.org # TorrentLeech

@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-03 07:52:47 UTC
-# Total Domains: 324
+# Updated: 2026-10-04 08:15:14 UTC
+# Total Domains: 325
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -116,7 +116,6 @@ payload:
   - '+.findnemo.net' # TorrentsTD
   - '+.gamegamept.com' # GGPT
   - '+.gay-torrents.net' # Gay-Torrents.net
-  - '+.gay-torrents.org' # Gay-Torrents.Org
   - '+.gaytor.rent' # GayTorrent.ru
   - '+.gazellegames.net' # GazelleGames
   - '+.gemini-tracker.org' # GeminiTracker
@@ -291,6 +290,8 @@ payload:
   - '+.torrentday.cool' # TorrentsTD
   - '+.torrentday.it' # TorrentsTD
   - '+.torrentday.me' # TorrentsTD
+  - '+.torrenting.com' # Torrenting
+  - '+.torrenting.me' # Torrenting
   - '+.torrentleech.cc' # TorrentLeech
   - '+.torrentleech.me' # TorrentLeech
   - '+.torrentleech.org' # TorrentLeech
