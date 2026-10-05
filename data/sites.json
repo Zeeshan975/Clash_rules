@@ -1,5 +1,34 @@
 [
   {
+    "id": "0dayfiles",
+    "name": "0DayFiles",
+    "aka": [
+      "0DF"
+    ],
+    "description": "0DayFiles is a private torrent tracker for movies, TV, music, games, software, books and more.",
+    "tags": [
+      "影视",
+      "音乐",
+      "游戏",
+      "软件",
+      "综合",
+      "成人"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://0dayfiles.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "0dayfiles.net"
+    ],
+    "allDomains": [
+      "0dayfiles.net"
+    ]
+  },
+  {
     "id": "0magnet",
     "name": "0Magnet",
     "aka": [

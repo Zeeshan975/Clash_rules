@@ -1,11 +1,12 @@
 # Private PT Trackers (Strictly Private Sites)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-10-04 08:15:14 UTC
-# Total Rules: 285
+# Updated: 2026-10-05 08:45:06 UTC
+# Total Rules: 286
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
 payload:
+  - DOMAIN-SUFFIX,0dayfiles.net # 0DayFiles
   - DOMAIN-SUFFIX,0ff.cc # 自由农场
   - DOMAIN-SUFFIX,13city.org # 13city
   - DOMAIN-SUFFIX,1ctrl.cn # 修道院

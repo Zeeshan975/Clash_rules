@@ -1,13 +1,14 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-04 08:15:14 UTC
-# Total Domains: 492
+# Updated: 2026-10-05 08:45:06 UTC
+# Total Domains: 493
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
 payload:
   - '+.0cili.com' # 0Magnet
   - '+.0cili.my' # 0Magnet
+  - '+.0dayfiles.net' # 0DayFiles
   - '+.0ff.cc' # 自由农场
   - '+.0mag.net' # 0Magnet
   - '+.0magnet.com' # 0Magnet

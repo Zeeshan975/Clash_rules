@@ -1,13 +1,14 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-04 08:15:14 UTC
-# Total Domains: 325
+# Updated: 2026-10-05 08:45:06 UTC
+# Total Domains: 326
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
 payload:
   - '+.0cili.com' # 0Magnet
   - '+.0cili.my' # 0Magnet
+  - '+.0dayfiles.net' # 0DayFiles
   - '+.0ff.cc' # 自由农场
   - '+.0magnet.com' # 0Magnet
   - '+.1337x.st' # 1337x

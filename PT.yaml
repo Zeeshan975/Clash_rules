@@ -1,13 +1,14 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-04 08:15:14 UTC
-# Total Rules: 325
+# Updated: 2026-10-05 08:45:06 UTC
+# Total Rules: 326
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
 payload:
   - DOMAIN-SUFFIX,0cili.com # 0Magnet
   - DOMAIN-SUFFIX,0cili.my # 0Magnet
+  - DOMAIN-SUFFIX,0dayfiles.net # 0DayFiles
   - DOMAIN-SUFFIX,0ff.cc # 自由农场
   - DOMAIN-SUFFIX,0magnet.com # 0Magnet
   - DOMAIN-SUFFIX,1337x.st # 1337x
