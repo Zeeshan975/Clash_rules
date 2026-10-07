@@ -1102,7 +1102,7 @@
     ],
     "type": "private",
     "schema": "NexusPHP",
-    "isDead": false,
+    "isDead": true,
     "urls": [
       "https://bitbr.cc/"
     ],

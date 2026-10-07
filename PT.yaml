@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-06 08:48:25 UTC
-# Total Rules: 326
+# Updated: 2026-10-07 08:26:31 UTC
+# Total Rules: 325
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -52,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,beyond-hd.me # BeyondHD
   - DOMAIN-SUFFIX,bibliotik.me # Bibliotik
   - DOMAIN-SUFFIX,bilibili.download # RailgunPT
-  - DOMAIN-SUFFIX,bitbr.cc # bitbr
   - DOMAIN-SUFFIX,bitporn.eu # BitPorn
   - DOMAIN-SUFFIX,bitpt.cn # 极速之星
   - DOMAIN-SUFFIX,blutopia.cc # Blutopia
