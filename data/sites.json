@@ -975,6 +975,32 @@
     ]
   },
   {
+    "id": "bangumimoe",
+    "name": "Bangumi Moe",
+    "aka": [
+      "番組、萌え",
+      "萌番组",
+      "BangumiMoe"
+    ],
+    "description": "Bangumi Moe 是一个中文动漫 BT 资源站，提供动画 / 音乐 / 漫画 / 游戏等资源的聚合（公开站点，无需登录）",
+    "tags": [
+      "Anime"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://bangumi.moe/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bangumi.moe"
+    ],
+    "allDomains": [
+      "bangumi.moe"
+    ]
+  },
+  {
     "id": "baozi",
     "name": "包子",
     "aka": [],
@@ -2517,6 +2543,63 @@
       "ext.to",
       "extranet.torrentbay.st",
       "extto.com"
+    ]
+  },
+  {
+    "id": "eztv",
+    "name": "EZTV",
+    "aka": [],
+    "description": "EZTV 是一个专注于美剧的公共 BT 站点",
+    "tags": [
+      "电视剧"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://eztvx.to/",
+      "https://eztv.wf/",
+      "https://eztv.tf/",
+      "https://eztv.yt/",
+      "https://eztv1.xyz/"
+    ],
+    "legacyUrls": [
+      "https://eztv.ag/",
+      "https://eztv.it/",
+      "https://eztv.ch/",
+      "https://eztv.io/",
+      "https://eztv.re/",
+      "https://eztv.li/",
+      "https://eztv.nocensor.cloud/",
+      "https://eztv.ninjaproxy1.com/",
+      "https://eztv.proxyninja.org/",
+      "https://eztv.abcproxy.org/",
+      "https://eztv.unblockit.download/"
+    ],
+    "activeDomains": [
+      "eztv.tf",
+      "eztv.wf",
+      "eztv.yt",
+      "eztv1.xyz",
+      "eztvx.to"
+    ],
+    "allDomains": [
+      "eztv.abcproxy.org",
+      "eztv.ag",
+      "eztv.ch",
+      "eztv.io",
+      "eztv.it",
+      "eztv.li",
+      "eztv.ninjaproxy1.com",
+      "eztv.proxyninja.org",
+      "eztv.re",
+      "eztv.tf",
+      "eztv.unblockit.download",
+      "eztv.wf",
+      "eztv.yt",
+      "eztv1.xyz",
+      "eztvx.to",
+      "nocensor.cloud"
     ]
   },
   {
@@ -4132,6 +4215,33 @@
     ]
   },
   {
+    "id": "internetarchive",
+    "name": "Internet Archive",
+    "aka": [
+      "archive.org"
+    ],
+    "description": "Internet Archive is a non-profit digital library offering free universal access to books, movies & music（含 Archive BitTorrent 种子）",
+    "tags": [
+      "综合",
+      "影视",
+      "音乐",
+      "图书"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://archive.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "archive.org"
+    ],
+    "allDomains": [
+      "archive.org"
+    ]
+  },
+  {
     "id": "iptorrents",
     "name": "IPTorrents",
     "aka": [
@@ -4619,6 +4729,53 @@
     ]
   },
   {
+    "id": "limetorrents",
+    "name": "LimeTorrents",
+    "aka": [],
+    "description": "LimeTorrents 是一个公共 BT 索引站，以「已验证种子」为主提供全站搜索",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.limetorrents.fun/",
+      "https://limetorrents.torrentbay.st/",
+      "https://limetorrents.torrentsbay.org/"
+    ],
+    "legacyUrls": [
+      "https://www.limetorrents.lol/",
+      "https://limetorrents.ninjaproxy1.com/",
+      "https://limetorrents.proxyninja.org/",
+      "https://limetorrents.proxyninja.net/",
+      "https://limetorrents.unblockninja.com/",
+      "https://limetorrents.mrunblock.bond/",
+      "https://limetorrents.nocensor.cloud/",
+      "https://limetorrents.abcproxy.org/",
+      "https://limetorrents.unblockit.download/"
+    ],
+    "activeDomains": [
+      "limetorrents.fun",
+      "limetorrents.torrentbay.st",
+      "limetorrents.torrentsbay.org"
+    ],
+    "allDomains": [
+      "limetorrents.abcproxy.org",
+      "limetorrents.fun",
+      "limetorrents.lol",
+      "limetorrents.mrunblock.bond",
+      "limetorrents.ninjaproxy1.com",
+      "limetorrents.proxyninja.net",
+      "limetorrents.proxyninja.org",
+      "limetorrents.torrentbay.st",
+      "limetorrents.torrentsbay.org",
+      "limetorrents.unblockit.download",
+      "limetorrents.unblockninja.com",
+      "nocensor.cloud"
+    ]
+  },
+  {
     "id": "longpt",
     "name": "LongPT",
     "aka": [
@@ -4817,6 +4974,35 @@
     ]
   },
   {
+    "id": "megapeer",
+    "name": "MegaPeer",
+    "aka": [
+      "MegaPeer.vip"
+    ],
+    "description": "MegaPeer 是一个俄罗斯公开 BT 站，主要提供俄语电影 / 剧集 / 音乐等资源（公开站点，无需登录）",
+    "tags": [
+      "电影",
+      "电视剧"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://megapeer.vip/"
+    ],
+    "legacyUrls": [
+      "http://megapeer.ru/",
+      "http://alt.megapeer.ru/"
+    ],
+    "activeDomains": [
+      "megapeer.vip"
+    ],
+    "allDomains": [
+      "megapeer.ru",
+      "megapeer.vip"
+    ]
+  },
+  {
     "id": "midnightscene",
     "name": "MidnightScene",
     "aka": [
@@ -4838,6 +5024,31 @@
     ],
     "allDomains": [
       "midnightscene.cc"
+    ]
+  },
+  {
+    "id": "mikan",
+    "name": "Mikan Project",
+    "aka": [
+      "蜜柑计划",
+      "Mikan"
+    ],
+    "description": "蜜柑计划是一个中文动漫 BT 资源站，提供新番字幕组的种子聚合（公开站点，无需登录）",
+    "tags": [
+      "Anime"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://mikanani.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "mikanani.me"
+    ],
+    "allDomains": [
+      "mikanani.me"
     ]
   },
   {
@@ -5269,6 +5480,33 @@
     ]
   },
   {
+    "id": "newstudio",
+    "name": "NewStudio",
+    "aka": [
+      "NewStudio",
+      "НьюСтудио"
+    ],
+    "description": "NewStudio 是俄语公开影视站，主要提供俄语配音的剧集资源，无需注册",
+    "tags": [
+      "TV"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://newstudio.tv/"
+    ],
+    "legacyUrls": [
+      "http://newstudio.tv/"
+    ],
+    "activeDomains": [
+      "newstudio.tv"
+    ],
+    "allDomains": [
+      "newstudio.tv"
+    ]
+  },
+  {
     "id": "nexushd",
     "name": "NexusHD",
     "aka": [],
@@ -5316,6 +5554,29 @@
     ]
   },
   {
+    "id": "nipponsei",
+    "name": "Nipponsei",
+    "aka": [],
+    "description": "Nipponsei 是一个公开的日本动漫音乐 BT 站，提供 OST / OP / ED Single 等资源",
+    "tags": [
+      "音乐",
+      "动漫"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://nipponsei.minglong.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "minglong.org"
+    ],
+    "allDomains": [
+      "minglong.org"
+    ]
+  },
+  {
     "id": "njtupt",
     "name": "浦园",
     "aka": [],
@@ -5333,6 +5594,40 @@
     ],
     "allDomains": [
       "njtupt.top"
+    ]
+  },
+  {
+    "id": "nonameclub",
+    "name": "NoNaMe Club",
+    "aka": [
+      "NNM-Club",
+      "NoNaMe Club",
+      "nnmclub"
+    ],
+    "description": "NoNaMe Club (NNM-Club) 是俄语公开 BT 站点，提供电影 / 剧集 / 音乐等综合资源，无需注册",
+    "tags": [
+      "Movies",
+      "TV",
+      "Music"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://nnmclub.to/"
+    ],
+    "legacyUrls": [
+      "https://nnm-club.name/",
+      "https://nnm-club.me/",
+      "http://nnmclub.to/"
+    ],
+    "activeDomains": [
+      "nnmclub.to"
+    ],
+    "allDomains": [
+      "nnm-club.me",
+      "nnm-club.name",
+      "nnmclub.to"
     ]
   },
   {
@@ -5466,13 +5761,20 @@
     "isDead": false,
     "urls": [
       "https://nyaa.si/",
-      "https://sukebei.nyaa.si/"
+      "https://sukebei.nyaa.si/",
+      "https://nyaa.mom/",
+      "https://nyaa.media/",
+      "https://sukebei.nyaa.mom/"
     ],
     "legacyUrls": [],
     "activeDomains": [
+      "nyaa.media",
+      "nyaa.mom",
       "nyaa.si"
     ],
     "allDomains": [
+      "nyaa.media",
+      "nyaa.mom",
       "nyaa.si"
     ]
   },
@@ -5519,6 +5821,29 @@
     ],
     "allDomains": [
       "oldtoons.world"
+    ]
+  },
+  {
+    "id": "onejav",
+    "name": "OneJAV",
+    "aka": [],
+    "description": "OneJAV 是一个公开的日本成人影片（JAV）BT 站（公开站点，无需登录）",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://onejav.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "onejav.com"
+    ],
+    "allDomains": [
+      "onejav.com"
     ]
   },
   {
@@ -6802,6 +7127,40 @@
     ]
   },
   {
+    "id": "rutor",
+    "name": "RuTor",
+    "aka": [
+      "RuTor",
+      "Рутор"
+    ],
+    "description": "RuTor 是俄语公开 BT 站点，提供电影 / 剧集 / 综合资源，免费下载无需注册",
+    "tags": [
+      "Movies",
+      "TV"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://rutor.info/",
+      "https://rutor.is/"
+    ],
+    "legacyUrls": [
+      "http://6tor.org/",
+      "http://rutor.info/",
+      "http://rutor.is/"
+    ],
+    "activeDomains": [
+      "rutor.info",
+      "rutor.is"
+    ],
+    "allDomains": [
+      "6tor.org",
+      "rutor.info",
+      "rutor.is"
+    ]
+  },
+  {
     "id": "rutracker",
     "name": "RuTracker.org",
     "aka": [
@@ -6829,6 +7188,32 @@
       "rutracker.net",
       "rutracker.nl",
       "rutracker.org"
+    ]
+  },
+  {
+    "id": "rutrackerru",
+    "name": "RuTracker.RU",
+    "aka": [
+      "RuTracker.RU",
+      "RuTracker RU"
+    ],
+    "description": "RuTracker.RU 是俄语公开 BT 站点（TorrentPier II 引擎），提供电影 / 剧集 / 综合资源，无需注册",
+    "tags": [
+      "Movies",
+      "TV"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "http://rutracker.ru/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "rutracker.ru"
+    ],
+    "allDomains": [
+      "rutracker.ru"
     ]
   },
   {
@@ -6975,6 +7360,28 @@
     ],
     "allDomains": [
       "sewerpt.com"
+    ]
+  },
+  {
+    "id": "shanaproject",
+    "name": "Shana Project",
+    "aka": [],
+    "description": "Shana Project 是一个公开的动漫资源聚合站，收录各字幕组发布的新番剧集与合集",
+    "tags": [
+      "Anime"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.shanaproject.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "shanaproject.com"
+    ],
+    "allDomains": [
+      "shanaproject.com"
     ]
   },
   {
@@ -7556,6 +7963,118 @@
     ]
   },
   {
+    "id": "thepiratebay",
+    "name": "The Pirate Bay",
+    "aka": [
+      "TPB",
+      "海盗湾"
+    ],
+    "description": "The Pirate Bay (TPB) 是最具韧性的公共 BT 索引站，通过 apibay JSON 接口提供搜索",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://thepiratebay.org/",
+      "https://thepiratebay.ninjaproxy1.com/",
+      "https://tpb.proxyninja.org/",
+      "https://thepiratebay.torrentbay.st/",
+      "https://thehiddenbay.com/",
+      "https://tpb.party/",
+      "https://thepiratebay10.xyz/"
+    ],
+    "legacyUrls": [
+      "https://tpb.surf/",
+      "https://tpb.monster/",
+      "https://thepiratebay.host/",
+      "https://piratetoday.xyz/",
+      "https://tpb.wtf/",
+      "https://piratebayproxy.live/",
+      "https://pirateproxy.live/",
+      "https://ukpiratebay.org/",
+      "https://piratebay.by/",
+      "https://thepirateproxy.net/",
+      "https://pirate-proxy.page/",
+      "https://piratehaven.xyz/"
+    ],
+    "activeDomains": [
+      "thehiddenbay.com",
+      "thepiratebay.ninjaproxy1.com",
+      "thepiratebay.org",
+      "thepiratebay.torrentbay.st",
+      "thepiratebay10.xyz",
+      "tpb.party",
+      "tpb.proxyninja.org"
+    ],
+    "allDomains": [
+      "pirate-proxy.page",
+      "piratebay.by",
+      "piratebayproxy.live",
+      "piratehaven.xyz",
+      "pirateproxy.live",
+      "piratetoday.xyz",
+      "thehiddenbay.com",
+      "thepiratebay.host",
+      "thepiratebay.ninjaproxy1.com",
+      "thepiratebay.org",
+      "thepiratebay.torrentbay.st",
+      "thepiratebay10.xyz",
+      "thepirateproxy.net",
+      "tpb.monster",
+      "tpb.party",
+      "tpb.proxyninja.org",
+      "tpb.surf",
+      "tpb.wtf",
+      "ukpiratebay.org"
+    ]
+  },
+  {
+    "id": "therarbg",
+    "name": "TheRARBG",
+    "aka": [
+      "RARBG"
+    ],
+    "description": "TheRARBG 是继承 RARBG.to 风格的公开 BT 站点，覆盖电影、剧集、游戏、音乐等",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://therarbg.to/",
+      "https://therarbg.com/"
+    ],
+    "legacyUrls": [
+      "https://t-rb.org/",
+      "https://the.rarbg.club/",
+      "https://trb.archivebay.online/",
+      "https://trb.t-pb.org/",
+      "https://trb.themirror.wiki/",
+      "https://rarbg.ninjaproxy1.com/",
+      "https://rarbg.proxyninja.org/",
+      "https://rarbg.torrentbay.st/"
+    ],
+    "activeDomains": [
+      "therarbg.com",
+      "therarbg.to"
+    ],
+    "allDomains": [
+      "archivebay.online",
+      "rarbg.club",
+      "rarbg.ninjaproxy1.com",
+      "rarbg.proxyninja.org",
+      "rarbg.torrentbay.st",
+      "t-pb.org",
+      "t-rb.org",
+      "themirror.wiki",
+      "therarbg.com",
+      "therarbg.to"
+    ]
+  },
+  {
     "id": "thevault",
     "name": "TheVault",
     "aka": [
@@ -7803,6 +8322,37 @@
     ]
   },
   {
+    "id": "torrentgalaxyclone",
+    "name": "TorrentGalaxyClone",
+    "aka": [
+      "TGx",
+      "TorrentGalaxy"
+    ],
+    "description": "TorrentGalaxyClone（TGx）是一个公共 BT 站点，主要提供 MOVIES / TV / GENERAL 资源",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://torrentgalaxy.info/",
+      "https://torrentgalaxy.one/"
+    ],
+    "legacyUrls": [
+      "https://torrentgalaxy.space/"
+    ],
+    "activeDomains": [
+      "torrentgalaxy.info",
+      "torrentgalaxy.one"
+    ],
+    "allDomains": [
+      "torrentgalaxy.info",
+      "torrentgalaxy.one",
+      "torrentgalaxy.space"
+    ]
+  },
+  {
     "id": "torrenthub",
     "name": "TorrentHub",
     "aka": [],
@@ -7851,6 +8401,56 @@
     "allDomains": [
       "torrenting.com",
       "torrenting.me"
+    ]
+  },
+  {
+    "id": "torrentkitty",
+    "name": "TorrentKitty",
+    "aka": [],
+    "description": "TorrentKitty is a Public torrent indexer（公开 BT 索引站，站点使用 Cloudflare，必要时需配置 FlareSolverr）",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.torrentkitty.ink/",
+      "https://www.torrentkitty.cam/",
+      "https://www.torrentkitty.io/",
+      "https://www.torrentkitty.vip/",
+      "https://www.torrentkitty.app/",
+      "https://www.torrentkitty.red/",
+      "https://www.torrentkitty.lol/",
+      "https://www.torrentkitty.best/",
+      "https://www.torrentkitty.tv/",
+      "https://torkitty.com/"
+    ],
+    "legacyUrls": [
+      "https://www.torrentkitty.se/"
+    ],
+    "activeDomains": [
+      "torkitty.com",
+      "torrentkitty.app",
+      "torrentkitty.best",
+      "torrentkitty.cam",
+      "torrentkitty.ink",
+      "torrentkitty.io",
+      "torrentkitty.lol",
+      "torrentkitty.red",
+      "torrentkitty.tv",
+      "torrentkitty.vip"
+    ],
+    "allDomains": [
+      "torkitty.com",
+      "torrentkitty.app",
+      "torrentkitty.best",
+      "torrentkitty.cam",
+      "torrentkitty.ink",
+      "torrentkitty.io",
+      "torrentkitty.lol",
+      "torrentkitty.red",
+      "torrentkitty.se",
+      "torrentkitty.tv",
+      "torrentkitty.vip"
     ]
   },
   {
@@ -8271,6 +8871,59 @@
     ]
   },
   {
+    "id": "worldtorrent",
+    "name": "World-torrent",
+    "aka": [
+      "Worldivx",
+      "Darkfox",
+      "Vidlox",
+      "Wikibox",
+      "Sharkibox",
+      "Workino",
+      "Oxtorrent",
+      "Torrent911"
+    ],
+    "description": "World-torrent is a FRENCH Public site for MOVIES / TV / GENERAL（法语公开站，同一套代码的多个镜像域名）",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://ww1.darkfox.run/",
+      "https://ww1.vidlox.run/",
+      "https://ww1.worldivx.run/",
+      "https://ww1.wikibox.run/",
+      "https://ww1.sharkibox.run/",
+      "https://ww1.workino.run/",
+      "https://ww1.oxtorrent.run/",
+      "https://ww1.torrent911.run/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "darkfox.run",
+      "oxtorrent.run",
+      "sharkibox.run",
+      "torrent911.run",
+      "vidlox.run",
+      "wikibox.run",
+      "workino.run",
+      "worldivx.run"
+    ],
+    "allDomains": [
+      "darkfox.run",
+      "oxtorrent.run",
+      "sharkibox.run",
+      "torrent911.run",
+      "vidlox.run",
+      "wikibox.run",
+      "workino.run",
+      "worldivx.run"
+    ]
+  },
+  {
     "id": "wukongwendao",
     "name": "悟空问道",
     "aka": [],
@@ -8472,6 +9125,61 @@
     ]
   },
   {
+    "id": "xxxclub",
+    "name": "XXXClub",
+    "aka": [],
+    "description": "XXXClub is a Public torrent site for 3X（成人向公开站，站点使用 Cloudflare，必要时需配置 FlareSolverr）",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://xxxclub.to/",
+      "https://xxxclub.cc/",
+      "https://xxxclub.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "xxxclub.cc",
+      "xxxclub.me",
+      "xxxclub.to"
+    ],
+    "allDomains": [
+      "xxxclub.cc",
+      "xxxclub.me",
+      "xxxclub.to"
+    ]
+  },
+  {
+    "id": "xxxtor",
+    "name": "xxxtor",
+    "aka": [],
+    "description": "xxxtor is a RUSSIAN Public Torrent Tracker for 3X（俄语成人向公开站）",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://xxxtor.com/"
+    ],
+    "legacyUrls": [
+      "https://xxxtor.org/"
+    ],
+    "activeDomains": [
+      "xxxtor.com"
+    ],
+    "allDomains": [
+      "xxxtor.com",
+      "xxxtor.org"
+    ]
+  },
+  {
     "id": "ydypt",
     "name": "伊甸园",
     "aka": [],
@@ -8569,6 +9277,49 @@
     ],
     "allDomains": [
       "ying.us.kg"
+    ]
+  },
+  {
+    "id": "yts",
+    "name": "YTS",
+    "aka": [
+      "YIFY"
+    ],
+    "description": "YTS 是一个专注于小体积高清电影（YIFY 压片组）的公共 BT 站点，提供 JSON API",
+    "tags": [
+      "电影"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://yts.gg/"
+    ],
+    "legacyUrls": [
+      "https://yts.mx/",
+      "https://yts.bz/",
+      "https://yts.am/",
+      "https://yts.ag/",
+      "https://yts.lt/",
+      "https://yts.torrentbay.st/",
+      "https://yts.torrentsbay.org/",
+      "https://yts.ninjaproxy1.com/",
+      "https://yts.proxyninja.org/"
+    ],
+    "activeDomains": [
+      "yts.gg"
+    ],
+    "allDomains": [
+      "yts.ag",
+      "yts.am",
+      "yts.bz",
+      "yts.gg",
+      "yts.lt",
+      "yts.mx",
+      "yts.ninjaproxy1.com",
+      "yts.proxyninja.org",
+      "yts.torrentbay.st",
+      "yts.torrentsbay.org"
     ]
   },
   {

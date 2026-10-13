@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-12 08:56:40 UTC
-# Total Rules: 325
+# Updated: 2026-10-13 09:11:40 UTC
+# Total Rules: 381
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,animez.to # AnimeZ
   - DOMAIN-SUFFIX,anirena.com # AniRena
   - DOMAIN-SUFFIX,anthelion.me # Anthelion
+  - DOMAIN-SUFFIX,archive.org # Internet Archive
   - DOMAIN-SUFFIX,asnet.pw # AniSource
   - DOMAIN-SUFFIX,audiences.me # Audiences
   - DOMAIN-SUFFIX,audiobookbay.fi # AudioBook Bay
@@ -48,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,avistaz.to # AvistaZ
   - DOMAIN-SUFFIX,azusa.wiki # 梓喵
   - DOMAIN-SUFFIX,bakabt.me # BakaBT
+  - DOMAIN-SUFFIX,bangumi.moe # Bangumi Moe
   - DOMAIN-SUFFIX,bemaniso.ws # Bemaniso
   - DOMAIN-SUFFIX,beyond-hd.me # BeyondHD
   - DOMAIN-SUFFIX,bibliotik.me # Bibliotik
@@ -84,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,cusat.win # PTFans
   - DOMAIN-SUFFIX,cyanbug.net # CyanBug
   - DOMAIN-SUFFIX,danishbytes.club # DanishBytes
+  - DOMAIN-SUFFIX,darkfox.run # World-torrent
   - DOMAIN-SUFFIX,darkland.top # Darkland
   - DOMAIN-SUFFIX,darkpeers.org # darkpeers
   - DOMAIN-SUFFIX,datascene.xyz # DataScene
@@ -110,6 +113,11 @@ payload:
   - DOMAIN-SUFFIX,extranet.torrentbay.st # EXT Torrents
   - DOMAIN-SUFFIX,extremlymtorrents.ws # XTR
   - DOMAIN-SUFFIX,extto.com # EXT Torrents
+  - DOMAIN-SUFFIX,eztv.tf # EZTV
+  - DOMAIN-SUFFIX,eztv.wf # EZTV
+  - DOMAIN-SUFFIX,eztv.yt # EZTV
+  - DOMAIN-SUFFIX,eztv1.xyz # EZTV
+  - DOMAIN-SUFFIX,eztvx.to # EZTV
   - DOMAIN-SUFFIX,fappaizuri.me # Fappaizuri
   - DOMAIN-SUFFIX,femdomcult.org # Femdomcult
   - DOMAIN-SUFFIX,filelist.io # FileList
@@ -172,6 +180,9 @@ payload:
   - DOMAIN-SUFFIX,lat-team.com # LAT-Team
   - DOMAIN-SUFFIX,learnflakes.net # LearnFlakes
   - DOMAIN-SUFFIX,lemonhd.net # 柠檬不甜
+  - DOMAIN-SUFFIX,limetorrents.fun # LimeTorrents
+  - DOMAIN-SUFFIX,limetorrents.torrentbay.st # LimeTorrents
+  - DOMAIN-SUFFIX,limetorrents.torrentsbay.org # LimeTorrents
   - DOMAIN-SUFFIX,longpt.org # LongPT
   - DOMAIN-SUFFIX,losslessclub.com # LosslessClub
   - DOMAIN-SUFFIX,lp-bits.com # LP-Bits
@@ -182,8 +193,11 @@ payload:
   - DOMAIN-SUFFIX,m-team.cc # M-Team - TP
   - DOMAIN-SUFFIX,m-team.io # M-Team - TP
   - DOMAIN-SUFFIX,marchcms.org # March-Media
+  - DOMAIN-SUFFIX,megapeer.vip # MegaPeer
   - DOMAIN-SUFFIX,midnightscene.cc # MidnightScene
+  - DOMAIN-SUFFIX,mikanani.me # Mikan Project
   - DOMAIN-SUFFIX,milkie.cc # Milkie
+  - DOMAIN-SUFFIX,minglong.org # Nipponsei
   - DOMAIN-SUFFIX,momentpt.top # MomentPT
   - DOMAIN-SUFFIX,monikadesign.uk # Monikadesign
   - DOMAIN-SUFFIX,musopia.vip # 音乐乌托邦
@@ -195,15 +209,20 @@ payload:
   - DOMAIN-SUFFIX,ncore.pro # nCore
   - DOMAIN-SUFFIX,nebulance.io # Nebulance
   - DOMAIN-SUFFIX,nekobt.to # nekoBT
+  - DOMAIN-SUFFIX,newstudio.tv # NewStudio
   - DOMAIN-SUFFIX,nexushd.org # NexusHD
   - DOMAIN-SUFFIX,nicept.net # NicePT
   - DOMAIN-SUFFIX,njtupt.top # 浦园
+  - DOMAIN-SUFFIX,nnmclub.to # NoNaMe Club
   - DOMAIN-SUFFIX,nordicbytes.org # NordicBytes
   - DOMAIN-SUFFIX,nordicq.org # NordicQuality
   - DOMAIN-SUFFIX,novahd.top # NovaHD
+  - DOMAIN-SUFFIX,nyaa.media # Nyaa
+  - DOMAIN-SUFFIX,nyaa.mom # Nyaa
   - DOMAIN-SUFFIX,nyaa.si # Nyaa
   - DOMAIN-SUFFIX,okpt.net # OKPT
   - DOMAIN-SUFFIX,oldtoons.world # OldToonsWorld
+  - DOMAIN-SUFFIX,onejav.com # OneJAV
   - DOMAIN-SUFFIX,onlyencodes.cc # OnlyEncodes+
   - DOMAIN-SUFFIX,open.cd # OpenCD
   - DOMAIN-SUFFIX,orpheus.network # Orpheus
@@ -211,6 +230,7 @@ payload:
   - DOMAIN-SUFFIX,our.kelu.one # Kelu
   - DOMAIN-SUFFIX,ourbits.club # OurBits
   - DOMAIN-SUFFIX,ourhelp.club # OurBits
+  - DOMAIN-SUFFIX,oxtorrent.run # World-torrent
   - DOMAIN-SUFFIX,pandapt.net # PandaPT
   - DOMAIN-SUFFIX,passthepopcorn.me # PassThePopcorn
   - DOMAIN-SUFFIX,piggo.me # Piggo
@@ -250,14 +270,19 @@ payload:
   - DOMAIN-SUFFIX,retrotoon.world # RetroToon World
   - DOMAIN-SUFFIX,rocket-hd.cc # RocketHD
   - DOMAIN-SUFFIX,rousi.pro # Rousi Pro
+  - DOMAIN-SUFFIX,rutor.info # RuTor
+  - DOMAIN-SUFFIX,rutor.is # RuTor
   - DOMAIN-SUFFIX,rutracker.net # RuTracker.org
   - DOMAIN-SUFFIX,rutracker.org # RuTracker.org
+  - DOMAIN-SUFFIX,rutracker.ru # RuTracker.RU
   - DOMAIN-SUFFIX,sbpt.link # SBPT
   - DOMAIN-SUFFIX,secret-cinema.pw # Secret Cinema
   - DOMAIN-SUFFIX,seedpool.org # seedpool
   - DOMAIN-SUFFIX,sewerpt.com # 下水道
+  - DOMAIN-SUFFIX,shanaproject.com # Shana Project
   - DOMAIN-SUFFIX,share.dmhy.org # 動漫花園資源網
   - DOMAIN-SUFFIX,shareisland.org # ShareIsland
+  - DOMAIN-SUFFIX,sharkibox.run # World-torrent
   - DOMAIN-SUFFIX,si-qi.xyz # 思齐
   - DOMAIN-SUFFIX,simurg.world # Simurg
   - DOMAIN-SUFFIX,skipthecommercials.xyz # SkipTheCommercials
@@ -277,6 +302,13 @@ payload:
   - DOMAIN-SUFFIX,tey.cc # tey
   - DOMAIN-SUFFIX,theaudiobookbay.se # AudioBook Bay
   - DOMAIN-SUFFIX,thegeeks.click # TheGeeks
+  - DOMAIN-SUFFIX,thehiddenbay.com # The Pirate Bay
+  - DOMAIN-SUFFIX,thepiratebay.ninjaproxy1.com # The Pirate Bay
+  - DOMAIN-SUFFIX,thepiratebay.org # The Pirate Bay
+  - DOMAIN-SUFFIX,thepiratebay.torrentbay.st # The Pirate Bay
+  - DOMAIN-SUFFIX,thepiratebay10.xyz # The Pirate Bay
+  - DOMAIN-SUFFIX,therarbg.com # TheRARBG
+  - DOMAIN-SUFFIX,therarbg.to # TheRARBG
   - DOMAIN-SUFFIX,thevault.click # TheVault
   - DOMAIN-SUFFIX,tjupt.org # 北洋园PT
   - DOMAIN-SUFFIX,tleechreload.org # TorrentLeech
@@ -285,18 +317,33 @@ payload:
   - DOMAIN-SUFFIX,tokyo-manga.top # Tokyo
   - DOMAIN-SUFFIX,tokyo-tosho.net # Tokyo Toshokan
   - DOMAIN-SUFFIX,tokyotosho.info # Tokyo Toshokan
+  - DOMAIN-SUFFIX,torkitty.com # TorrentKitty
   - DOMAIN-SUFFIX,torrent.desi # DesiTorrents
+  - DOMAIN-SUFFIX,torrent911.run # World-torrent
   - DOMAIN-SUFFIX,torrentday.com # TorrentsTD
   - DOMAIN-SUFFIX,torrentday.cool # TorrentsTD
   - DOMAIN-SUFFIX,torrentday.it # TorrentsTD
   - DOMAIN-SUFFIX,torrentday.me # TorrentsTD
+  - DOMAIN-SUFFIX,torrentgalaxy.info # TorrentGalaxyClone
+  - DOMAIN-SUFFIX,torrentgalaxy.one # TorrentGalaxyClone
   - DOMAIN-SUFFIX,torrenting.com # Torrenting
   - DOMAIN-SUFFIX,torrenting.me # Torrenting
+  - DOMAIN-SUFFIX,torrentkitty.app # TorrentKitty
+  - DOMAIN-SUFFIX,torrentkitty.best # TorrentKitty
+  - DOMAIN-SUFFIX,torrentkitty.cam # TorrentKitty
+  - DOMAIN-SUFFIX,torrentkitty.ink # TorrentKitty
+  - DOMAIN-SUFFIX,torrentkitty.io # TorrentKitty
+  - DOMAIN-SUFFIX,torrentkitty.lol # TorrentKitty
+  - DOMAIN-SUFFIX,torrentkitty.red # TorrentKitty
+  - DOMAIN-SUFFIX,torrentkitty.tv # TorrentKitty
+  - DOMAIN-SUFFIX,torrentkitty.vip # TorrentKitty
   - DOMAIN-SUFFIX,torrentleech.cc # TorrentLeech
   - DOMAIN-SUFFIX,torrentleech.me # TorrentLeech
   - DOMAIN-SUFFIX,torrentleech.org # TorrentLeech
   - DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
   - DOMAIN-SUFFIX,totheglory.im # ToTheGlory
+  - DOMAIN-SUFFIX,tpb.party # The Pirate Bay
+  - DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
   - DOMAIN-SUFFIX,trancetraffic.com # TranceTraffic
   - DOMAIN-SUFFIX,tu88.men # TU88
   - DOMAIN-SUFFIX,turkseed.com # TURKSEED
@@ -307,10 +354,14 @@ payload:
   - DOMAIN-SUFFIX,upxin.net # HDU
   - DOMAIN-SUFFIX,usefultrash.net # ABTorrents
   - DOMAIN-SUFFIX,vclib.online # VC-Lib
+  - DOMAIN-SUFFIX,vidlox.run # World-torrent
   - DOMAIN-SUFFIX,wiiii.dpdns.org # LongPT
+  - DOMAIN-SUFFIX,wikibox.run # World-torrent
   - DOMAIN-SUFFIX,wintersakura.net # WinterSakura
+  - DOMAIN-SUFFIX,workino.run # World-torrent
   - DOMAIN-SUFFIX,workisboring.net # TorrentsTD
   - DOMAIN-SUFFIX,world-in-hd.net # WiHD
+  - DOMAIN-SUFFIX,worldivx.run # World-torrent
   - DOMAIN-SUFFIX,wuji.me # 0Magnet
   - DOMAIN-SUFFIX,x1337x.cc # 1337x
   - DOMAIN-SUFFIX,x1337x.eu # 1337x
@@ -322,9 +373,14 @@ payload:
   - DOMAIN-SUFFIX,xingyungept.cn # 星陨阁
   - DOMAIN-SUFFIX,xingyungept.org # 星陨阁
   - DOMAIN-SUFFIX,xloli.cc # ilolicon
+  - DOMAIN-SUFFIX,xxxclub.cc # XXXClub
+  - DOMAIN-SUFFIX,xxxclub.me # XXXClub
+  - DOMAIN-SUFFIX,xxxclub.to # XXXClub
+  - DOMAIN-SUFFIX,xxxtor.com # xxxtor
   - DOMAIN-SUFFIX,xzt.me # 音乐乌托邦
   - DOMAIN-SUFFIX,yemapt.org # YemaPT
   - DOMAIN-SUFFIX,ying.us.kg # 樱花
+  - DOMAIN-SUFFIX,yts.gg # YTS
   - DOMAIN-SUFFIX,yu-scene.net # YUSCENE
   - DOMAIN-SUFFIX,yzyy.asia # YzYY
   - DOMAIN-SUFFIX,yzyy.org # YzYY
