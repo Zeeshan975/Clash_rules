@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-13 09:11:40 UTC
-# Total Domains: 604
+# Updated: 2026-10-14 07:22:38 UTC
+# Total Domains: 673
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -33,6 +33,7 @@ payload:
   - '+.1cili.com' # 0Magnet
   - '+.1ctrl.cn' # 修道院
   - '+.1ptba.com' # 1PTBar
+  - '+.25img.com' # U3C3
   - '+.2xfree.org' # 2xFree
   - '+.521.best' # 凤凰PT
   - '+.525968.xyz' # 大宝剑
@@ -52,6 +53,7 @@ payload:
   - '+.aither.cc' # Aither
   - '+.aling.de' # alingPT
   - '+.alpharatio.cc' # AlphaRatio
+  - '+.anibt.net' # Anibt
   - '+.animebytes.tv' # AnimeBytes
   - '+.animelovers.club' # ANIMELOVERS
   - '+.animetosho.org' # AnimeTosho
@@ -86,8 +88,10 @@ payload:
   - '+.bitbr.cc' # bitbr
   - '+.bitporn.eu' # BitPorn
   - '+.bitpt.cn' # 极速之星
+  - '+.blueroms.ws' # BlueRoms
   - '+.blutopia.cc' # Blutopia
   - '+.blutopia.xyz' # Blutopia
+  - '+.bosk.cc' # sosulki
   - '+.broadcasthe.net' # BroadcastTheNet
   - '+.brokenstones.is' # BrokenStones
   - '+.bt.byr.cn' # 北邮人-BYRBT
@@ -105,6 +109,11 @@ payload:
   - '+.bwtorrents.us' # BWT
   - '+.bwtorrents.xyz' # BWT
   - '+.byr.pt' # 北邮人-BYRBT
+  - '+.byrut.org' # Byrutor
+  - '+.byrutdb.org' # Byrutor
+  - '+.byrutgame.org' # Byrutor
+  - '+.byruthub.org' # Byrutor
+  - '+.byrutor.org' # Byrutor
   - '+.cangbao.ge' # 藏宝阁
   - '+.capybarabr.com' # CapybaraBR
   - '+.carpt.net' # CarPT
@@ -128,6 +137,7 @@ payload:
   - '+.concen.org' # ConCen
   - '+.concertos.live' # Concertos
   - '+.crabpt.vip' # CrabPt
+  - '+.crackingpatching.com' # CrackingPatching
   - '+.cspt.cc' # 财神
   - '+.cspt.date' # 财神
   - '+.cspt.top' # 财神
@@ -268,6 +278,7 @@ payload:
   - '+.hhanclub.top' # 憨憨
   - '+.hitpt.com' # 百川PT
   - '+.hitpt.org' # 清影PT
+  - '+.hlom.ru' # sosulki
   - '+.homiehelpdesk.net' # HomieHelpdesk
   - '+.hqmusic.info' # HQMusic
   - '+.hspt.club' # 回声PT
@@ -287,8 +298,34 @@ payload:
   - '+.jptv4.us' # JPTV4us
   - '+.kamept.com' # KamePT
   - '+.karagarga.in' # KaraGarga
+  - '+.kat.how' # kickasstorrents.ws
+  - '+.kat.li' # kickasstorrents.ws
+  - '+.katcr.io' # kickasstorrents.ws
+  - '+.katcr.to' # kickasstorrents.to
+  - '+.kattracker.com' # kickasstorrents.ws
   - '+.keepfrds.com' # PT@KEEPFRDS
+  - '+.kick4ss.com' # kickasstorrents.ws
+  - '+.kickass-kat.com' # kickasstorrents.ws
+  - '+.kickass.gg' # kickasstorrents.ws
+  - '+.kickass.sh' # kickasstorrents.ws
+  - '+.kickass.torrentbay.st' # kickasstorrents.to
+  - '+.kickass.torrentsbay.org' # kickasstorrents.to
+  - '+.kickass.ws' # kickasstorrents.ws
+  - '+.kickasshydra.dev' # kickasstorrents.ws
+  - '+.kickasst.net' # kickasstorrents.ws
+  - '+.kickasstorrent.cr' # kickasstorrents.to
+  - '+.kickasstorrents.abcproxy.org' # kickasstorrents.to
+  - '+.kickasstorrents.bz' # kickasstorrents.ws
+  - '+.kickasstorrents.do' # kickasstorrents.to
+  - '+.kickasstorrents.id' # kickasstorrents.ws
+  - '+.kickasstorrents.ninjaproxy1.com' # kickasstorrents.to
+  - '+.kickasstorrents.proxyninja.net' # kickasstorrents.to
+  - '+.kickasstorrents.proxyninja.org' # kickasstorrents.to
+  - '+.kickasstorrents.to' # kickasstorrents.to
+  - '+.kickasstorrents.unblockninja.com' # kickasstorrents.to
   - '+.kimoji.club' # KIMOJI
+  - '+.kkat.net' # kickasstorrents.ws
+  - '+.kkickass.com' # kickasstorrents.ws
   - '+.kufei.org' # 库非
   - '+.kufirc.com' # kufirc
   - '+.lajidui.top' # lajidui
@@ -310,7 +347,9 @@ payload:
   - '+.limetorrents.torrentsbay.org' # LimeTorrents
   - '+.limetorrents.unblockit.download' # LimeTorrents
   - '+.limetorrents.unblockninja.com' # LimeTorrents
+  - '+.linuxtracker.org' # LinuxTracker
   - '+.longpt.org' # LongPT
+  - '+.looptorrent.net' # VST Torrentz
   - '+.losslessclub.com' # LosslessClub
   - '+.lp-bits.com' # LP-Bits
   - '+.lst.gg' # LST
@@ -327,6 +366,8 @@ payload:
   - '+.milkie.cc' # Milkie
   - '+.mine.pt' # MINE.pt
   - '+.minglong.org' # Nipponsei
+  - '+.mixtapetorrent.com' # MixtapeTorrent
+  - '+.mnmnmnmnmn.com' # U3C3
   - '+.moecat.best' # MoeCat
   - '+.momentpt.top' # MomentPT
   - '+.monikadesign.uk' # Monikadesign
@@ -372,6 +413,7 @@ payload:
   - '+.ourbits.club' # OurBits
   - '+.ourhelp.club' # OurBits
   - '+.oxtorrent.run' # World-torrent
+  - '+.pandacd.io' # PandaCD
   - '+.pandapt.net' # PandaPT
   - '+.passthepopcorn.me' # PassThePopcorn
   - '+.piggo.me' # Piggo
@@ -384,6 +426,7 @@ payload:
   - '+.pixelcove.me' # PixelCove
   - '+.playlet.cc' # PlayLet
   - '+.playletpt.xyz' # PlayLet
+  - '+.plugintorrent.com' # PluginTorrent
   - '+.polishtorrent.top' # PolishTorrent
   - '+.pornbay.org' # Pornbay
   - '+.pornbits.net' # Pornbits
@@ -434,7 +477,9 @@ payload:
   - '+.retroflix.club' # RetroFlix
   - '+.retroflix.net' # RetroFlix
   - '+.retrotoon.world' # RetroToon World
+  - '+.rintor.net' # RinTor.NeT
   - '+.rocket-hd.cc' # RocketHD
+  - '+.root.yt' # kickasstorrents.to
   - '+.rousi.pro' # Rousi Pro
   - '+.rousi.zip' # Rousi
   - '+.rutor.info' # RuTor
@@ -456,12 +501,16 @@ payload:
   - '+.shareisland.org' # ShareIsland
   - '+.sharkibox.run' # World-torrent
   - '+.sharkpt.net' # 鲨鱼PT
+  - '+.showrss.info' # showRSS
   - '+.si-qi.xyz' # 思齐
   - '+.simurg.world' # Simurg
+  - '+.skidrowrepack.com' # SkidrowRepack
   - '+.skipthecommercials.xyz' # SkipTheCommercials
   - '+.skyey2.com' # SkyeySnow
   - '+.skyeysnow.com' # SkyeySnow
   - '+.snakepop.art' # Snakepop
+  - '+.sosulki.com' # sosulki
+  - '+.sosulki.net' # sosulki
   - '+.soulvoice.club' # SoulVoice
   - '+.speedapp.io' # SpeedApp
   - '+.sportscult.org' # SportsCult
@@ -483,8 +532,12 @@ payload:
   - '+.telly.wtf' # Telly
   - '+.tey.cc' # tey
   - '+.theaudiobookbay.se' # AudioBook Bay
+  - '+.thebyrut.org' # Byrutor
   - '+.thegeeks.click' # TheGeeks
   - '+.thehiddenbay.com' # The Pirate Bay
+  - '+.thekat.cc' # kickasstorrents.ws
+  - '+.thekat.nz' # kickasstorrents.ws
+  - '+.thekat.se' # kickasstorrents.ws
   - '+.themirror.wiki' # TheRARBG
   - '+.thepiratebay.host' # The Pirate Bay
   - '+.thepiratebay.ninjaproxy1.com' # The Pirate Bay
@@ -507,6 +560,12 @@ payload:
   - '+.tokyotosho.se' # Tokyo Toshokan
   - '+.torkitty.com' # TorrentKitty
   - '+.torrent.desi' # DesiTorrents
+  - '+.torrent9.fm' # Torrent9
+  - '+.torrent9.gg' # Torrent9
+  - '+.torrent9.li' # Torrent9
+  - '+.torrent9.se' # Torrent9
+  - '+.torrent9.site' # Torrent9
+  - '+.torrent9.to' # Torrent9
   - '+.torrent911.run' # World-torrent
   - '+.torrentday.com' # TorrentsTD
   - '+.torrentday.cool' # TorrentsTD
@@ -548,8 +607,13 @@ payload:
   - '+.turkseed.com' # TURKSEED
   - '+.u-torrents.ro' # SpeedApp
   - '+.u2.dmhy.org' # U2
+  - '+.u3c3.com' # U3C3
+  - '+.u3c3.in' # U3C3
+  - '+.u3c3.life' # U3C3
+  - '+.u3c3u3c3u3c3.com' # U3C3
   - '+.ubits.club' # UBits
   - '+.uhdbits.org' # UHDBits
+  - '+.uindex.org' # UIndex
   - '+.ukpiratebay.org' # The Pirate Bay
   - '+.ultrahd.net' # UltraHD
   - '+.upload.cx' # ULCX
@@ -558,6 +622,9 @@ payload:
   - '+.vclib.online' # VC-Lib
   - '+.venom.global' # TorrentsTD
   - '+.vidlox.run' # World-torrent
+  - '+.vstorrent.org' # VSTorrent
+  - '+.vsttorrents.net' # VST Torrentz
+  - '+.vsttorrentz.net' # VST Torrentz
   - '+.whu.pt' # 珞樱-WHUPT
   - '+.wiiii.dpdns.org' # LongPT
   - '+.wikibox.run' # World-torrent
@@ -606,6 +673,8 @@ payload:
   - '+.yu-scene.net' # YUSCENE
   - '+.yzyy.asia' # YzYY
   - '+.yzyy.org' # YzYY
+  - '+.zamunda.life' # Zamunda LIFE
+  - '+.zamunda.rip' # Zamunda LIFE
   - '+.zhixing.bjtu.edu.cn' # 知行PT
   - '+.zhuque.in' # 朱雀
   - '+.zmpt.cc' # 织梦

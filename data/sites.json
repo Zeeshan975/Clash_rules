@@ -480,6 +480,30 @@
     ]
   },
   {
+    "id": "anibt",
+    "name": "Anibt",
+    "aka": [
+      "AniBT"
+    ],
+    "description": "Anibt is a CHINESE Public aggregate indexer for ANIME",
+    "tags": [
+      "动漫"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://anibt.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "anibt.net"
+    ],
+    "allDomains": [
+      "anibt.net"
+    ]
+  },
+  {
     "id": "animebytes",
     "name": "AnimeBytes",
     "aka": [
@@ -1187,6 +1211,28 @@
     ]
   },
   {
+    "id": "blueroms",
+    "name": "BlueRoms",
+    "aka": [],
+    "description": "BlueRoms is a Public Torrent Tracker for ROMS",
+    "tags": [
+      "游戏"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.blueroms.ws/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "blueroms.ws"
+    ],
+    "allDomains": [
+      "blueroms.ws"
+    ]
+  },
+  {
     "id": "blutopia",
     "name": "Blutopia",
     "aka": [
@@ -1384,6 +1430,40 @@
     "allDomains": [
       "bt.byr.cn",
       "byr.pt"
+    ]
+  },
+  {
+    "id": "byrutor",
+    "name": "Byrutor",
+    "aka": [],
+    "description": "Byrutor 是一个俄语公共游戏 Tracker。",
+    "tags": [
+      "游戏",
+      "PC"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://byrutgame.org/"
+    ],
+    "legacyUrls": [
+      "https://byrutor.org/",
+      "https://byrutdb.org/",
+      "https://byrut.org/",
+      "https://thebyrut.org/",
+      "https://byruthub.org/"
+    ],
+    "activeDomains": [
+      "byrutgame.org"
+    ],
+    "allDomains": [
+      "byrut.org",
+      "byrutdb.org",
+      "byrutgame.org",
+      "byruthub.org",
+      "byrutor.org",
+      "thebyrut.org"
     ]
   },
   {
@@ -1842,6 +1922,26 @@
     ],
     "allDomains": [
       "crabpt.vip"
+    ]
+  },
+  {
+    "id": "crackingpatching",
+    "name": "CrackingPatching",
+    "aka": [],
+    "description": "CrackingPatching is a Public tracker for Software and Apps",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://crackingpatching.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "crackingpatching.com"
+    ],
+    "allDomains": [
+      "crackingpatching.com"
     ]
   },
   {
@@ -4485,6 +4585,120 @@
     ]
   },
   {
+    "id": "kickasstorrentsto",
+    "name": "kickasstorrents.to",
+    "aka": [],
+    "description": "kickasstorrents.to 是 KickassTorrents 的公共镜像，提供 MOVIES / TV / GENERAL 资源。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://kickass.torrentbay.st/",
+      "https://kickass.torrentsbay.org/",
+      "https://kickasstorrents.proxyninja.org/",
+      "https://kickasstorrents.ninjaproxy1.com/"
+    ],
+    "legacyUrls": [
+      "https://kat.root.yt/",
+      "https://kickasstorrents.abcproxy.org/",
+      "https://kickasstorrents.to/",
+      "https://kickasstorrent.cr/",
+      "https://katcr.to/",
+      "https://www.kickasstorrents.do/",
+      "https://kickasstorrents.unblockninja.com/",
+      "https://kickasstorrents.proxyninja.net/"
+    ],
+    "activeDomains": [
+      "kickass.torrentbay.st",
+      "kickass.torrentsbay.org",
+      "kickasstorrents.ninjaproxy1.com",
+      "kickasstorrents.proxyninja.org"
+    ],
+    "allDomains": [
+      "katcr.to",
+      "kickass.torrentbay.st",
+      "kickass.torrentsbay.org",
+      "kickasstorrent.cr",
+      "kickasstorrents.abcproxy.org",
+      "kickasstorrents.do",
+      "kickasstorrents.ninjaproxy1.com",
+      "kickasstorrents.proxyninja.net",
+      "kickasstorrents.proxyninja.org",
+      "kickasstorrents.to",
+      "kickasstorrents.unblockninja.com",
+      "root.yt"
+    ]
+  },
+  {
+    "id": "kickasstorrentsws",
+    "name": "kickasstorrents.ws",
+    "aka": [],
+    "description": "kickasstorrents.ws 是 KickassTorrents 的公共镜像，提供 MOVIES / TV / GENERAL 资源。",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://kickasstorrents.bz/",
+      "https://kkickass.com/",
+      "https://kkat.net/",
+      "https://kick4ss.com/",
+      "https://kickasst.net/",
+      "https://kickasstorrents.id/",
+      "https://thekat.cc/",
+      "https://kattracker.com/"
+    ],
+    "legacyUrls": [
+      "https://kickass.ws/",
+      "https://kickass.gg/",
+      "https://katcr.io/",
+      "https://thekat.nz/",
+      "https://thekat.se/",
+      "https://kat.how/",
+      "https://kat.li/",
+      "https://kickass-kat.com/",
+      "https://kickass.sh/",
+      "https://kickasshydra.dev/"
+    ],
+    "activeDomains": [
+      "kattracker.com",
+      "kick4ss.com",
+      "kickasst.net",
+      "kickasstorrents.bz",
+      "kickasstorrents.id",
+      "kkat.net",
+      "kkickass.com",
+      "thekat.cc"
+    ],
+    "allDomains": [
+      "kat.how",
+      "kat.li",
+      "katcr.io",
+      "kattracker.com",
+      "kick4ss.com",
+      "kickass-kat.com",
+      "kickass.gg",
+      "kickass.sh",
+      "kickass.ws",
+      "kickasshydra.dev",
+      "kickasst.net",
+      "kickasstorrents.bz",
+      "kickasstorrents.id",
+      "kkat.net",
+      "kkickass.com",
+      "thekat.cc",
+      "thekat.nz",
+      "thekat.se"
+    ]
+  },
+  {
     "id": "kimoji",
     "name": "KIMOJI",
     "aka": [],
@@ -4773,6 +4987,28 @@
       "limetorrents.unblockit.download",
       "limetorrents.unblockninja.com",
       "nocensor.cloud"
+    ]
+  },
+  {
+    "id": "linuxtracker",
+    "name": "LinuxTracker",
+    "aka": [],
+    "description": "LinuxTracker is a Public Linux ISO Torrent Repository",
+    "tags": [
+      "软件"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://linuxtracker.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "linuxtracker.org"
+    ],
+    "allDomains": [
+      "linuxtracker.org"
     ]
   },
   {
@@ -5101,6 +5337,28 @@
     ],
     "allDomains": [
       "mine.pt"
+    ]
+  },
+  {
+    "id": "mixtapetorrent",
+    "name": "MixtapeTorrent",
+    "aka": [],
+    "description": "MixtapeTorrent is a Public Music site for MixTapes",
+    "tags": [
+      "音乐"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "http://www.mixtapetorrent.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "mixtapetorrent.com"
+    ],
+    "allDomains": [
+      "mixtapetorrent.com"
     ]
   },
   {
@@ -6002,6 +6260,28 @@
     ]
   },
   {
+    "id": "pandacd",
+    "name": "PandaCD",
+    "aka": [],
+    "description": "PandaCD is a Public Tracker for MUSIC (Creative Commons and artist-permitted content)",
+    "tags": [
+      "音乐"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://pandacd.io/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pandacd.io"
+    ],
+    "allDomains": [
+      "pandacd.io"
+    ]
+  },
+  {
     "id": "pandapt",
     "name": "PandaPT",
     "aka": [
@@ -6120,6 +6400,29 @@
     "allDomains": [
       "playlet.cc",
       "playletpt.xyz"
+    ]
+  },
+  {
+    "id": "plugintorrent",
+    "name": "PluginTorrent",
+    "aka": [],
+    "description": "plugintorrent is a Public site for AUDIO apps, plugins and samples",
+    "tags": [
+      "Audio",
+      "Software"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://plugintorrent.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "plugintorrent.com"
+    ],
+    "allDomains": [
+      "plugintorrent.com"
     ]
   },
   {
@@ -7029,6 +7332,30 @@
     ]
   },
   {
+    "id": "rintornet",
+    "name": "RinTor.NeT",
+    "aka": [],
+    "description": "RinTor.NeT 是一个俄语成人（XXX）公共 Tracker。",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.rintor.net/",
+      "https://rintor.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "rintor.net"
+    ],
+    "allDomains": [
+      "rintor.net"
+    ]
+  },
+  {
     "id": "rockethd",
     "name": "RocketHD",
     "aka": [],
@@ -7431,6 +7758,28 @@
     ]
   },
   {
+    "id": "showrss",
+    "name": "showRSS",
+    "aka": [],
+    "description": "showRSS is a service that allows you to keep track of your favorite TV shows",
+    "tags": [
+      "电视剧"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://showrss.info/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "showrss.info"
+    ],
+    "allDomains": [
+      "showrss.info"
+    ]
+  },
+  {
     "id": "simurg",
     "name": "Simurg",
     "aka": [],
@@ -7505,6 +7854,28 @@
     ]
   },
   {
+    "id": "skidrowrepack",
+    "name": "SkidrowRepack",
+    "aka": [],
+    "description": "SkidrowRepack is a Public Torrent Tracker for GAMES",
+    "tags": [
+      "Games"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://skidrowrepack.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "skidrowrepack.com"
+    ],
+    "allDomains": [
+      "skidrowrepack.com"
+    ]
+  },
+  {
     "id": "skipthecommercials",
     "name": "SkipTheCommercials",
     "aka": [
@@ -7575,6 +7946,37 @@
     ],
     "allDomains": [
       "snakepop.art"
+    ]
+  },
+  {
+    "id": "sosulki",
+    "name": "sosulki",
+    "aka": [],
+    "description": "sosulki 是一个俄语成人（XXX）公共 Tracker。",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://sosulki.bosk.cc/"
+    ],
+    "legacyUrls": [
+      "http://sosulki.net/",
+      "http://sosulki.com/",
+      "https://sosulki.com/",
+      "https://sosulki.hlom.ru/"
+    ],
+    "activeDomains": [
+      "bosk.cc"
+    ],
+    "allDomains": [
+      "bosk.cc",
+      "hlom.ru",
+      "sosulki.com",
+      "sosulki.net"
     ]
   },
   {
@@ -8256,6 +8658,44 @@
     ]
   },
   {
+    "id": "torrent9",
+    "name": "Torrent9",
+    "aka": [],
+    "description": "Torrent9 is a FRENCH Public site for MOVIES / TV / GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www7.torrent9.to/"
+    ],
+    "legacyUrls": [
+      "https://www.torrent9.to/",
+      "https://torrent9.to/",
+      "https://ww2.torrent9.to/",
+      "https://www5.torrent9.to/",
+      "https://www6.torrent9.to/",
+      "https://www8.torrent9.site/",
+      "https://torrent9.li/",
+      "https://torrent9.se/",
+      "https://www.torrent9.gg/",
+      "https://www.torrent9.fm/"
+    ],
+    "activeDomains": [
+      "torrent9.to"
+    ],
+    "allDomains": [
+      "torrent9.fm",
+      "torrent9.gg",
+      "torrent9.li",
+      "torrent9.se",
+      "torrent9.site",
+      "torrent9.to"
+    ]
+  },
+  {
     "id": "torrentday",
     "name": "TorrentsTD",
     "aka": [
@@ -8681,6 +9121,45 @@
     ]
   },
   {
+    "id": "u3c3",
+    "name": "U3C3",
+    "aka": [],
+    "description": "U3C3 is a CHINESE Public tracker focused on 3X Eastern Asian media",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://u3c3.com/",
+      "https://u001.25img.com/",
+      "https://u002.25img.com/",
+      "https://u003.25img.com/",
+      "https://u3c3u3c3.u3c3u3c3u3c3.com/"
+    ],
+    "legacyUrls": [
+      "https://u3c3.in/",
+      "https://a.u3c3.life/",
+      "https://m0m0m0m.mnmnmnmnmn.com/",
+      "https://m0m0m1m.mnmnmnmnmn.com/"
+    ],
+    "activeDomains": [
+      "25img.com",
+      "u3c3.com",
+      "u3c3u3c3u3c3.com"
+    ],
+    "allDomains": [
+      "25img.com",
+      "mnmnmnmnmn.com",
+      "u3c3.com",
+      "u3c3.in",
+      "u3c3.life",
+      "u3c3u3c3u3c3.com"
+    ]
+  },
+  {
     "id": "ubits",
     "name": "UBits",
     "aka": [
@@ -8727,6 +9206,28 @@
     ],
     "allDomains": [
       "uhdbits.org"
+    ]
+  },
+  {
+    "id": "uindex",
+    "name": "UIndex",
+    "aka": [],
+    "description": "UIndex is a Public Torrent Tracker for MOVIES / TV / MUSIC / GENERAL",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://uindex.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "uindex.org"
+    ],
+    "allDomains": [
+      "uindex.org"
     ]
   },
   {
@@ -8799,6 +9300,57 @@
     ],
     "allDomains": [
       "vclib.online"
+    ]
+  },
+  {
+    "id": "vstorrent",
+    "name": "VSTorrent",
+    "aka": [],
+    "description": "VSTorrent is a Public site for AUDIO apps, plugins and samples",
+    "tags": [
+      "Audio",
+      "Software"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://vstorrent.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "vstorrent.org"
+    ],
+    "allDomains": [
+      "vstorrent.org"
+    ]
+  },
+  {
+    "id": "vsttorrents",
+    "name": "VST Torrentz",
+    "aka": [],
+    "description": "VST Torrentz is a Public site for AUDIO apps, plugins and samples",
+    "tags": [
+      "Audio",
+      "Software"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://vsttorrentz.net/"
+    ],
+    "legacyUrls": [
+      "https://vsttorrents.net/",
+      "https://looptorrent.net/"
+    ],
+    "activeDomains": [
+      "vsttorrentz.net"
+    ],
+    "allDomains": [
+      "looptorrent.net",
+      "vsttorrents.net",
+      "vsttorrentz.net"
     ]
   },
   {
@@ -9371,6 +9923,34 @@
     "allDomains": [
       "yzyy.asia",
       "yzyy.org"
+    ]
+  },
+  {
+    "id": "zamundalife",
+    "name": "Zamunda LIFE",
+    "aka": [
+      "Zamunda.RIP"
+    ],
+    "description": "Zamunda LIFE is a BULGARIAN Public Torrent Archive for MOVIES / TV / GENERAL",
+    "tags": [
+      "综合",
+      "影视"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://zamunda.life/"
+    ],
+    "legacyUrls": [
+      "https://zamunda.rip/"
+    ],
+    "activeDomains": [
+      "zamunda.life"
+    ],
+    "allDomains": [
+      "zamunda.life",
+      "zamunda.rip"
     ]
   },
   {

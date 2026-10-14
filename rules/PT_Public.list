@@ -1,7 +1,7 @@
 # Public BT & Torrent Indexers
 # Description: Public torrent search and tracker sites (e.g. 1337x, Nyaa, E-Hentai)
-# Updated: 2026-10-13 09:11:40 UTC
-# Total Rules: 96
+# Updated: 2026-10-14 07:22:38 UTC
+# Total Rules: 128
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -13,9 +13,11 @@ DOMAIN-SUFFIX,1337x.to # 1337x
 DOMAIN-SUFFIX,13mag.net # 0Magnet
 DOMAIN-SUFFIX,16mag.net # 0Magnet
 DOMAIN-SUFFIX,1cili.com # 0Magnet
+DOMAIN-SUFFIX,25img.com # U3C3
 DOMAIN-SUFFIX,7mag.net # 0Magnet
 DOMAIN-SUFFIX,8ci.li # 0Magnet
 DOMAIN-SUFFIX,acg.rip # ACG.RIP
+DOMAIN-SUFFIX,anibt.net # Anibt
 DOMAIN-SUFFIX,animetosho.org # AnimeTosho
 DOMAIN-SUFFIX,anirena.com # AniRena
 DOMAIN-SUFFIX,archive.org # Internet Archive
@@ -26,9 +28,13 @@ DOMAIN-SUFFIX,audiobookbay.lu # AudioBook Bay
 DOMAIN-SUFFIX,audiobookbay.se # AudioBook Bay
 DOMAIN-SUFFIX,audiobookbay.ws # AudioBook Bay
 DOMAIN-SUFFIX,bangumi.moe # Bangumi Moe
+DOMAIN-SUFFIX,blueroms.ws # BlueRoms
+DOMAIN-SUFFIX,bosk.cc # sosulki
 DOMAIN-SUFFIX,bt.etree.org # BT.etree
+DOMAIN-SUFFIX,byrutgame.org # Byrutor
 DOMAIN-SUFFIX,cili.info # 0Magnet
 DOMAIN-SUFFIX,cili.uk # 0Magnet
+DOMAIN-SUFFIX,crackingpatching.com # CrackingPatching
 DOMAIN-SUFFIX,darkfox.run # World-torrent
 DOMAIN-SUFFIX,e-hentai.org # E-Hentai
 DOMAIN-SUFFIX,exhentai.org # E-Hentai
@@ -41,12 +47,25 @@ DOMAIN-SUFFIX,eztv.yt # EZTV
 DOMAIN-SUFFIX,eztv1.xyz # EZTV
 DOMAIN-SUFFIX,eztvx.to # EZTV
 DOMAIN-SUFFIX,getmag.net # 0Magnet
+DOMAIN-SUFFIX,kattracker.com # kickasstorrents.ws
+DOMAIN-SUFFIX,kick4ss.com # kickasstorrents.ws
+DOMAIN-SUFFIX,kickass.torrentbay.st # kickasstorrents.to
+DOMAIN-SUFFIX,kickass.torrentsbay.org # kickasstorrents.to
+DOMAIN-SUFFIX,kickasst.net # kickasstorrents.ws
+DOMAIN-SUFFIX,kickasstorrents.bz # kickasstorrents.ws
+DOMAIN-SUFFIX,kickasstorrents.id # kickasstorrents.ws
+DOMAIN-SUFFIX,kickasstorrents.ninjaproxy1.com # kickasstorrents.to
+DOMAIN-SUFFIX,kickasstorrents.proxyninja.org # kickasstorrents.to
+DOMAIN-SUFFIX,kkat.net # kickasstorrents.ws
+DOMAIN-SUFFIX,kkickass.com # kickasstorrents.ws
 DOMAIN-SUFFIX,limetorrents.fun # LimeTorrents
 DOMAIN-SUFFIX,limetorrents.torrentbay.st # LimeTorrents
 DOMAIN-SUFFIX,limetorrents.torrentsbay.org # LimeTorrents
+DOMAIN-SUFFIX,linuxtracker.org # LinuxTracker
 DOMAIN-SUFFIX,megapeer.vip # MegaPeer
 DOMAIN-SUFFIX,mikanani.me # Mikan Project
 DOMAIN-SUFFIX,minglong.org # Nipponsei
+DOMAIN-SUFFIX,mixtapetorrent.com # MixtapeTorrent
 DOMAIN-SUFFIX,nekobt.to # nekoBT
 DOMAIN-SUFFIX,newstudio.tv # NewStudio
 DOMAIN-SUFFIX,nnmclub.to # NoNaMe Club
@@ -55,14 +74,20 @@ DOMAIN-SUFFIX,nyaa.mom # Nyaa
 DOMAIN-SUFFIX,nyaa.si # Nyaa
 DOMAIN-SUFFIX,onejav.com # OneJAV
 DOMAIN-SUFFIX,oxtorrent.run # World-torrent
+DOMAIN-SUFFIX,pandacd.io # PandaCD
+DOMAIN-SUFFIX,plugintorrent.com # PluginTorrent
+DOMAIN-SUFFIX,rintor.net # RinTor.NeT
 DOMAIN-SUFFIX,rutor.info # RuTor
 DOMAIN-SUFFIX,rutor.is # RuTor
 DOMAIN-SUFFIX,rutracker.ru # RuTracker.RU
 DOMAIN-SUFFIX,shanaproject.com # Shana Project
 DOMAIN-SUFFIX,share.dmhy.org # 動漫花園資源網
 DOMAIN-SUFFIX,sharkibox.run # World-torrent
+DOMAIN-SUFFIX,showrss.info # showRSS
+DOMAIN-SUFFIX,skidrowrepack.com # SkidrowRepack
 DOMAIN-SUFFIX,theaudiobookbay.se # AudioBook Bay
 DOMAIN-SUFFIX,thehiddenbay.com # The Pirate Bay
+DOMAIN-SUFFIX,thekat.cc # kickasstorrents.ws
 DOMAIN-SUFFIX,thepiratebay.ninjaproxy1.com # The Pirate Bay
 DOMAIN-SUFFIX,thepiratebay.org # The Pirate Bay
 DOMAIN-SUFFIX,thepiratebay.torrentbay.st # The Pirate Bay
@@ -72,6 +97,7 @@ DOMAIN-SUFFIX,therarbg.to # TheRARBG
 DOMAIN-SUFFIX,tokyo-tosho.net # Tokyo Toshokan
 DOMAIN-SUFFIX,tokyotosho.info # Tokyo Toshokan
 DOMAIN-SUFFIX,torkitty.com # TorrentKitty
+DOMAIN-SUFFIX,torrent9.to # Torrent9
 DOMAIN-SUFFIX,torrent911.run # World-torrent
 DOMAIN-SUFFIX,torrentgalaxy.info # TorrentGalaxyClone
 DOMAIN-SUFFIX,torrentgalaxy.one # TorrentGalaxyClone
@@ -87,7 +113,12 @@ DOMAIN-SUFFIX,torrentkitty.vip # TorrentKitty
 DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
 DOMAIN-SUFFIX,tpb.party # The Pirate Bay
 DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
+DOMAIN-SUFFIX,u3c3.com # U3C3
+DOMAIN-SUFFIX,u3c3u3c3u3c3.com # U3C3
+DOMAIN-SUFFIX,uindex.org # UIndex
 DOMAIN-SUFFIX,vidlox.run # World-torrent
+DOMAIN-SUFFIX,vstorrent.org # VSTorrent
+DOMAIN-SUFFIX,vsttorrentz.net # VST Torrentz
 DOMAIN-SUFFIX,wikibox.run # World-torrent
 DOMAIN-SUFFIX,workino.run # World-torrent
 DOMAIN-SUFFIX,worldivx.run # World-torrent
@@ -101,3 +132,4 @@ DOMAIN-SUFFIX,xxxclub.me # XXXClub
 DOMAIN-SUFFIX,xxxclub.to # XXXClub
 DOMAIN-SUFFIX,xxxtor.com # xxxtor
 DOMAIN-SUFFIX,yts.gg # YTS
+DOMAIN-SUFFIX,zamunda.life # Zamunda LIFE
