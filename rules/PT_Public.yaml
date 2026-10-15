@@ -1,7 +1,7 @@
 # Public BT & Torrent Indexers
 # Description: Public torrent search and tracker sites (e.g. 1337x, Nyaa, E-Hentai)
-# Updated: 2026-10-14 07:22:38 UTC
-# Total Rules: 128
+# Updated: 2026-10-15 07:13:31 UTC
+# Total Rules: 147
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -29,13 +29,17 @@ payload:
   - DOMAIN-SUFFIX,audiobookbay.se # AudioBook Bay
   - DOMAIN-SUFFIX,audiobookbay.ws # AudioBook Bay
   - DOMAIN-SUFFIX,bangumi.moe # Bangumi Moe
+  - DOMAIN-SUFFIX,bigfangroup.org # BigFANGroup
   - DOMAIN-SUFFIX,blueroms.ws # BlueRoms
   - DOMAIN-SUFFIX,bosk.cc # sosulki
   - DOMAIN-SUFFIX,bt.etree.org # BT.etree
   - DOMAIN-SUFFIX,byrutgame.org # Byrutor
+  - DOMAIN-SUFFIX,catorrent.net # Catorrent
   - DOMAIN-SUFFIX,cili.info # 0Magnet
   - DOMAIN-SUFFIX,cili.uk # 0Magnet
+  - DOMAIN-SUFFIX,com.br # PornoTorrent
   - DOMAIN-SUFFIX,crackingpatching.com # CrackingPatching
+  - DOMAIN-SUFFIX,damag.net # DaMagNet
   - DOMAIN-SUFFIX,darkfox.run # World-torrent
   - DOMAIN-SUFFIX,e-hentai.org # E-Hentai
   - DOMAIN-SUFFIX,exhentai.org # E-Hentai
@@ -47,6 +51,9 @@ payload:
   - DOMAIN-SUFFIX,eztv.yt # EZTV
   - DOMAIN-SUFFIX,eztv1.xyz # EZTV
   - DOMAIN-SUFFIX,eztvx.to # EZTV
+  - DOMAIN-SUFFIX,filemood.com # FileMood
+  - DOMAIN-SUFFIX,freebfg.org # BigFANGroup
+  - DOMAIN-SUFFIX,freejavtorrent.com # Free JAV Torrent
   - DOMAIN-SUFFIX,getmag.net # 0Magnet
   - DOMAIN-SUFFIX,kattracker.com # kickasstorrents.ws
   - DOMAIN-SUFFIX,kick4ss.com # kickasstorrents.ws
@@ -63,10 +70,13 @@ payload:
   - DOMAIN-SUFFIX,limetorrents.torrentbay.st # LimeTorrents
   - DOMAIN-SUFFIX,limetorrents.torrentsbay.org # LimeTorrents
   - DOMAIN-SUFFIX,linuxtracker.org # LinuxTracker
+  - DOMAIN-SUFFIX,magnetdownload.com # MagnetDownload
+  - DOMAIN-SUFFIX,magnetz.eu # Magnetz
   - DOMAIN-SUFFIX,megapeer.vip # MegaPeer
   - DOMAIN-SUFFIX,mikanani.me # Mikan Project
   - DOMAIN-SUFFIX,minglong.org # Nipponsei
   - DOMAIN-SUFFIX,mixtapetorrent.com # MixtapeTorrent
+  - DOMAIN-SUFFIX,myporn.club # MyPornClub
   - DOMAIN-SUFFIX,nekobt.to # nekoBT
   - DOMAIN-SUFFIX,newstudio.tv # NewStudio
   - DOMAIN-SUFFIX,nnmclub.to # NoNaMe Club
@@ -74,13 +84,18 @@ payload:
   - DOMAIN-SUFFIX,nyaa.mom # Nyaa
   - DOMAIN-SUFFIX,nyaa.si # Nyaa
   - DOMAIN-SUFFIX,onejav.com # OneJAV
+  - DOMAIN-SUFFIX,opensharing.org # OpenSharing
   - DOMAIN-SUFFIX,oxtorrent.run # World-torrent
   - DOMAIN-SUFFIX,pandacd.io # PandaCD
+  - DOMAIN-SUFFIX,pc-torrents.games # PC-torrent
   - DOMAIN-SUFFIX,plugintorrent.com # PluginTorrent
+  - DOMAIN-SUFFIX,pornrips.to # PornRips
+  - DOMAIN-SUFFIX,pornxlab.com # PornXLab
   - DOMAIN-SUFFIX,rintor.net # RinTor.NeT
   - DOMAIN-SUFFIX,rutor.info # RuTor
   - DOMAIN-SUFFIX,rutor.is # RuTor
   - DOMAIN-SUFFIX,rutracker.ru # RuTracker.RU
+  - DOMAIN-SUFFIX,sexy-pics.us # Sexy-Pics
   - DOMAIN-SUFFIX,shanaproject.com # Shana Project
   - DOMAIN-SUFFIX,share.dmhy.org # 動漫花園資源網
   - DOMAIN-SUFFIX,sharkibox.run # World-torrent
@@ -111,13 +126,17 @@ payload:
   - DOMAIN-SUFFIX,torrentkitty.red # TorrentKitty
   - DOMAIN-SUFFIX,torrentkitty.tv # TorrentKitty
   - DOMAIN-SUFFIX,torrentkitty.vip # TorrentKitty
+  - DOMAIN-SUFFIX,torrentmac.net # Mac Torrents Download
   - DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
+  - DOMAIN-SUFFIX,torrentsome267.com # Torrentsome
+  - DOMAIN-SUFFIX,torrenttip247.top # Torrenttip
   - DOMAIN-SUFFIX,tpb.party # The Pirate Bay
   - DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
   - DOMAIN-SUFFIX,u3c3.com # U3C3
   - DOMAIN-SUFFIX,u3c3u3c3u3c3.com # U3C3
   - DOMAIN-SUFFIX,uindex.org # UIndex
   - DOMAIN-SUFFIX,vidlox.run # World-torrent
+  - DOMAIN-SUFFIX,vsthouse.ru # VSTHouse
   - DOMAIN-SUFFIX,vstorrent.org # VSTorrent
   - DOMAIN-SUFFIX,vsttorrentz.net # VST Torrentz
   - DOMAIN-SUFFIX,wikibox.run # World-torrent

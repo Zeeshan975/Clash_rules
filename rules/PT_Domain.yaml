@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-14 07:22:38 UTC
-# Total Domains: 413
+# Updated: 2026-10-15 07:13:31 UTC
+# Total Domains: 432
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -55,6 +55,7 @@ payload:
   - '+.bemaniso.ws' # Bemaniso
   - '+.beyond-hd.me' # BeyondHD
   - '+.bibliotik.me' # Bibliotik
+  - '+.bigfangroup.org' # BigFANGroup
   - '+.bilibili.download' # RailgunPT
   - '+.bitporn.eu' # BitPorn
   - '+.bitpt.cn' # 极速之星
@@ -75,6 +76,7 @@ payload:
   - '+.capybarabr.com' # CapybaraBR
   - '+.carpt.net' # CarPT
   - '+.cathode-ray.tube' # Cathode-Ray.Tube
+  - '+.catorrent.net' # Catorrent
   - '+.ceskeforum.com' # CeskeForum
   - '+.cgpeers.to' # CGPeers
   - '+.cili.info' # 0Magnet
@@ -83,6 +85,7 @@ payload:
   - '+.cinematik.net' # Cinematik
   - '+.cinemaz.to' # CinemaZ
   - '+.clearjav.com' # ClearJAV
+  - '+.com.br' # PornoTorrent
   - '+.concertos.live' # Concertos
   - '+.crabpt.vip' # CrabPt
   - '+.crackingpatching.com' # CrackingPatching
@@ -91,6 +94,7 @@ payload:
   - '+.cspt.top' # 财神
   - '+.cusat.win' # PTFans
   - '+.cyanbug.net' # CyanBug
+  - '+.damag.net' # DaMagNet
   - '+.danishbytes.club' # DanishBytes
   - '+.darkfox.run' # World-torrent
   - '+.darkland.top' # Darkland
@@ -127,7 +131,10 @@ payload:
   - '+.fappaizuri.me' # Fappaizuri
   - '+.femdomcult.org' # Femdomcult
   - '+.filelist.io' # FileList
+  - '+.filemood.com' # FileMood
   - '+.findnemo.net' # TorrentsTD
+  - '+.freebfg.org' # BigFANGroup
+  - '+.freejavtorrent.com' # Free JAV Torrent
   - '+.gamegamept.com' # GGPT
   - '+.gay-torrents.net' # Gay-Torrents.net
   - '+.gaytor.rent' # GayTorrent.ru
@@ -210,6 +217,8 @@ payload:
   - '+.lztr.me' # LzTr
   - '+.m-team.cc' # M-Team - TP
   - '+.m-team.io' # M-Team - TP
+  - '+.magnetdownload.com' # MagnetDownload
+  - '+.magnetz.eu' # Magnetz
   - '+.marchcms.org' # March-Media
   - '+.megapeer.vip' # MegaPeer
   - '+.midnightscene.cc' # MidnightScene
@@ -222,6 +231,7 @@ payload:
   - '+.musopia.vip' # 音乐乌托邦
   - '+.muxuege.org' # 慕雪阁
   - '+.myanonamouse.net' # MyAnonamouse
+  - '+.myporn.club' # MyPornClub
   - '+.mypt.cc' # MyPT
   - '+.nanyangpt.com' # 南洋PT
   - '+.naturept.top' # ZRPT
@@ -244,6 +254,7 @@ payload:
   - '+.onejav.com' # OneJAV
   - '+.onlyencodes.cc' # OnlyEncodes+
   - '+.open.cd' # OpenCD
+  - '+.opensharing.org' # OpenSharing
   - '+.orpheus.network' # Orpheus
   - '+.oshen.win' # OshenPT
   - '+.our.kelu.one' # Kelu
@@ -253,12 +264,15 @@ payload:
   - '+.pandacd.io' # PandaCD
   - '+.pandapt.net' # PandaPT
   - '+.passthepopcorn.me' # PassThePopcorn
+  - '+.pc-torrents.games' # PC-torrent
   - '+.piggo.me' # Piggo
   - '+.pixelcove.me' # PixelCove
   - '+.playlet.cc' # PlayLet
   - '+.plugintorrent.com' # PluginTorrent
   - '+.polishtorrent.top' # PolishTorrent
   - '+.pornolab.net' # PornoLab
+  - '+.pornrips.to' # PornRips
+  - '+.pornxlab.com' # PornXLab
   - '+.portugas.org' # Portugas
   - '+.privatehd.to' # PrivateHD
   - '+.pt.eastgame.org' # TLFBits
@@ -301,6 +315,7 @@ payload:
   - '+.secret-cinema.pw' # Secret Cinema
   - '+.seedpool.org' # seedpool
   - '+.sewerpt.com' # 下水道
+  - '+.sexy-pics.us' # Sexy-Pics
   - '+.shanaproject.com' # Shana Project
   - '+.share.dmhy.org' # 動漫花園資源網
   - '+.shareisland.org' # ShareIsland
@@ -366,7 +381,10 @@ payload:
   - '+.torrentleech.cc' # TorrentLeech
   - '+.torrentleech.me' # TorrentLeech
   - '+.torrentleech.org' # TorrentLeech
+  - '+.torrentmac.net' # Mac Torrents Download
   - '+.torrents-csv.com' # Torrents-CSV
+  - '+.torrentsome267.com' # Torrentsome
+  - '+.torrenttip247.top' # Torrenttip
   - '+.totheglory.im' # ToTheGlory
   - '+.tpb.party' # The Pirate Bay
   - '+.tpb.proxyninja.org' # The Pirate Bay
@@ -384,6 +402,7 @@ payload:
   - '+.usefultrash.net' # ABTorrents
   - '+.vclib.online' # VC-Lib
   - '+.vidlox.run' # World-torrent
+  - '+.vsthouse.ru' # VSTHouse
   - '+.vstorrent.org' # VSTorrent
   - '+.vsttorrentz.net' # VST Torrentz
   - '+.wiiii.dpdns.org' # LongPT

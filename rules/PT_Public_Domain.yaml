@@ -1,7 +1,7 @@
 # Public BT & Torrent Indexers (Domain Provider Format)
 # Description: Public torrent search and tracker sites (e.g. 1337x, Nyaa, E-Hentai)
-# Updated: 2026-10-14 07:22:38 UTC
-# Total Domains: 128
+# Updated: 2026-10-15 07:13:31 UTC
+# Total Domains: 147
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -29,13 +29,17 @@ payload:
   - '+.audiobookbay.se' # AudioBook Bay
   - '+.audiobookbay.ws' # AudioBook Bay
   - '+.bangumi.moe' # Bangumi Moe
+  - '+.bigfangroup.org' # BigFANGroup
   - '+.blueroms.ws' # BlueRoms
   - '+.bosk.cc' # sosulki
   - '+.bt.etree.org' # BT.etree
   - '+.byrutgame.org' # Byrutor
+  - '+.catorrent.net' # Catorrent
   - '+.cili.info' # 0Magnet
   - '+.cili.uk' # 0Magnet
+  - '+.com.br' # PornoTorrent
   - '+.crackingpatching.com' # CrackingPatching
+  - '+.damag.net' # DaMagNet
   - '+.darkfox.run' # World-torrent
   - '+.e-hentai.org' # E-Hentai
   - '+.exhentai.org' # E-Hentai
@@ -47,6 +51,9 @@ payload:
   - '+.eztv.yt' # EZTV
   - '+.eztv1.xyz' # EZTV
   - '+.eztvx.to' # EZTV
+  - '+.filemood.com' # FileMood
+  - '+.freebfg.org' # BigFANGroup
+  - '+.freejavtorrent.com' # Free JAV Torrent
   - '+.getmag.net' # 0Magnet
   - '+.kattracker.com' # kickasstorrents.ws
   - '+.kick4ss.com' # kickasstorrents.ws
@@ -63,10 +70,13 @@ payload:
   - '+.limetorrents.torrentbay.st' # LimeTorrents
   - '+.limetorrents.torrentsbay.org' # LimeTorrents
   - '+.linuxtracker.org' # LinuxTracker
+  - '+.magnetdownload.com' # MagnetDownload
+  - '+.magnetz.eu' # Magnetz
   - '+.megapeer.vip' # MegaPeer
   - '+.mikanani.me' # Mikan Project
   - '+.minglong.org' # Nipponsei
   - '+.mixtapetorrent.com' # MixtapeTorrent
+  - '+.myporn.club' # MyPornClub
   - '+.nekobt.to' # nekoBT
   - '+.newstudio.tv' # NewStudio
   - '+.nnmclub.to' # NoNaMe Club
@@ -74,13 +84,18 @@ payload:
   - '+.nyaa.mom' # Nyaa
   - '+.nyaa.si' # Nyaa
   - '+.onejav.com' # OneJAV
+  - '+.opensharing.org' # OpenSharing
   - '+.oxtorrent.run' # World-torrent
   - '+.pandacd.io' # PandaCD
+  - '+.pc-torrents.games' # PC-torrent
   - '+.plugintorrent.com' # PluginTorrent
+  - '+.pornrips.to' # PornRips
+  - '+.pornxlab.com' # PornXLab
   - '+.rintor.net' # RinTor.NeT
   - '+.rutor.info' # RuTor
   - '+.rutor.is' # RuTor
   - '+.rutracker.ru' # RuTracker.RU
+  - '+.sexy-pics.us' # Sexy-Pics
   - '+.shanaproject.com' # Shana Project
   - '+.share.dmhy.org' # 動漫花園資源網
   - '+.sharkibox.run' # World-torrent
@@ -111,13 +126,17 @@ payload:
   - '+.torrentkitty.red' # TorrentKitty
   - '+.torrentkitty.tv' # TorrentKitty
   - '+.torrentkitty.vip' # TorrentKitty
+  - '+.torrentmac.net' # Mac Torrents Download
   - '+.torrents-csv.com' # Torrents-CSV
+  - '+.torrentsome267.com' # Torrentsome
+  - '+.torrenttip247.top' # Torrenttip
   - '+.tpb.party' # The Pirate Bay
   - '+.tpb.proxyninja.org' # The Pirate Bay
   - '+.u3c3.com' # U3C3
   - '+.u3c3u3c3u3c3.com' # U3C3
   - '+.uindex.org' # UIndex
   - '+.vidlox.run' # World-torrent
+  - '+.vsthouse.ru' # VSTHouse
   - '+.vstorrent.org' # VSTorrent
   - '+.vsttorrentz.net' # VST Torrentz
   - '+.wikibox.run' # World-torrent

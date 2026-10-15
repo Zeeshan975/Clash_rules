@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-14 07:22:38 UTC
-# Total Rules: 413
+# Updated: 2026-10-15 07:13:31 UTC
+# Total Rules: 432
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -55,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,bemaniso.ws # Bemaniso
   - DOMAIN-SUFFIX,beyond-hd.me # BeyondHD
   - DOMAIN-SUFFIX,bibliotik.me # Bibliotik
+  - DOMAIN-SUFFIX,bigfangroup.org # BigFANGroup
   - DOMAIN-SUFFIX,bilibili.download # RailgunPT
   - DOMAIN-SUFFIX,bitporn.eu # BitPorn
   - DOMAIN-SUFFIX,bitpt.cn # 极速之星
@@ -75,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,capybarabr.com # CapybaraBR
   - DOMAIN-SUFFIX,carpt.net # CarPT
   - DOMAIN-SUFFIX,cathode-ray.tube # Cathode-Ray.Tube
+  - DOMAIN-SUFFIX,catorrent.net # Catorrent
   - DOMAIN-SUFFIX,ceskeforum.com # CeskeForum
   - DOMAIN-SUFFIX,cgpeers.to # CGPeers
   - DOMAIN-SUFFIX,cili.info # 0Magnet
@@ -83,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,cinematik.net # Cinematik
   - DOMAIN-SUFFIX,cinemaz.to # CinemaZ
   - DOMAIN-SUFFIX,clearjav.com # ClearJAV
+  - DOMAIN-SUFFIX,com.br # PornoTorrent
   - DOMAIN-SUFFIX,concertos.live # Concertos
   - DOMAIN-SUFFIX,crabpt.vip # CrabPt
   - DOMAIN-SUFFIX,crackingpatching.com # CrackingPatching
@@ -91,6 +94,7 @@ payload:
   - DOMAIN-SUFFIX,cspt.top # 财神
   - DOMAIN-SUFFIX,cusat.win # PTFans
   - DOMAIN-SUFFIX,cyanbug.net # CyanBug
+  - DOMAIN-SUFFIX,damag.net # DaMagNet
   - DOMAIN-SUFFIX,danishbytes.club # DanishBytes
   - DOMAIN-SUFFIX,darkfox.run # World-torrent
   - DOMAIN-SUFFIX,darkland.top # Darkland
@@ -127,7 +131,10 @@ payload:
   - DOMAIN-SUFFIX,fappaizuri.me # Fappaizuri
   - DOMAIN-SUFFIX,femdomcult.org # Femdomcult
   - DOMAIN-SUFFIX,filelist.io # FileList
+  - DOMAIN-SUFFIX,filemood.com # FileMood
   - DOMAIN-SUFFIX,findnemo.net # TorrentsTD
+  - DOMAIN-SUFFIX,freebfg.org # BigFANGroup
+  - DOMAIN-SUFFIX,freejavtorrent.com # Free JAV Torrent
   - DOMAIN-SUFFIX,gamegamept.com # GGPT
   - DOMAIN-SUFFIX,gay-torrents.net # Gay-Torrents.net
   - DOMAIN-SUFFIX,gaytor.rent # GayTorrent.ru
@@ -210,6 +217,8 @@ payload:
   - DOMAIN-SUFFIX,lztr.me # LzTr
   - DOMAIN-SUFFIX,m-team.cc # M-Team - TP
   - DOMAIN-SUFFIX,m-team.io # M-Team - TP
+  - DOMAIN-SUFFIX,magnetdownload.com # MagnetDownload
+  - DOMAIN-SUFFIX,magnetz.eu # Magnetz
   - DOMAIN-SUFFIX,marchcms.org # March-Media
   - DOMAIN-SUFFIX,megapeer.vip # MegaPeer
   - DOMAIN-SUFFIX,midnightscene.cc # MidnightScene
@@ -222,6 +231,7 @@ payload:
   - DOMAIN-SUFFIX,musopia.vip # 音乐乌托邦
   - DOMAIN-SUFFIX,muxuege.org # 慕雪阁
   - DOMAIN-SUFFIX,myanonamouse.net # MyAnonamouse
+  - DOMAIN-SUFFIX,myporn.club # MyPornClub
   - DOMAIN-SUFFIX,mypt.cc # MyPT
   - DOMAIN-SUFFIX,nanyangpt.com # 南洋PT
   - DOMAIN-SUFFIX,naturept.top # ZRPT
@@ -244,6 +254,7 @@ payload:
   - DOMAIN-SUFFIX,onejav.com # OneJAV
   - DOMAIN-SUFFIX,onlyencodes.cc # OnlyEncodes+
   - DOMAIN-SUFFIX,open.cd # OpenCD
+  - DOMAIN-SUFFIX,opensharing.org # OpenSharing
   - DOMAIN-SUFFIX,orpheus.network # Orpheus
   - DOMAIN-SUFFIX,oshen.win # OshenPT
   - DOMAIN-SUFFIX,our.kelu.one # Kelu
@@ -253,12 +264,15 @@ payload:
   - DOMAIN-SUFFIX,pandacd.io # PandaCD
   - DOMAIN-SUFFIX,pandapt.net # PandaPT
   - DOMAIN-SUFFIX,passthepopcorn.me # PassThePopcorn
+  - DOMAIN-SUFFIX,pc-torrents.games # PC-torrent
   - DOMAIN-SUFFIX,piggo.me # Piggo
   - DOMAIN-SUFFIX,pixelcove.me # PixelCove
   - DOMAIN-SUFFIX,playlet.cc # PlayLet
   - DOMAIN-SUFFIX,plugintorrent.com # PluginTorrent
   - DOMAIN-SUFFIX,polishtorrent.top # PolishTorrent
   - DOMAIN-SUFFIX,pornolab.net # PornoLab
+  - DOMAIN-SUFFIX,pornrips.to # PornRips
+  - DOMAIN-SUFFIX,pornxlab.com # PornXLab
   - DOMAIN-SUFFIX,portugas.org # Portugas
   - DOMAIN-SUFFIX,privatehd.to # PrivateHD
   - DOMAIN-SUFFIX,pt.eastgame.org # TLFBits
@@ -301,6 +315,7 @@ payload:
   - DOMAIN-SUFFIX,secret-cinema.pw # Secret Cinema
   - DOMAIN-SUFFIX,seedpool.org # seedpool
   - DOMAIN-SUFFIX,sewerpt.com # 下水道
+  - DOMAIN-SUFFIX,sexy-pics.us # Sexy-Pics
   - DOMAIN-SUFFIX,shanaproject.com # Shana Project
   - DOMAIN-SUFFIX,share.dmhy.org # 動漫花園資源網
   - DOMAIN-SUFFIX,shareisland.org # ShareIsland
@@ -366,7 +381,10 @@ payload:
   - DOMAIN-SUFFIX,torrentleech.cc # TorrentLeech
   - DOMAIN-SUFFIX,torrentleech.me # TorrentLeech
   - DOMAIN-SUFFIX,torrentleech.org # TorrentLeech
+  - DOMAIN-SUFFIX,torrentmac.net # Mac Torrents Download
   - DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
+  - DOMAIN-SUFFIX,torrentsome267.com # Torrentsome
+  - DOMAIN-SUFFIX,torrenttip247.top # Torrenttip
   - DOMAIN-SUFFIX,totheglory.im # ToTheGlory
   - DOMAIN-SUFFIX,tpb.party # The Pirate Bay
   - DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
@@ -384,6 +402,7 @@ payload:
   - DOMAIN-SUFFIX,usefultrash.net # ABTorrents
   - DOMAIN-SUFFIX,vclib.online # VC-Lib
   - DOMAIN-SUFFIX,vidlox.run # World-torrent
+  - DOMAIN-SUFFIX,vsthouse.ru # VSTHouse
   - DOMAIN-SUFFIX,vstorrent.org # VSTorrent
   - DOMAIN-SUFFIX,vsttorrentz.net # VST Torrentz
   - DOMAIN-SUFFIX,wiiii.dpdns.org # LongPT

@@ -1142,6 +1142,29 @@
     ]
   },
   {
+    "id": "bigfangroup",
+    "name": "BigFANGroup",
+    "aka": [],
+    "description": "BigFANGroup 是一个俄语公开 BT 站（Kinokpk 引擎），以电影 / 剧集为主，无需登录即可浏览",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://bigfangroup.org/",
+      "https://www.freebfg.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "bigfangroup.org",
+      "freebfg.org"
+    ],
+    "allDomains": [
+      "bigfangroup.org",
+      "freebfg.org"
+    ]
+  },
+  {
     "id": "bitbr",
     "name": "bitbr",
     "aka": [],
@@ -1533,6 +1556,29 @@
     ],
     "allDomains": [
       "cathode-ray.tube"
+    ]
+  },
+  {
+    "id": "catorrent",
+    "name": "Catorrent",
+    "aka": [],
+    "description": "Catorrent 是一个俄语公开游戏 BT 站（DataLife Engine），提供 PC 与主机游戏资源，无需登录",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://catorrent.net/"
+    ],
+    "legacyUrls": [
+      "https://catorrent.org/"
+    ],
+    "activeDomains": [
+      "catorrent.net"
+    ],
+    "allDomains": [
+      "catorrent.net",
+      "catorrent.org"
     ]
   },
   {
@@ -2050,6 +2096,28 @@
     ],
     "allDomains": [
       "dajiao.cyou"
+    ]
+  },
+  {
+    "id": "damagnet",
+    "name": "DaMagNet",
+    "aka": [],
+    "description": "DaMagNet is a Public DHT Crawler",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://damag.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "damag.net"
+    ],
+    "allDomains": [
+      "damag.net"
     ]
   },
   {
@@ -2830,6 +2898,28 @@
     ]
   },
   {
+    "id": "filemood",
+    "name": "FileMood",
+    "aka": [],
+    "description": "FileMood is a Public BitTorrent DHT search engine.",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://filemood.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "filemood.com"
+    ],
+    "allDomains": [
+      "filemood.com"
+    ]
+  },
+  {
     "id": "filept",
     "name": "Filept",
     "aka": [],
@@ -2877,6 +2967,29 @@
     ],
     "allDomains": [
       "0ff.cc"
+    ]
+  },
+  {
+    "id": "freejavtorrent",
+    "name": "Free JAV Torrent",
+    "aka": [],
+    "description": "Free JAV Torrent is a Public tracker for Asian 3X (JAV)（公开日本成人影片 BT 站）",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.freejavtorrent.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "freejavtorrent.com"
+    ],
+    "allDomains": [
+      "freejavtorrent.com"
     ]
   },
   {
@@ -5182,6 +5295,70 @@
     ]
   },
   {
+    "id": "mactorrentsdownload",
+    "name": "Mac Torrents Download",
+    "aka": [],
+    "description": "Mac Torrents Download（torrentmac.net）是公开的 macOS 软件/游戏资源站，种子文件在文章页给出",
+    "tags": [
+      "软件"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.torrentmac.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "torrentmac.net"
+    ],
+    "allDomains": [
+      "torrentmac.net"
+    ]
+  },
+  {
+    "id": "magnetdownload",
+    "name": "MagnetDownload",
+    "aka": [],
+    "description": "MagnetDownload 是基于 DHT 抓取的公开磁力索引站，按文件名检索磁力链接",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.magnetdownload.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "magnetdownload.com"
+    ],
+    "allDomains": [
+      "magnetdownload.com"
+    ]
+  },
+  {
+    "id": "magnetz",
+    "name": "Magnetz",
+    "aka": [],
+    "description": "Magnetz 是一个公开的 BT 元搜索引擎，聚合影视、音乐、游戏、软件、电子书等资源（无需登录）",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://magnetz.eu/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "magnetz.eu"
+    ],
+    "allDomains": [
+      "magnetz.eu"
+    ]
+  },
+  {
     "id": "march",
     "name": "March-Media",
     "aka": [
@@ -5596,6 +5773,29 @@
     ],
     "allDomains": [
       "myanonamouse.net"
+    ]
+  },
+  {
+    "id": "mypornclub",
+    "name": "MyPornClub",
+    "aka": [],
+    "description": "MyPornClub is a Public Torrent Tracker for 3X（公开成人向 BT 站）",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://myporn.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "myporn.club"
+    ],
+    "allDomains": [
+      "myporn.club"
     ]
   },
   {
@@ -6154,6 +6354,29 @@
     ]
   },
   {
+    "id": "opensharing",
+    "name": "OpenSharing",
+    "aka": [],
+    "description": "OpenSharing is a RUSSIAN Public Torrent Tracker for 3X",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://opensharing.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "opensharing.org"
+    ],
+    "allDomains": [
+      "opensharing.org"
+    ]
+  },
+  {
     "id": "oppaiti",
     "name": "Oppaitime",
     "aka": [],
@@ -6325,6 +6548,31 @@
     ],
     "allDomains": [
       "passthepopcorn.me"
+    ]
+  },
+  {
+    "id": "pctorrent",
+    "name": "PC-torrent",
+    "aka": [],
+    "description": "PC-torrent 是一个俄语公开 PC 游戏 BT 站（DataLife Engine），无需登录",
+    "tags": [],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://pc-torrents.games/"
+    ],
+    "legacyUrls": [
+      "https://pc-torrent.org/",
+      "https://pc-torrent.pro/"
+    ],
+    "activeDomains": [
+      "pc-torrents.games"
+    ],
+    "allDomains": [
+      "pc-torrent.org",
+      "pc-torrent.pro",
+      "pc-torrents.games"
     ]
   },
   {
@@ -6521,6 +6769,83 @@
     ],
     "allDomains": [
       "pornolab.net"
+    ]
+  },
+  {
+    "id": "pornotorrent",
+    "name": "PornoTorrent",
+    "aka": [],
+    "description": "PornoTorrent is a BRAZILIAN Public Torrent Tracker for 3X",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://pornotorrent.com.br/"
+    ],
+    "legacyUrls": [
+      "https://www.pornotorrent.eu/",
+      "https://pornotorrent.net.br/"
+    ],
+    "activeDomains": [
+      "com.br"
+    ],
+    "allDomains": [
+      "com.br",
+      "net.br",
+      "pornotorrent.eu"
+    ]
+  },
+  {
+    "id": "pornrips",
+    "name": "PornRips",
+    "aka": [],
+    "description": "PornRips is a Public site for 3X（WordPress 架构的公开成人向 BT 站）",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://pornrips.to/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "pornrips.to"
+    ],
+    "allDomains": [
+      "pornrips.to"
+    ]
+  },
+  {
+    "id": "pornxlab",
+    "name": "PornXLab",
+    "aka": [],
+    "description": "PornXLab is a Public tracker for 3X（公开成人向 BT 站，前身为 ptorrents，老域名见 legacyUrls）",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.pornxlab.com/"
+    ],
+    "legacyUrls": [
+      "https://www.ptorrents.com/"
+    ],
+    "activeDomains": [
+      "pornxlab.com"
+    ],
+    "allDomains": [
+      "pornxlab.com",
+      "ptorrents.com"
     ]
   },
   {
@@ -7687,6 +8012,29 @@
     ],
     "allDomains": [
       "sewerpt.com"
+    ]
+  },
+  {
+    "id": "sexypics",
+    "name": "Sexy-Pics",
+    "aka": [],
+    "description": "Sexy-Pics is a Public Magnet Links site for 3X MP4",
+    "tags": [
+      "成人",
+      "XXX"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.sexy-pics.us/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "sexy-pics.us"
+    ],
+    "allDomains": [
+      "sexy-pics.us"
     ]
   },
   {
@@ -8975,6 +9323,112 @@
     ]
   },
   {
+    "id": "torrentsome",
+    "name": "Torrentsome",
+    "aka": [],
+    "description": "Torrentsome（토렌트썸）是韩国公共 BT 索引站，收录韩国影视、综艺、音乐、动画等资源",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://torrentsome267.com/"
+    ],
+    "legacyUrls": [
+      "https://torrentsome252.com/",
+      "https://torrentsome253.com/",
+      "https://torrentsome254.com/",
+      "https://torrentsome255.com/",
+      "https://torrentsome256.com/",
+      "https://torrentsome257.com/",
+      "https://torrentsome258.com/",
+      "https://torrentsome259.com/",
+      "https://torrentsome260.com/",
+      "https://torrentsome261.com/",
+      "https://torrentsome262.com/",
+      "https://torrentsome263.com/",
+      "https://torrentsome264.com/",
+      "https://torrentsome265.com/",
+      "https://torrentsome266.com/"
+    ],
+    "activeDomains": [
+      "torrentsome267.com"
+    ],
+    "allDomains": [
+      "torrentsome252.com",
+      "torrentsome253.com",
+      "torrentsome254.com",
+      "torrentsome255.com",
+      "torrentsome256.com",
+      "torrentsome257.com",
+      "torrentsome258.com",
+      "torrentsome259.com",
+      "torrentsome260.com",
+      "torrentsome261.com",
+      "torrentsome262.com",
+      "torrentsome263.com",
+      "torrentsome264.com",
+      "torrentsome265.com",
+      "torrentsome266.com",
+      "torrentsome267.com"
+    ]
+  },
+  {
+    "id": "torrenttip",
+    "name": "Torrenttip",
+    "aka": [],
+    "description": "Torrenttip（토렌트팁）是韩国公共 BT 索引站，收录韩国影视、综艺、音乐等资源",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://torrenttip247.top/"
+    ],
+    "legacyUrls": [
+      "https://torrenttip232.top/",
+      "https://torrenttip233.top/",
+      "https://torrenttip234.top/",
+      "https://torrenttip235.top/",
+      "https://torrenttip236.top/",
+      "https://torrenttip237.top/",
+      "https://torrenttip238.top/",
+      "https://torrenttip239.top/",
+      "https://torrenttip240.top/",
+      "https://torrenttip241.top/",
+      "https://torrenttip242.top/",
+      "https://torrenttip243.top/",
+      "https://torrenttip244.top/",
+      "https://torrenttip245.top/",
+      "https://torrenttip246.top/"
+    ],
+    "activeDomains": [
+      "torrenttip247.top"
+    ],
+    "allDomains": [
+      "torrenttip232.top",
+      "torrenttip233.top",
+      "torrenttip234.top",
+      "torrenttip235.top",
+      "torrenttip236.top",
+      "torrenttip237.top",
+      "torrenttip238.top",
+      "torrenttip239.top",
+      "torrenttip240.top",
+      "torrenttip241.top",
+      "torrenttip242.top",
+      "torrenttip243.top",
+      "torrenttip244.top",
+      "torrenttip245.top",
+      "torrenttip246.top",
+      "torrenttip247.top"
+    ]
+  },
+  {
     "id": "tosky",
     "name": "ToSky",
     "aka": [],
@@ -9300,6 +9754,32 @@
     ],
     "allDomains": [
       "vclib.online"
+    ]
+  },
+  {
+    "id": "vsthouse",
+    "name": "VSTHouse",
+    "aka": [],
+    "description": "VSTHouse 是俄语公开站，分享音乐制作相关的 VST 插件、音源、采样与软件（uCoz 文件目录）",
+    "tags": [
+      "软件"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://vsthouse.ru/"
+    ],
+    "legacyUrls": [
+      "http://vsthouse.ru/",
+      "https://vsthouse.org/"
+    ],
+    "activeDomains": [
+      "vsthouse.ru"
+    ],
+    "allDomains": [
+      "vsthouse.org",
+      "vsthouse.ru"
     ]
   },
   {
