@@ -2384,6 +2384,28 @@
     ]
   },
   {
+    "id": "dirtybytes",
+    "name": "DirtyBytes",
+    "aka": [],
+    "description": "Your after dark community.",
+    "tags": [
+      "成人"
+    ],
+    "type": "private",
+    "schema": "Rartracker",
+    "isDead": false,
+    "urls": [
+      "https://dirtybytes.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "dirtybytes.net"
+    ],
+    "allDomains": [
+      "dirtybytes.net"
+    ]
+  },
+  {
     "id": "discfan",
     "name": "DiscFan",
     "aka": [

@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-15 07:13:31 UTC
-# Total Rules: 729
+# Updated: 2026-10-16 06:56:12 UTC
+# Total Rules: 730
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -163,6 +163,7 @@ DOMAIN-SUFFIX,dhtclub.com # DHTCLUB PT
 DOMAIN-SUFFIX,dicmusic.club # DICMusic
 DOMAIN-SUFFIX,dicmusic.com # DICMusic
 DOMAIN-SUFFIX,digitalcore.club # DigitalCore
+DOMAIN-SUFFIX,dirtybytes.net # DirtyBytes
 DOMAIN-SUFFIX,discfan.net # DiscFan
 DOMAIN-SUFFIX,dragonhd.xyz # 龍之家
 DOMAIN-SUFFIX,dstudio.me # Depth Studio

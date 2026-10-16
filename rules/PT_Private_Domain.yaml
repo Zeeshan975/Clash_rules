@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites) (Domain Provider Format)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-10-15 07:13:31 UTC
-# Total Domains: 285
+# Updated: 2026-10-16 06:56:12 UTC
+# Total Domains: 286
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -71,6 +71,7 @@ payload:
   - '+.desitorrents.tv' # DesiTorrents
   - '+.dicmusic.com' # DICMusic
   - '+.digitalcore.club' # DigitalCore
+  - '+.dirtybytes.net' # DirtyBytes
   - '+.discfan.net' # DiscFan
   - '+.dragonhd.xyz' # 龍之家
   - '+.dstudio.me' # Depth Studio
