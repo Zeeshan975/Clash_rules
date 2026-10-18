@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-10-17 06:47:27 UTC
-# Total Rules: 286
+# Updated: 2026-10-18 07:07:27 UTC
+# Total Rules: 287
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,cinemageddon.net # Cinemageddon
 DOMAIN-SUFFIX,cinematik.net # Cinematik
 DOMAIN-SUFFIX,cinemaz.to # CinemaZ
 DOMAIN-SUFFIX,clearjav.com # ClearJAV
+DOMAIN-SUFFIX,colapt.com # 可乐
 DOMAIN-SUFFIX,concertos.live # Concertos
 DOMAIN-SUFFIX,crabpt.vip # CrabPt
 DOMAIN-SUFFIX,cspt.cc # 财神

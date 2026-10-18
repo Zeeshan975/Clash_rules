@@ -1,7 +1,7 @@
 # Public BT & Torrent Indexers (Domain Provider Format)
 # Description: Public torrent search and tracker sites (e.g. 1337x, Nyaa, E-Hentai)
-# Updated: 2026-10-17 06:47:27 UTC
-# Total Domains: 147
+# Updated: 2026-10-18 07:07:27 UTC
+# Total Domains: 143
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -40,7 +40,6 @@ payload:
   - '+.com.br' # PornoTorrent
   - '+.crackingpatching.com' # CrackingPatching
   - '+.damag.net' # DaMagNet
-  - '+.darkfox.run' # World-torrent
   - '+.e-hentai.org' # E-Hentai
   - '+.exhentai.org' # E-Hentai
   - '+.ext.to' # EXT Torrents
@@ -83,9 +82,9 @@ payload:
   - '+.nyaa.media' # Nyaa
   - '+.nyaa.mom' # Nyaa
   - '+.nyaa.si' # Nyaa
+  - '+.officiel.cc' # World-torrent
   - '+.onejav.com' # OneJAV
   - '+.opensharing.org' # OpenSharing
-  - '+.oxtorrent.run' # World-torrent
   - '+.pandacd.io' # PandaCD
   - '+.pc-torrents.games' # PC-torrent
   - '+.plugintorrent.com' # PluginTorrent
@@ -98,7 +97,6 @@ payload:
   - '+.sexy-pics.us' # Sexy-Pics
   - '+.shanaproject.com' # Shana Project
   - '+.share.dmhy.org' # 動漫花園資源網
-  - '+.sharkibox.run' # World-torrent
   - '+.showrss.info' # showRSS
   - '+.skidrowrepack.com' # SkidrowRepack
   - '+.theaudiobookbay.se' # AudioBook Bay
@@ -128,18 +126,16 @@ payload:
   - '+.torrentkitty.vip' # TorrentKitty
   - '+.torrentmac.net' # Mac Torrents Download
   - '+.torrents-csv.com' # Torrents-CSV
-  - '+.torrentsome267.com' # Torrentsome
-  - '+.torrenttip247.top' # Torrenttip
+  - '+.torrentsome268.com' # Torrentsome
+  - '+.torrenttip248.top' # Torrenttip
   - '+.tpb.party' # The Pirate Bay
   - '+.tpb.proxyninja.org' # The Pirate Bay
   - '+.u3c3.com' # U3C3
   - '+.u3c3u3c3u3c3.com' # U3C3
   - '+.uindex.org' # UIndex
-  - '+.vidlox.run' # World-torrent
   - '+.vsthouse.ru' # VSTHouse
   - '+.vstorrent.org' # VSTorrent
   - '+.vsttorrentz.net' # VST Torrentz
-  - '+.wikibox.run' # World-torrent
   - '+.workino.run' # World-torrent
   - '+.worldivx.run' # World-torrent
   - '+.wuji.me' # 0Magnet

@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites) (Domain Provider Format)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-10-17 06:47:27 UTC
-# Total Domains: 286
+# Updated: 2026-10-18 07:07:27 UTC
+# Total Domains: 287
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -54,6 +54,7 @@ payload:
   - '+.cinematik.net' # Cinematik
   - '+.cinemaz.to' # CinemaZ
   - '+.clearjav.com' # ClearJAV
+  - '+.colapt.com' # 可乐
   - '+.concertos.live' # Concertos
   - '+.crabpt.vip' # CrabPt
   - '+.cspt.cc' # 财神

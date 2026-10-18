@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-17 06:47:27 UTC
-# Total Rules: 433
+# Updated: 2026-10-18 07:07:27 UTC
+# Total Rules: 430
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -85,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,cinematik.net # Cinematik
   - DOMAIN-SUFFIX,cinemaz.to # CinemaZ
   - DOMAIN-SUFFIX,clearjav.com # ClearJAV
+  - DOMAIN-SUFFIX,colapt.com # 可乐
   - DOMAIN-SUFFIX,com.br # PornoTorrent
   - DOMAIN-SUFFIX,concertos.live # Concertos
   - DOMAIN-SUFFIX,crabpt.vip # CrabPt
@@ -96,7 +97,6 @@ payload:
   - DOMAIN-SUFFIX,cyanbug.net # CyanBug
   - DOMAIN-SUFFIX,damag.net # DaMagNet
   - DOMAIN-SUFFIX,danishbytes.club # DanishBytes
-  - DOMAIN-SUFFIX,darkfox.run # World-torrent
   - DOMAIN-SUFFIX,darkland.top # Darkland
   - DOMAIN-SUFFIX,darkpeers.org # darkpeers
   - DOMAIN-SUFFIX,datascene.xyz # DataScene
@@ -250,6 +250,7 @@ payload:
   - DOMAIN-SUFFIX,nyaa.media # Nyaa
   - DOMAIN-SUFFIX,nyaa.mom # Nyaa
   - DOMAIN-SUFFIX,nyaa.si # Nyaa
+  - DOMAIN-SUFFIX,officiel.cc # World-torrent
   - DOMAIN-SUFFIX,okpt.net # OKPT
   - DOMAIN-SUFFIX,oldtoons.world # OldToonsWorld
   - DOMAIN-SUFFIX,onejav.com # OneJAV
@@ -261,7 +262,6 @@ payload:
   - DOMAIN-SUFFIX,our.kelu.one # Kelu
   - DOMAIN-SUFFIX,ourbits.club # OurBits
   - DOMAIN-SUFFIX,ourhelp.club # OurBits
-  - DOMAIN-SUFFIX,oxtorrent.run # World-torrent
   - DOMAIN-SUFFIX,pandacd.io # PandaCD
   - DOMAIN-SUFFIX,pandapt.net # PandaPT
   - DOMAIN-SUFFIX,passthepopcorn.me # PassThePopcorn
@@ -320,7 +320,6 @@ payload:
   - DOMAIN-SUFFIX,shanaproject.com # Shana Project
   - DOMAIN-SUFFIX,share.dmhy.org # 動漫花園資源網
   - DOMAIN-SUFFIX,shareisland.org # ShareIsland
-  - DOMAIN-SUFFIX,sharkibox.run # World-torrent
   - DOMAIN-SUFFIX,showrss.info # showRSS
   - DOMAIN-SUFFIX,si-qi.xyz # 思齐
   - DOMAIN-SUFFIX,simurg.world # Simurg
@@ -384,8 +383,8 @@ payload:
   - DOMAIN-SUFFIX,torrentleech.org # TorrentLeech
   - DOMAIN-SUFFIX,torrentmac.net # Mac Torrents Download
   - DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
-  - DOMAIN-SUFFIX,torrentsome267.com # Torrentsome
-  - DOMAIN-SUFFIX,torrenttip247.top # Torrenttip
+  - DOMAIN-SUFFIX,torrentsome268.com # Torrentsome
+  - DOMAIN-SUFFIX,torrenttip248.top # Torrenttip
   - DOMAIN-SUFFIX,totheglory.im # ToTheGlory
   - DOMAIN-SUFFIX,tpb.party # The Pirate Bay
   - DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
@@ -402,12 +401,10 @@ payload:
   - DOMAIN-SUFFIX,upxin.net # HDU
   - DOMAIN-SUFFIX,usefultrash.net # ABTorrents
   - DOMAIN-SUFFIX,vclib.online # VC-Lib
-  - DOMAIN-SUFFIX,vidlox.run # World-torrent
   - DOMAIN-SUFFIX,vsthouse.ru # VSTHouse
   - DOMAIN-SUFFIX,vstorrent.org # VSTorrent
   - DOMAIN-SUFFIX,vsttorrentz.net # VST Torrentz
   - DOMAIN-SUFFIX,wiiii.dpdns.org # LongPT
-  - DOMAIN-SUFFIX,wikibox.run # World-torrent
   - DOMAIN-SUFFIX,wintersakura.net # WinterSakura
   - DOMAIN-SUFFIX,workino.run # World-torrent
   - DOMAIN-SUFFIX,workisboring.net # TorrentsTD

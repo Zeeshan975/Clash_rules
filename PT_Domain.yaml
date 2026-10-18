@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-17 06:47:27 UTC
-# Total Domains: 433
+# Updated: 2026-10-18 07:07:27 UTC
+# Total Domains: 430
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -85,6 +85,7 @@ payload:
   - '+.cinematik.net' # Cinematik
   - '+.cinemaz.to' # CinemaZ
   - '+.clearjav.com' # ClearJAV
+  - '+.colapt.com' # 可乐
   - '+.com.br' # PornoTorrent
   - '+.concertos.live' # Concertos
   - '+.crabpt.vip' # CrabPt
@@ -96,7 +97,6 @@ payload:
   - '+.cyanbug.net' # CyanBug
   - '+.damag.net' # DaMagNet
   - '+.danishbytes.club' # DanishBytes
-  - '+.darkfox.run' # World-torrent
   - '+.darkland.top' # Darkland
   - '+.darkpeers.org' # darkpeers
   - '+.datascene.xyz' # DataScene
@@ -250,6 +250,7 @@ payload:
   - '+.nyaa.media' # Nyaa
   - '+.nyaa.mom' # Nyaa
   - '+.nyaa.si' # Nyaa
+  - '+.officiel.cc' # World-torrent
   - '+.okpt.net' # OKPT
   - '+.oldtoons.world' # OldToonsWorld
   - '+.onejav.com' # OneJAV
@@ -261,7 +262,6 @@ payload:
   - '+.our.kelu.one' # Kelu
   - '+.ourbits.club' # OurBits
   - '+.ourhelp.club' # OurBits
-  - '+.oxtorrent.run' # World-torrent
   - '+.pandacd.io' # PandaCD
   - '+.pandapt.net' # PandaPT
   - '+.passthepopcorn.me' # PassThePopcorn
@@ -320,7 +320,6 @@ payload:
   - '+.shanaproject.com' # Shana Project
   - '+.share.dmhy.org' # 動漫花園資源網
   - '+.shareisland.org' # ShareIsland
-  - '+.sharkibox.run' # World-torrent
   - '+.showrss.info' # showRSS
   - '+.si-qi.xyz' # 思齐
   - '+.simurg.world' # Simurg
@@ -384,8 +383,8 @@ payload:
   - '+.torrentleech.org' # TorrentLeech
   - '+.torrentmac.net' # Mac Torrents Download
   - '+.torrents-csv.com' # Torrents-CSV
-  - '+.torrentsome267.com' # Torrentsome
-  - '+.torrenttip247.top' # Torrenttip
+  - '+.torrentsome268.com' # Torrentsome
+  - '+.torrenttip248.top' # Torrenttip
   - '+.totheglory.im' # ToTheGlory
   - '+.tpb.party' # The Pirate Bay
   - '+.tpb.proxyninja.org' # The Pirate Bay
@@ -402,12 +401,10 @@ payload:
   - '+.upxin.net' # HDU
   - '+.usefultrash.net' # ABTorrents
   - '+.vclib.online' # VC-Lib
-  - '+.vidlox.run' # World-torrent
   - '+.vsthouse.ru' # VSTHouse
   - '+.vstorrent.org' # VSTorrent
   - '+.vsttorrentz.net' # VST Torrentz
   - '+.wiiii.dpdns.org' # LongPT
-  - '+.wikibox.run' # World-torrent
   - '+.wintersakura.net' # WinterSakura
   - '+.workino.run' # World-torrent
   - '+.workisboring.net' # TorrentsTD

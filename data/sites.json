@@ -102,7 +102,13 @@
     "name": "1337x",
     "aka": [],
     "description": "1337X is a Public torrent site that offers verified torrent downloads",
-    "tags": [],
+    "tags": [
+      "综合",
+      "影视",
+      "游戏",
+      "音乐",
+      "成人"
+    ],
     "type": "public",
     "schema": "",
     "isDead": false,
@@ -317,7 +323,9 @@
     "name": "ACG.RIP",
     "aka": [],
     "description": "与动漫花园类似的日漫资源站点",
-    "tags": [],
+    "tags": [
+      "动漫"
+    ],
     "type": "public",
     "schema": "",
     "isDead": false,
@@ -439,7 +447,9 @@
     "name": "alingPT",
     "aka": [],
     "description": "",
-    "tags": [],
+    "tags": [
+      "影视"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -1519,7 +1529,10 @@
       "车站"
     ],
     "description": "=链接@分享=",
-    "tags": [],
+    "tags": [
+      "影视",
+      "音乐"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -1637,7 +1650,11 @@
     "name": "CD File",
     "aka": [],
     "description": "专注于Blu-Ray、DVD、CD等高品质光盘镜像资源，致力于打造光盘档案室",
-    "tags": [],
+    "tags": [
+      "原盘",
+      "影视",
+      "音乐"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": true,
@@ -1904,6 +1921,31 @@
     ]
   },
   {
+    "id": "colapt",
+    "name": "可乐",
+    "aka": [
+      "Cola",
+      "ColaPT"
+    ],
+    "description": "使用 ReelCore 的影视站点；积分表示瓶盖，“发布帖子数”表示核子可乐余额。晋级需达标并消耗两种积分。",
+    "tags": [
+      "影视"
+    ],
+    "type": "private",
+    "schema": "ReelCore",
+    "isDead": false,
+    "urls": [
+      "https://www.colapt.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "colapt.com"
+    ],
+    "allDomains": [
+      "colapt.com"
+    ]
+  },
+  {
     "id": "concen",
     "name": "ConCen",
     "aka": [
@@ -1955,7 +1997,10 @@
       "蟹黄堡"
     ],
     "description": "",
-    "tags": [],
+    "tags": [
+      "影视",
+      "音乐"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -2442,7 +2487,12 @@
       "DMHY"
     ],
     "description": "動漫花園資訊網是一個動漫愛好者交流的平台,提供最及時,最全面的動畫,漫畫,動漫音樂,動漫下載,BT,ED,動漫遊戲,資訊,分享,交流,讨论.",
-    "tags": [],
+    "tags": [
+      "动漫",
+      "漫画",
+      "音乐",
+      "游戏"
+    ],
     "type": "public",
     "schema": "",
     "isDead": false,
@@ -3145,7 +3195,10 @@
     "name": "GFXPeers",
     "aka": [],
     "description": "",
-    "tags": [],
+    "tags": [
+      "设计",
+      "素材"
+    ],
     "type": "private",
     "schema": "Gazelle",
     "isDead": true,
@@ -3491,7 +3544,11 @@
     "name": "HDBao",
     "aka": [],
     "description": "",
-    "tags": [],
+    "tags": [
+      "影视",
+      "音乐",
+      "体育"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -3597,7 +3654,11 @@
     "name": "HDClone",
     "aka": [],
     "description": "",
-    "tags": [],
+    "tags": [
+      "影视",
+      "音乐",
+      "体育"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -3781,7 +3842,9 @@
       "XiaoMayi"
     ],
     "description": "非商业,有电影情怀,真电影爱好者",
-    "tags": [],
+    "tags": [
+      "电影"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": true,
@@ -3921,7 +3984,9 @@
     "name": "高清街",
     "aka": [],
     "description": "高清街专注于华语影视俱乐部",
-    "tags": [],
+    "tags": [
+      "影视"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": true,
@@ -4052,7 +4117,10 @@
     "name": "HDVideo",
     "aka": [],
     "description": "",
-    "tags": [],
+    "tags": [
+      "影视",
+      "综合"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -6061,7 +6129,12 @@
     "name": "浦园",
     "aka": [],
     "description": "",
-    "tags": [],
+    "tags": [
+      "综合",
+      "影视",
+      "音乐",
+      "游戏"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -6189,7 +6262,10 @@
       "蒲公英"
     ],
     "description": "界面独具一格的教育网站点",
-    "tags": [],
+    "tags": [
+      "教育网",
+      "综合"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": true,
@@ -6263,7 +6339,13 @@
     "name": "OKPT",
     "aka": [],
     "description": "做你最好的新手村",
-    "tags": [],
+    "tags": [
+      "综合",
+      "影视",
+      "音乐",
+      "电子书",
+      "游戏"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -6533,7 +6615,13 @@
       "熊猫高清"
     ],
     "description": "熊猫高清",
-    "tags": [],
+    "tags": [
+      "综合",
+      "影视",
+      "音乐",
+      "游戏",
+      "有声书"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -6950,7 +7038,11 @@
       "咖啡PT"
     ],
     "description": "热爱生活·享受咖啡",
-    "tags": [],
+    "tags": [
+      "影视",
+      "音乐",
+      "体育"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,
@@ -6972,7 +7064,10 @@
       "铂金学院"
     ],
     "description": "PT新手的梦想之家，PT老鸟的黄埔军校",
-    "tags": [],
+    "tags": [
+      "影视",
+      "原盘"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": true,
@@ -7206,7 +7301,9 @@
       "马杀鸡"
     ],
     "description": "The Ultimate File Sharing Experience",
-    "tags": [],
+    "tags": [
+      "影视"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": true,
@@ -7759,7 +7856,12 @@
       "肉丝"
     ],
     "description": "",
-    "tags": [],
+    "tags": [
+      "综合",
+      "影视",
+      "音乐",
+      "电子书"
+    ],
     "type": "private",
     "schema": "Rousi",
     "isDead": false,
@@ -9006,7 +9108,12 @@
       "東京 図書館"
     ],
     "description": "Tokyo Toshokan is a Public BitTorrent Library for JAPANESE Media",
-    "tags": [],
+    "tags": [
+      "动漫",
+      "漫画",
+      "音乐",
+      "成人"
+    ],
     "type": "public",
     "schema": "",
     "isDead": false,
@@ -9306,7 +9413,9 @@
       "TorrentsCSV"
     ],
     "description": "Torrents.csv is a self-hostable, open source torrent search engine and database",
-    "tags": [],
+    "tags": [
+      "综合"
+    ],
     "type": "public",
     "schema": "",
     "isDead": false,
@@ -9329,7 +9438,9 @@
     "name": "TorrentSeeds",
     "aka": [],
     "description": "",
-    "tags": [],
+    "tags": [
+      "综合"
+    ],
     "type": "private",
     "schema": "Unit3D",
     "isDead": true,
@@ -9356,7 +9467,7 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrentsome267.com/"
+      "https://torrentsome268.com/"
     ],
     "legacyUrls": [
       "https://torrentsome252.com/",
@@ -9373,10 +9484,11 @@
       "https://torrentsome263.com/",
       "https://torrentsome264.com/",
       "https://torrentsome265.com/",
-      "https://torrentsome266.com/"
+      "https://torrentsome266.com/",
+      "https://torrentsome267.com/"
     ],
     "activeDomains": [
-      "torrentsome267.com"
+      "torrentsome268.com"
     ],
     "allDomains": [
       "torrentsome252.com",
@@ -9394,7 +9506,8 @@
       "torrentsome264.com",
       "torrentsome265.com",
       "torrentsome266.com",
-      "torrentsome267.com"
+      "torrentsome267.com",
+      "torrentsome268.com"
     ]
   },
   {
@@ -9409,7 +9522,7 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrenttip247.top/"
+      "https://torrenttip248.top/"
     ],
     "legacyUrls": [
       "https://torrenttip232.top/",
@@ -9426,10 +9539,11 @@
       "https://torrenttip243.top/",
       "https://torrenttip244.top/",
       "https://torrenttip245.top/",
-      "https://torrenttip246.top/"
+      "https://torrenttip246.top/",
+      "https://torrenttip247.top/"
     ],
     "activeDomains": [
-      "torrenttip247.top"
+      "torrenttip248.top"
     ],
     "allDomains": [
       "torrenttip232.top",
@@ -9447,7 +9561,8 @@
       "torrenttip244.top",
       "torrenttip245.top",
       "torrenttip246.top",
-      "torrenttip247.top"
+      "torrenttip247.top",
+      "torrenttip248.top"
     ]
   },
   {
@@ -9860,7 +9975,10 @@
     "name": "珞樱-WHUPT",
     "aka": [],
     "description": "武汉大学自己的武汉大学网络中心提供硬件支持、由学生自主运行与管理的校园资源共享平台",
-    "tags": [],
+    "tags": [
+      "教育网",
+      "综合"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": true,
@@ -9946,28 +10064,31 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://ww1.darkfox.run/",
-      "https://ww1.vidlox.run/",
+      "https://ww1-darkfox.officiel.cc/",
+      "https://ww1-vidlox.officiel.cc/",
       "https://ww1.worldivx.run/",
-      "https://ww1.wikibox.run/",
-      "https://ww1.sharkibox.run/",
+      "https://ww1-wikibox.officiel.cc/",
+      "https://ww1-sharkibox.officiel.cc/",
       "https://ww1.workino.run/",
-      "https://ww1.oxtorrent.run/",
+      "https://ww1-oxtorrent.officiel.cc/",
       "https://ww1.torrent911.run/"
     ],
-    "legacyUrls": [],
+    "legacyUrls": [
+      "https://ww1.darkfox.run/",
+      "https://ww1.vidlox.run/",
+      "https://ww1.wikibox.run/",
+      "https://ww1.sharkibox.run/",
+      "https://ww1.oxtorrent.run/"
+    ],
     "activeDomains": [
-      "darkfox.run",
-      "oxtorrent.run",
-      "sharkibox.run",
+      "officiel.cc",
       "torrent911.run",
-      "vidlox.run",
-      "wikibox.run",
       "workino.run",
       "worldivx.run"
     ],
     "allDomains": [
       "darkfox.run",
+      "officiel.cc",
       "oxtorrent.run",
       "sharkibox.run",
       "torrent911.run",
@@ -10512,7 +10633,12 @@
       "ZMPT"
     ],
     "description": "为爱启航，造就梦想！",
-    "tags": [],
+    "tags": [
+      "综合",
+      "影视",
+      "音乐",
+      "游戏"
+    ],
     "type": "private",
     "schema": "NexusPHP",
     "isDead": false,

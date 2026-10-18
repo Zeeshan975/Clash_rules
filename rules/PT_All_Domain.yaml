@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-17 06:47:27 UTC
-# Total Domains: 730
+# Updated: 2026-10-18 07:07:27 UTC
+# Total Domains: 734
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -137,6 +137,7 @@ payload:
   - '+.clearjav.com' # ClearJAV
   - '+.cnlang.org' # 国语视界
   - '+.cnscg.club' # 圣城家园PT
+  - '+.colapt.com' # 可乐
   - '+.com.br' # PornoTorrent
   - '+.concen.org' # ConCen
   - '+.concertos.live' # Concertos
@@ -414,6 +415,7 @@ payload:
   - '+.nyaa.media' # Nyaa
   - '+.nyaa.mom' # Nyaa
   - '+.nyaa.si' # Nyaa
+  - '+.officiel.cc' # World-torrent
   - '+.okpt.net' # OKPT
   - '+.oldtoons.world' # OldToonsWorld
   - '+.onejav.com' # OneJAV
@@ -634,6 +636,7 @@ payload:
   - '+.torrentsome265.com' # Torrentsome
   - '+.torrentsome266.com' # Torrentsome
   - '+.torrentsome267.com' # Torrentsome
+  - '+.torrentsome268.com' # Torrentsome
   - '+.torrenttip232.top' # Torrenttip
   - '+.torrenttip233.top' # Torrenttip
   - '+.torrenttip234.top' # Torrenttip
@@ -650,6 +653,7 @@ payload:
   - '+.torrenttip245.top' # Torrenttip
   - '+.torrenttip246.top' # Torrenttip
   - '+.torrenttip247.top' # Torrenttip
+  - '+.torrenttip248.top' # Torrenttip
   - '+.tosky.club' # ToSky
   - '+.totheglory.im' # ToTheGlory
   - '+.tpb.monster' # The Pirate Bay
