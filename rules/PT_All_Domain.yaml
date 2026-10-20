@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-19 07:34:00 UTC
-# Total Domains: 734
+# Updated: 2026-10-20 07:22:12 UTC
+# Total Domains: 736
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -254,6 +254,7 @@ payload:
   - '+.hdbao.cc' # HDBao
   - '+.hdbd.us' # 伊甸园
   - '+.hdbits.org' # HDBits
+  - '+.hdchina.club' # HDChina
   - '+.hdchina.org' # HDChina
   - '+.hdcity.city' # HDCity
   - '+.hdcity.leniter.org' # HDCity
@@ -282,6 +283,7 @@ payload:
   - '+.hdupt.com' # HDU
   - '+.hdvideo.one' # HDVideo
   - '+.hdvideo.top' # HDVideo
+  - '+.hdwing.org' # HDChina
   - '+.hdzone.me' # HDZone
   - '+.hellenic-hd.cc' # HELLENIC-HD
   - '+.hhanclub.net' # 憨憨

@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-19 07:34:00 UTC
-# Total Domains: 430
+# Updated: 2026-10-20 07:22:12 UTC
+# Total Domains: 431
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -174,6 +174,7 @@ payload:
   - '+.hdts.ru' # HD-Torrents
   - '+.hdupt.com' # HDU
   - '+.hdvideo.top' # HDVideo
+  - '+.hdwing.org' # HDChina
   - '+.hellenic-hd.cc' # HELLENIC-HD
   - '+.hhanclub.net' # 憨憨
   - '+.hitpt.com' # 百川PT

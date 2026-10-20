@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-19 07:34:00 UTC
-# Total Rules: 430
+# Updated: 2026-10-20 07:22:12 UTC
+# Total Rules: 431
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -173,6 +173,7 @@ DOMAIN-SUFFIX,hdtime.org # HDTime
 DOMAIN-SUFFIX,hdts.ru # HD-Torrents
 DOMAIN-SUFFIX,hdupt.com # HDU
 DOMAIN-SUFFIX,hdvideo.top # HDVideo
+DOMAIN-SUFFIX,hdwing.org # HDChina
 DOMAIN-SUFFIX,hellenic-hd.cc # HELLENIC-HD
 DOMAIN-SUFFIX,hhanclub.net # 憨憨
 DOMAIN-SUFFIX,hitpt.com # 百川PT

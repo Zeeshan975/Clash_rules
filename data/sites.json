@@ -2919,7 +2919,8 @@
     "name": "凤凰PT",
     "aka": [
       "FengHuang PT",
-      "521best"
+      "521best",
+      "PhoenixPT"
     ],
     "description": "个人站，定位小体积压制、WEB-DL 电影资源，全站 Free",
     "tags": [
@@ -3592,6 +3593,8 @@
     "id": "hdchina",
     "name": "HDChina",
     "aka": [
+      "HDWinG",
+      "HDW",
       "瓷器"
     ],
     "description": "高清影音人士分享乐园",
@@ -3603,16 +3606,21 @@
     ],
     "type": "private",
     "schema": "NexusPHP",
-    "isDead": true,
+    "isDead": false,
     "urls": [
-      "https://hdchina.org/"
+      "https://hdwing.org/"
     ],
-    "legacyUrls": [],
+    "legacyUrls": [
+      "https://hdchina.org/",
+      "https://hdchina.club/"
+    ],
     "activeDomains": [
-      "hdchina.org"
+      "hdwing.org"
     ],
     "allDomains": [
-      "hdchina.org"
+      "hdchina.club",
+      "hdchina.org",
+      "hdwing.org"
     ]
   },
   {

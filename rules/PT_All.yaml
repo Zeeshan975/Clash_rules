@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-19 07:34:00 UTC
-# Total Rules: 734
+# Updated: 2026-10-20 07:22:12 UTC
+# Total Rules: 736
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -254,6 +254,7 @@ payload:
   - DOMAIN-SUFFIX,hdbao.cc # HDBao
   - DOMAIN-SUFFIX,hdbd.us # 伊甸园
   - DOMAIN-SUFFIX,hdbits.org # HDBits
+  - DOMAIN-SUFFIX,hdchina.club # HDChina
   - DOMAIN-SUFFIX,hdchina.org # HDChina
   - DOMAIN-SUFFIX,hdcity.city # HDCity
   - DOMAIN-SUFFIX,hdcity.leniter.org # HDCity
@@ -282,6 +283,7 @@ payload:
   - DOMAIN-SUFFIX,hdupt.com # HDU
   - DOMAIN-SUFFIX,hdvideo.one # HDVideo
   - DOMAIN-SUFFIX,hdvideo.top # HDVideo
+  - DOMAIN-SUFFIX,hdwing.org # HDChina
   - DOMAIN-SUFFIX,hdzone.me # HDZone
   - DOMAIN-SUFFIX,hellenic-hd.cc # HELLENIC-HD
   - DOMAIN-SUFFIX,hhanclub.net # 憨憨
