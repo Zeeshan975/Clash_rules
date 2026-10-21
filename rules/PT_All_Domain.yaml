@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-20 07:22:12 UTC
-# Total Domains: 736
+# Updated: 2026-10-21 07:22:20 UTC
+# Total Domains: 737
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -168,6 +168,7 @@ payload:
   - '+.dirtybytes.net' # DirtyBytes
   - '+.discfan.net' # DiscFan
   - '+.dragonhd.xyz' # 龍之家
+  - '+.dreadvault.org' # DreadVault
   - '+.dstudio.me' # Depth Studio
   - '+.dubhe.site' # 天枢
   - '+.duckboobee.org' # March-Media

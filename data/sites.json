@@ -250,7 +250,7 @@
     ],
     "type": "private",
     "schema": "NexusPHP",
-    "isDead": false,
+    "isDead": true,
     "urls": [
       "https://www.52movie.top/"
     ],
@@ -2532,6 +2532,31 @@
     ],
     "allDomains": [
       "dragonhd.xyz"
+    ]
+  },
+  {
+    "id": "dreadvault",
+    "name": "DreadVault",
+    "aka": [],
+    "description": "DreadVault 是一个专注恐怖题材的私有 PT 站，资源涵盖恐怖电影、剧集、电子书与原声带",
+    "tags": [
+      "恐怖",
+      "影视",
+      "电子书",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://dreadvault.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "dreadvault.org"
+    ],
+    "allDomains": [
+      "dreadvault.org"
     ]
   },
   {
@@ -10450,7 +10475,7 @@
     ],
     "type": "private",
     "schema": "NexusPHP",
-    "isDead": false,
+    "isDead": true,
     "urls": [
       "https://pt.ying.us.kg/"
     ],

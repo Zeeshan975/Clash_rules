@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-20 07:22:12 UTC
-# Total Domains: 431
+# Updated: 2026-10-21 07:22:20 UTC
+# Total Domains: 430
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -22,7 +22,6 @@ payload:
   - '+.25img.com' # U3C3
   - '+.521.best' # 凤凰PT
   - '+.525968.xyz' # 大宝剑
-  - '+.52movie.top' # 52movie
   - '+.52pt.site' # 52PT
   - '+.7mag.net' # 0Magnet
   - '+.8ci.li' # 0Magnet
@@ -109,6 +108,7 @@ payload:
   - '+.dirtybytes.net' # DirtyBytes
   - '+.discfan.net' # DiscFan
   - '+.dragonhd.xyz' # 龍之家
+  - '+.dreadvault.org' # DreadVault
   - '+.dstudio.me' # Depth Studio
   - '+.dubhe.site' # 天枢
   - '+.duckboobee.org' # March-Media
@@ -428,7 +428,6 @@ payload:
   - '+.xxxtor.com' # xxxtor
   - '+.xzt.me' # 音乐乌托邦
   - '+.yemapt.org' # YemaPT
-  - '+.ying.us.kg' # 樱花
   - '+.yts.gg' # YTS
   - '+.yu-scene.net' # YUSCENE
   - '+.yzyy.asia' # YzYY

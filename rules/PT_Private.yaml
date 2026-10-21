@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-10-20 07:22:12 UTC
-# Total Rules: 288
+# Updated: 2026-10-21 07:22:20 UTC
+# Total Rules: 287
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -13,7 +13,6 @@ payload:
   - DOMAIN-SUFFIX,1ptba.com # 1PTBar
   - DOMAIN-SUFFIX,521.best # 凤凰PT
   - DOMAIN-SUFFIX,525968.xyz # 大宝剑
-  - DOMAIN-SUFFIX,52movie.top # 52movie
   - DOMAIN-SUFFIX,52pt.site # 52PT
   - DOMAIN-SUFFIX,agsvpt.cn # AGSVPT
   - DOMAIN-SUFFIX,agsvpt.com # AGSVPT
@@ -75,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,dirtybytes.net # DirtyBytes
   - DOMAIN-SUFFIX,discfan.net # DiscFan
   - DOMAIN-SUFFIX,dragonhd.xyz # 龍之家
+  - DOMAIN-SUFFIX,dreadvault.org # DreadVault
   - DOMAIN-SUFFIX,dstudio.me # Depth Studio
   - DOMAIN-SUFFIX,dubhe.site # 天枢
   - DOMAIN-SUFFIX,duckboobee.org # March-Media
@@ -287,7 +287,6 @@ payload:
   - DOMAIN-SUFFIX,xloli.cc # ilolicon
   - DOMAIN-SUFFIX,xzt.me # 音乐乌托邦
   - DOMAIN-SUFFIX,yemapt.org # YemaPT
-  - DOMAIN-SUFFIX,ying.us.kg # 樱花
   - DOMAIN-SUFFIX,yu-scene.net # YUSCENE
   - DOMAIN-SUFFIX,yzyy.asia # YzYY
   - DOMAIN-SUFFIX,yzyy.org # YzYY

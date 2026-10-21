@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites) (Domain Provider Format)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-10-20 07:22:12 UTC
-# Total Domains: 288
+# Updated: 2026-10-21 07:22:20 UTC
+# Total Domains: 287
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -13,7 +13,6 @@ payload:
   - '+.1ptba.com' # 1PTBar
   - '+.521.best' # 凤凰PT
   - '+.525968.xyz' # 大宝剑
-  - '+.52movie.top' # 52movie
   - '+.52pt.site' # 52PT
   - '+.agsvpt.cn' # AGSVPT
   - '+.agsvpt.com' # AGSVPT
@@ -75,6 +74,7 @@ payload:
   - '+.dirtybytes.net' # DirtyBytes
   - '+.discfan.net' # DiscFan
   - '+.dragonhd.xyz' # 龍之家
+  - '+.dreadvault.org' # DreadVault
   - '+.dstudio.me' # Depth Studio
   - '+.dubhe.site' # 天枢
   - '+.duckboobee.org' # March-Media
@@ -287,7 +287,6 @@ payload:
   - '+.xloli.cc' # ilolicon
   - '+.xzt.me' # 音乐乌托邦
   - '+.yemapt.org' # YemaPT
-  - '+.ying.us.kg' # 樱花
   - '+.yu-scene.net' # YUSCENE
   - '+.yzyy.asia' # YzYY
   - '+.yzyy.org' # YzYY
