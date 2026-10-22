@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-21 07:22:20 UTC
-# Total Rules: 430
+# Updated: 2026-10-22 07:22:46 UTC
+# Total Rules: 427
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -361,7 +361,6 @@ payload:
   - DOMAIN-SUFFIX,torkitty.com # TorrentKitty
   - DOMAIN-SUFFIX,torrent.desi # DesiTorrents
   - DOMAIN-SUFFIX,torrent9.to # Torrent9
-  - DOMAIN-SUFFIX,torrent911.run # World-torrent
   - DOMAIN-SUFFIX,torrentday.com # TorrentsTD
   - DOMAIN-SUFFIX,torrentday.cool # TorrentsTD
   - DOMAIN-SUFFIX,torrentday.it # TorrentsTD
@@ -384,8 +383,8 @@ payload:
   - DOMAIN-SUFFIX,torrentleech.org # TorrentLeech
   - DOMAIN-SUFFIX,torrentmac.net # Mac Torrents Download
   - DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
-  - DOMAIN-SUFFIX,torrentsome268.com # Torrentsome
-  - DOMAIN-SUFFIX,torrenttip248.top # Torrenttip
+  - DOMAIN-SUFFIX,torrentsome269.com # Torrentsome
+  - DOMAIN-SUFFIX,torrenttip249.top # Torrenttip
   - DOMAIN-SUFFIX,totheglory.im # ToTheGlory
   - DOMAIN-SUFFIX,tpb.party # The Pirate Bay
   - DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
@@ -407,10 +406,8 @@ payload:
   - DOMAIN-SUFFIX,vsttorrentz.net # VST Torrentz
   - DOMAIN-SUFFIX,wiiii.dpdns.org # LongPT
   - DOMAIN-SUFFIX,wintersakura.net # WinterSakura
-  - DOMAIN-SUFFIX,workino.run # World-torrent
   - DOMAIN-SUFFIX,workisboring.net # TorrentsTD
   - DOMAIN-SUFFIX,world-in-hd.net # WiHD
-  - DOMAIN-SUFFIX,worldivx.run # World-torrent
   - DOMAIN-SUFFIX,wuji.me # 0Magnet
   - DOMAIN-SUFFIX,x1337x.cc # 1337x
   - DOMAIN-SUFFIX,x1337x.eu # 1337x

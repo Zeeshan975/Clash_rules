@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-21 07:22:20 UTC
-# Total Rules: 737
+# Updated: 2026-10-22 07:22:46 UTC
+# Total Rules: 739
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -639,6 +639,7 @@ DOMAIN-SUFFIX,torrentsome265.com # Torrentsome
 DOMAIN-SUFFIX,torrentsome266.com # Torrentsome
 DOMAIN-SUFFIX,torrentsome267.com # Torrentsome
 DOMAIN-SUFFIX,torrentsome268.com # Torrentsome
+DOMAIN-SUFFIX,torrentsome269.com # Torrentsome
 DOMAIN-SUFFIX,torrenttip232.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip233.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip234.top # Torrenttip
@@ -656,6 +657,7 @@ DOMAIN-SUFFIX,torrenttip245.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip246.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip247.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip248.top # Torrenttip
+DOMAIN-SUFFIX,torrenttip249.top # Torrenttip
 DOMAIN-SUFFIX,tosky.club # ToSky
 DOMAIN-SUFFIX,totheglory.im # ToTheGlory
 DOMAIN-SUFFIX,tpb.monster # The Pirate Bay
