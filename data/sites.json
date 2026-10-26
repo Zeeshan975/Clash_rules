@@ -3736,9 +3736,10 @@
   },
   {
     "id": "hddolby",
-    "name": "HD Dolby",
+    "name": "UHDDolby",
     "aka": [
-      "高清杜比"
+      "高清杜比",
+      "HD Dolby"
     ],
     "description": "高清杜比",
     "tags": [
@@ -3749,16 +3750,18 @@
     "schema": "NexusPHP",
     "isDead": false,
     "urls": [
-      "https://www.hddolby.com/"
+      "https://www.uhddolby.com/"
     ],
     "legacyUrls": [
-      "https://hddolby.com/"
+      "https://hddolby.com/",
+      "https://www.hddolby.com/"
     ],
     "activeDomains": [
-      "hddolby.com"
+      "uhddolby.com"
     ],
     "allDomains": [
-      "hddolby.com"
+      "hddolby.com",
+      "uhddolby.com"
     ]
   },
   {
@@ -7265,7 +7268,7 @@
     ],
     "type": "private",
     "schema": "NexusPHP",
-    "isDead": false,
+    "isDead": true,
     "urls": [
       "https://ptlao.top/"
     ],

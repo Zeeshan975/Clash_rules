@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-25 07:28:37 UTC
-# Total Rules: 427
+# Updated: 2026-10-26 07:38:27 UTC
+# Total Rules: 426
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -162,7 +162,6 @@ payload:
   - DOMAIN-SUFFIX,hdcity.leniter.org # HDCity
   - DOMAIN-SUFFIX,hdcity.work # HDCity
   - DOMAIN-SUFFIX,hdclone.top # HDClone
-  - DOMAIN-SUFFIX,hddolby.com # HD Dolby
   - DOMAIN-SUFFIX,hdf.world # HD-Forever
   - DOMAIN-SUFFIX,hdfans.org # HDFans
   - DOMAIN-SUFFIX,hdhome.org # HDHome
@@ -285,7 +284,6 @@ payload:
   - DOMAIN-SUFFIX,pterclub.net # PTer
   - DOMAIN-SUFFIX,ptfans.cc # PTFans
   - DOMAIN-SUFFIX,pthome.net # PTHome
-  - DOMAIN-SUFFIX,ptlao.top # PTLAO
   - DOMAIN-SUFFIX,ptlgs.org # PTLGS
   - DOMAIN-SUFFIX,ptneko.com # 超科学PT喵
   - DOMAIN-SUFFIX,ptsbao.club # PTSBao
@@ -395,6 +393,7 @@ payload:
   - DOMAIN-SUFFIX,u3c3.com # U3C3
   - DOMAIN-SUFFIX,u3c3u3c3u3c3.com # U3C3
   - DOMAIN-SUFFIX,ubits.club # UBits
+  - DOMAIN-SUFFIX,uhddolby.com # UHDDolby
   - DOMAIN-SUFFIX,uindex.org # UIndex
   - DOMAIN-SUFFIX,ultrahd.net # UltraHD
   - DOMAIN-SUFFIX,upload.cx # ULCX

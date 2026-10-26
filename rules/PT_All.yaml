@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-25 07:28:37 UTC
-# Total Rules: 739
+# Updated: 2026-10-26 07:38:27 UTC
+# Total Rules: 740
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -265,7 +265,7 @@ payload:
   - DOMAIN-SUFFIX,hdclone.top # HDClone
   - DOMAIN-SUFFIX,hdcmct.org # SpringSunday
   - DOMAIN-SUFFIX,hddisk.org # HDDisk
-  - DOMAIN-SUFFIX,hddolby.com # HD Dolby
+  - DOMAIN-SUFFIX,hddolby.com # UHDDolby
   - DOMAIN-SUFFIX,hdf.world # HD-Forever
   - DOMAIN-SUFFIX,hdfans.org # HDFans
   - DOMAIN-SUFFIX,hdfun.me # HDZone
@@ -677,6 +677,7 @@ payload:
   - DOMAIN-SUFFIX,u3c3u3c3u3c3.com # U3C3
   - DOMAIN-SUFFIX,ubits.club # UBits
   - DOMAIN-SUFFIX,uhdbits.org # UHDBits
+  - DOMAIN-SUFFIX,uhddolby.com # UHDDolby
   - DOMAIN-SUFFIX,uindex.org # UIndex
   - DOMAIN-SUFFIX,ukpiratebay.org # The Pirate Bay
   - DOMAIN-SUFFIX,ultrahd.net # UltraHD
