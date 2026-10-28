@@ -4554,6 +4554,32 @@
     ]
   },
   {
+    "id": "infinityhd",
+    "name": "InfinityHD",
+    "aka": [
+      "IHD"
+    ],
+    "description": "InfinityHD 是一个 UNIT3D 架构的影视站（电影 / 剧集 / 动画 / 音乐），搜索走官方 JSON API。",
+    "tags": [
+      "影视",
+      "动漫",
+      "音乐"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://infinityhd.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "infinityhd.net"
+    ],
+    "allDomains": [
+      "infinityhd.net"
+    ]
+  },
+  {
     "id": "internetarchive",
     "name": "Internet Archive",
     "aka": [
@@ -6719,6 +6745,28 @@
       "pc-torrent.org",
       "pc-torrent.pro",
       "pc-torrents.games"
+    ]
+  },
+  {
+    "id": "peergarden",
+    "name": "PeerGarden",
+    "aka": [
+      "PG"
+    ],
+    "description": "PeerGarden 是 traxary 平台（UNIT3D fork）的私有 PT 站（适配待验证）",
+    "tags": [],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://peergarden.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "peergarden.org"
+    ],
+    "allDomains": [
+      "peergarden.org"
     ]
   },
   {
@@ -9679,6 +9727,28 @@
     ]
   },
   {
+    "id": "traxary",
+    "name": "Traxary",
+    "aka": [
+      "TRX"
+    ],
+    "description": "Traxary 是一个 UNIT3D fork（traxary 平台）的私有 PT 站，目前为 Beta 阶段（适配待验证）",
+    "tags": [],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://beta.traxary.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "traxary.com"
+    ],
+    "allDomains": [
+      "traxary.com"
+    ]
+  },
+  {
     "id": "tu88",
     "name": "TU88",
     "aka": [],
@@ -9885,6 +9955,28 @@
     ],
     "allDomains": [
       "ultrahd.net"
+    ]
+  },
+  {
+    "id": "unwalled",
+    "name": "Unwalled",
+    "aka": [
+      "UNW"
+    ],
+    "description": "Unwalled 是一个 UNIT3D 架构的私有 PT 站（适配待验证：搜索为通用 Unit3D 列表页规则）",
+    "tags": [],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://unwalled.cc/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "unwalled.cc"
+    ],
+    "allDomains": [
+      "unwalled.cc"
     ]
   },
   {
@@ -10618,6 +10710,30 @@
     "allDomains": [
       "zamunda.life",
       "zamunda.rip"
+    ]
+  },
+  {
+    "id": "zenith",
+    "name": "Zenith",
+    "aka": [
+      "ZNTH"
+    ],
+    "description": "Zenith 是一个 UNIT3D 架构的 Ratioless 影视站（影视 / 音乐 / 图书 / 游戏 / 软件等），搜索走官方 JSON API。",
+    "tags": [
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://znth.cx/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "znth.cx"
+    ],
+    "allDomains": [
+      "znth.cx"
     ]
   },
   {

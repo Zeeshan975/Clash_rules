@@ -1,9 +1,9 @@
 # PT Sites Clash Rules (PT站 Clash 分流规则)
 
 [![GitHub stars](https://img.shields.io/github/stars/Zeeshan975/Clash_rules?style=social)](https://github.com/Zeeshan975/Clash_rules)
-[![Total Sites](https://img.shields.io/badge/Total%20Sites-404-brightgreen.svg)](https://github.com/Zeeshan975/Clash_rules)
-[![Active Sites](https://img.shields.io/badge/Active%20Sites-316-blue.svg)](https://github.com/Zeeshan975/Clash_rules)
-[![Rules](https://img.shields.io/badge/Clash%20Rules-426%20Domains-orange.svg)](https://github.com/Zeeshan975/Clash_rules)
+[![Total Sites](https://img.shields.io/badge/Total%20Sites-409-brightgreen.svg)](https://github.com/Zeeshan975/Clash_rules)
+[![Active Sites](https://img.shields.io/badge/Active%20Sites-321-blue.svg)](https://github.com/Zeeshan975/Clash_rules)
+[![Rules](https://img.shields.io/badge/Clash%20Rules-431%20Domains-orange.svg)](https://github.com/Zeeshan975/Clash_rules)
 [![Auto Update](https://img.shields.io/badge/Auto%20Update-Daily-blueviolet.svg)](https://github.com/Zeeshan975/Clash_rules/actions)
 
 本项目自动提取自 **[PT-depiler](https://github.com/pt-plugins/PT-depiler)**（PT 站点助手聚合项目）官方站点数据库中的所有 PT/BT 网站地址与域名，针对 Clash / Clash Meta (Mihomo) / OpenClash / Clash Verge / Clash Nyanpasu / Surge / Quantumult X 等客户端生成精确的规则集。
@@ -14,10 +14,10 @@
 
 | 类别 | 站点数量 | 域名规则数 | 说明 |
 | :--- | :---: | :---: | :--- |
-| **全量活跃站点 (`PT`)** | **316** | **426** | 包含所有正常运营的私有 PT 与公开 BT 站点（推荐） |
-| **私有 PT 站 (`PT_Private`)** | **242** | **286** | 仅包含私有 PT 站点（推荐绑定直连 `DIRECT`，防止跳 IP 封号） |
+| **全量活跃站点 (`PT`)** | **321** | **431** | 包含所有正常运营的私有 PT 与公开 BT 站点（推荐） |
+| **私有 PT 站 (`PT_Private`)** | **247** | **291** | 仅包含私有 PT 站点（推荐绑定直连 `DIRECT`，防止跳 IP 封号） |
 | **公开 BT 站 (`PT_Public`)** | **74** | **140** | 包含 1337x, Nyaa, E-Hentai, ACG.RIP 等公开 BT 索引站 |
-| **归档全量库 (`PT_All`)** | **404** | **740** | 包含历史曾用域名及已关闭的站点 (88 个已关站) |
+| **归档全量库 (`PT_All`)** | **409** | **745** | 包含历史曾用域名及已关闭的站点 (88 个已关站) |
 
 ---
 

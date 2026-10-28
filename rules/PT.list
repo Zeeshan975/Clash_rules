@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-27 07:36:01 UTC
-# Total Rules: 426
+# Updated: 2026-10-28 08:09:11 UTC
+# Total Rules: 431
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -181,6 +181,7 @@ DOMAIN-SUFFIX,hqmusic.info # HQMusic
 DOMAIN-SUFFIX,htpt.cc # 海棠PT
 DOMAIN-SUFFIX,hudbt.hust.edu.cn # 蝴蝶-HUDBT
 DOMAIN-SUFFIX,hxpt.org # 好学
+DOMAIN-SUFFIX,infinityhd.net # InfinityHD
 DOMAIN-SUFFIX,iptorrents.com # IPTorrents
 DOMAIN-SUFFIX,jpopsuki.eu # JPopSuki
 DOMAIN-SUFFIX,jptv4.us # JPTV4us
@@ -265,6 +266,7 @@ DOMAIN-SUFFIX,pandacd.io # PandaCD
 DOMAIN-SUFFIX,pandapt.net # PandaPT
 DOMAIN-SUFFIX,passthepopcorn.me # PassThePopcorn
 DOMAIN-SUFFIX,pc-torrents.games # PC-torrent
+DOMAIN-SUFFIX,peergarden.org # PeerGarden
 DOMAIN-SUFFIX,piggo.me # Piggo
 DOMAIN-SUFFIX,pixelcove.me # PixelCove
 DOMAIN-SUFFIX,playlet.cc # PlayLet
@@ -386,6 +388,7 @@ DOMAIN-SUFFIX,totheglory.im # ToTheGlory
 DOMAIN-SUFFIX,tpb.party # The Pirate Bay
 DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
 DOMAIN-SUFFIX,trancetraffic.com # TranceTraffic
+DOMAIN-SUFFIX,traxary.com # Traxary
 DOMAIN-SUFFIX,tu88.men # TU88
 DOMAIN-SUFFIX,turkseed.com # TURKSEED
 DOMAIN-SUFFIX,u2.dmhy.org # U2
@@ -395,6 +398,7 @@ DOMAIN-SUFFIX,ubits.club # UBits
 DOMAIN-SUFFIX,uhddolby.com # UHDDolby
 DOMAIN-SUFFIX,uindex.org # UIndex
 DOMAIN-SUFFIX,ultrahd.net # UltraHD
+DOMAIN-SUFFIX,unwalled.cc # Unwalled
 DOMAIN-SUFFIX,upload.cx # ULCX
 DOMAIN-SUFFIX,upxin.net # HDU
 DOMAIN-SUFFIX,usefultrash.net # ABTorrents
@@ -431,3 +435,4 @@ DOMAIN-SUFFIX,zamunda.life # Zamunda LIFE
 DOMAIN-SUFFIX,zhixing.bjtu.edu.cn # 知行PT
 DOMAIN-SUFFIX,zhuque.in # 朱雀
 DOMAIN-SUFFIX,zmpt.cc # 织梦
+DOMAIN-SUFFIX,znth.cx # Zenith
