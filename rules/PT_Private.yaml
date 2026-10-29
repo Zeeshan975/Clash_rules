@@ -1,6 +1,6 @@
 # Private PT Trackers (Strictly Private Sites)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-10-28 08:09:11 UTC
+# Updated: 2026-10-29 08:16:50 UTC
 # Total Rules: 291
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
@@ -81,7 +81,7 @@ payload:
   - DOMAIN-SUFFIX,eiga.moi # AsianCinema
   - DOMAIN-SUFFIX,emparadise.rs # Empornium
   - DOMAIN-SUFFIX,empornium.sx # Empornium
-  - DOMAIN-SUFFIX,emuwarez.com # eMuwarez
+  - DOMAIN-SUFFIX,emu-warez.com # eMuwarez
   - DOMAIN-SUFFIX,et8.org # TorrentCCF
   - DOMAIN-SUFFIX,exoticaz.to # ExoticaZ
   - DOMAIN-SUFFIX,extremlymtorrents.ws # XTR

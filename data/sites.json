@@ -2741,15 +2741,17 @@
     "schema": "Unit3D",
     "isDead": false,
     "urls": [
-      "https://emuwarez.com/"
+      "https://emu-warez.com/"
     ],
     "legacyUrls": [
+      "https://emuwarez.com/",
       "https://emuwarez.it/"
     ],
     "activeDomains": [
-      "emuwarez.com"
+      "emu-warez.com"
     ],
     "allDomains": [
+      "emu-warez.com",
       "emuwarez.com",
       "emuwarez.it"
     ]
@@ -9551,7 +9553,7 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrentsome269.com/"
+      "https://torrentsome270.com/"
     ],
     "legacyUrls": [
       "https://torrentsome252.com/",
@@ -9570,10 +9572,11 @@
       "https://torrentsome265.com/",
       "https://torrentsome266.com/",
       "https://torrentsome267.com/",
-      "https://torrentsome268.com/"
+      "https://torrentsome268.com/",
+      "https://torrentsome269.com/"
     ],
     "activeDomains": [
-      "torrentsome269.com"
+      "torrentsome270.com"
     ],
     "allDomains": [
       "torrentsome252.com",
@@ -9593,7 +9596,8 @@
       "torrentsome266.com",
       "torrentsome267.com",
       "torrentsome268.com",
-      "torrentsome269.com"
+      "torrentsome269.com",
+      "torrentsome270.com"
     ]
   },
   {
@@ -9608,7 +9612,7 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrenttip249.top/"
+      "https://torrenttip250.top/"
     ],
     "legacyUrls": [
       "https://torrenttip232.top/",
@@ -9627,10 +9631,11 @@
       "https://torrenttip245.top/",
       "https://torrenttip246.top/",
       "https://torrenttip247.top/",
-      "https://torrenttip248.top/"
+      "https://torrenttip248.top/",
+      "https://torrenttip249.top/"
     ],
     "activeDomains": [
-      "torrenttip249.top"
+      "torrenttip250.top"
     ],
     "allDomains": [
       "torrenttip232.top",
@@ -9650,7 +9655,8 @@
       "torrenttip246.top",
       "torrenttip247.top",
       "torrenttip248.top",
-      "torrenttip249.top"
+      "torrenttip249.top",
+      "torrenttip250.top"
     ]
   },
   {
@@ -10196,14 +10202,14 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://ww2-darkfox.officiel.cc/",
-      "https://ww2-vidlox.officiel.cc/",
-      "https://ww2-worldivx.officiel.cc/",
-      "https://ww2-wikibox.officiel.cc/",
-      "https://ww2-sharkibox.officiel.cc/",
-      "https://ww2-workino.officiel.cc/",
-      "https://ww1-oxtorrent.officiel.cc/",
-      "https://ww2-torrent911.officiel.cc/"
+      "https://ww3-darkfox.officiel.cc/",
+      "https://ww3-vidlox.officiel.cc/",
+      "https://ww3-worldivx.officiel.cc/",
+      "https://ww3-wikibox.officiel.cc/",
+      "https://ww3-sharkibox.officiel.cc/",
+      "https://ww3-workino.officiel.cc/",
+      "https://ww3-oxtorrent.officiel.cc/",
+      "https://ww3-torrent911.officiel.cc/"
     ],
     "legacyUrls": [
       "https://ww1.darkfox.run/",
@@ -10217,7 +10223,15 @@
       "https://ww1-wikibox.officiel.cc/",
       "https://ww1-sharkibox.officiel.cc/",
       "https://ww1.workino.run/",
-      "https://ww1.torrent911.run/"
+      "https://ww1.torrent911.run/",
+      "https://ww2-darkfox.officiel.cc/",
+      "https://ww2-vidlox.officiel.cc/",
+      "https://ww2-worldivx.officiel.cc/",
+      "https://ww2-wikibox.officiel.cc/",
+      "https://ww2-sharkibox.officiel.cc/",
+      "https://ww2-workino.officiel.cc/",
+      "https://ww1-oxtorrent.officiel.cc/",
+      "https://ww2-torrent911.officiel.cc/"
     ],
     "activeDomains": [
       "officiel.cc"
