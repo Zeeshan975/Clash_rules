@@ -5730,7 +5730,7 @@
     ],
     "type": "private",
     "schema": "NexusPHP",
-    "isDead": false,
+    "isDead": true,
     "urls": [
       "https://www.momentpt.top/"
     ],
@@ -7465,13 +7465,19 @@
     "schema": "NexusPHP",
     "isDead": false,
     "urls": [
+      "https://www.ptskit.com/",
       "https://www.ptskit.org/"
     ],
-    "legacyUrls": [],
+    "legacyUrls": [
+      "https://www.ptskit.net/"
+    ],
     "activeDomains": [
+      "ptskit.com",
       "ptskit.org"
     ],
     "allDomains": [
+      "ptskit.com",
+      "ptskit.net",
       "ptskit.org"
     ]
   },
@@ -7833,6 +7839,31 @@
     "allDomains": [
       "retroflix.club",
       "retroflix.net"
+    ]
+  },
+  {
+    "id": "retromoviesclub",
+    "name": "RetroMoviesClub",
+    "aka": [
+      "RMC"
+    ],
+    "description": "RetroMoviesClub（RMC）是一个专注 2000 年及以前经典电影的私有 PT 站，仅接受 2000 年前上映的电影资源",
+    "tags": [
+      "影视",
+      "电影"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://retro-movies.club/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "retro-movies.club"
+    ],
+    "allDomains": [
+      "retro-movies.club"
     ]
   },
   {

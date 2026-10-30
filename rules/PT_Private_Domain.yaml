@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites) (Domain Provider Format)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-10-29 08:16:50 UTC
-# Total Domains: 291
+# Updated: 2026-10-30 08:24:30 UTC
+# Total Domains: 292
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -159,7 +159,6 @@ payload:
   - '+.marchcms.org' # March-Media
   - '+.midnightscene.cc' # MidnightScene
   - '+.milkie.cc' # Milkie
-  - '+.momentpt.top' # MomentPT
   - '+.monikadesign.uk' # Monikadesign
   - '+.musopia.vip' # 音乐乌托邦
   - '+.muxuege.org' # 慕雪阁
@@ -205,6 +204,7 @@ payload:
   - '+.ptlgs.org' # PTLGS
   - '+.ptneko.com' # 超科学PT喵
   - '+.ptsbao.club' # PTSBao
+  - '+.ptskit.com' # PTSkit
   - '+.ptskit.org' # PTSkit
   - '+.pttime.org' # PTTime
   - '+.ptzone.xyz' # PTzone
@@ -218,6 +218,7 @@ payload:
   - '+.reelflix.cc' # ReelFliX
   - '+.reelflix.xyz' # ReelFliX
   - '+.resource.xidian.edu.cn' # 睿思
+  - '+.retro-movies.club' # RetroMoviesClub
   - '+.retroflix.club' # RetroFlix
   - '+.retroflix.net' # RetroFlix
   - '+.retrotoon.world' # RetroToon World
