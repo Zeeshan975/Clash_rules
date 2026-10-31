@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-30 08:24:30 UTC
-# Total Domains: 432
+# Updated: 2026-10-31 08:14:29 UTC
+# Total Domains: 433
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -234,6 +234,7 @@ payload:
   - '+.myanonamouse.net' # MyAnonamouse
   - '+.myporn.club' # MyPornClub
   - '+.mypt.cc' # MyPT
+  - '+.myspleen.org' # MySpleen
   - '+.nanyangpt.com' # 南洋PT
   - '+.naturept.top' # ZRPT
   - '+.ncore.pro' # nCore

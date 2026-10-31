@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-30 08:24:30 UTC
-# Total Rules: 751
+# Updated: 2026-10-31 08:14:29 UTC
+# Total Rules: 752
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -397,6 +397,7 @@ payload:
   - DOMAIN-SUFFIX,myanonamouse.net # MyAnonamouse
   - DOMAIN-SUFFIX,myporn.club # MyPornClub
   - DOMAIN-SUFFIX,mypt.cc # MyPT
+  - DOMAIN-SUFFIX,myspleen.org # MySpleen
   - DOMAIN-SUFFIX,myxz.eu # SpeedApp
   - DOMAIN-SUFFIX,nanyangpt.com # 南洋PT
   - DOMAIN-SUFFIX,naturept.top # ZRPT

@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-30 08:24:30 UTC
-# Total Rules: 432
+# Updated: 2026-10-31 08:14:29 UTC
+# Total Rules: 433
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -234,6 +234,7 @@ payload:
   - DOMAIN-SUFFIX,myanonamouse.net # MyAnonamouse
   - DOMAIN-SUFFIX,myporn.club # MyPornClub
   - DOMAIN-SUFFIX,mypt.cc # MyPT
+  - DOMAIN-SUFFIX,myspleen.org # MySpleen
   - DOMAIN-SUFFIX,nanyangpt.com # 南洋PT
   - DOMAIN-SUFFIX,naturept.top # ZRPT
   - DOMAIN-SUFFIX,ncore.pro # nCore

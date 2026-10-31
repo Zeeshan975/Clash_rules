@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-30 08:24:30 UTC
-# Total Domains: 751
+# Updated: 2026-10-31 08:14:29 UTC
+# Total Domains: 752
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -397,6 +397,7 @@ payload:
   - '+.myanonamouse.net' # MyAnonamouse
   - '+.myporn.club' # MyPornClub
   - '+.mypt.cc' # MyPT
+  - '+.myspleen.org' # MySpleen
   - '+.myxz.eu' # SpeedApp
   - '+.nanyangpt.com' # 南洋PT
   - '+.naturept.top' # ZRPT

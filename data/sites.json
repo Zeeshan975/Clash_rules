@@ -5977,6 +5977,31 @@
     ]
   },
   {
+    "id": "myspleen",
+    "name": "MySpleen",
+    "aka": [
+      "MSP"
+    ],
+    "description": "MySpleen is a Private Torrent Tracker for TV / COMEDY / ANIMATION / 80-90’S VHS NOSTALGIA",
+    "tags": [
+      "影视",
+      "动漫"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://www.myspleen.org/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "myspleen.org"
+    ],
+    "allDomains": [
+      "myspleen.org"
+    ]
+  },
+  {
     "id": "nanyangpt",
     "name": "南洋PT",
     "aka": [],
