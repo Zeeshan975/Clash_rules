@@ -540,6 +540,28 @@
     ]
   },
   {
+    "id": "animeclipse",
+    "name": "AnimeClipse",
+    "aka": [],
+    "description": "AnimeClipse（Hellenic Fansubs United）是一个希腊的公开动漫 BT 站，基于 BTITracker 模块，无需登录即可检索与下载 .torrent",
+    "tags": [
+      "动漫"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.animeclipse.com/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "animeclipse.com"
+    ],
+    "allDomains": [
+      "animeclipse.com"
+    ]
+  },
+  {
     "id": "animelovers",
     "name": "ANIMELOVERS",
     "aka": [
@@ -9277,6 +9299,44 @@
     ]
   },
   {
+    "id": "torlock",
+    "name": "Torlock",
+    "aka": [],
+    "description": "Torlock 是一个以「只收录已验证种子」为卖点的公开 BT 索引站，覆盖影视、音乐、游戏、软件与电子书",
+    "tags": [
+      "综合",
+      "影视",
+      "音乐",
+      "游戏",
+      "电子书"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://www.torlock.com/"
+    ],
+    "legacyUrls": [
+      "https://torlock.com/",
+      "https://www.torlock2.com/",
+      "https://www.torlock.icu/",
+      "https://torlock.nocensor.cloud/",
+      "https://torlock.mrunblock.bond/",
+      "https://torlock.unblockit.download/"
+    ],
+    "activeDomains": [
+      "torlock.com"
+    ],
+    "allDomains": [
+      "nocensor.cloud",
+      "torlock.com",
+      "torlock.icu",
+      "torlock.mrunblock.bond",
+      "torlock.unblockit.download",
+      "torlock2.com"
+    ]
+  },
+  {
     "id": "torrent9",
     "name": "Torrent9",
     "aka": [],
@@ -9395,19 +9455,21 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrentgalaxy.info/",
-      "https://torrentgalaxy.one/"
+      "https://torrentgalaxy.online/",
+      "https://torrentgalaxy.info/"
     ],
     "legacyUrls": [
+      "https://torrentgalaxy.one/",
       "https://torrentgalaxy.space/"
     ],
     "activeDomains": [
       "torrentgalaxy.info",
-      "torrentgalaxy.one"
+      "torrentgalaxy.online"
     ],
     "allDomains": [
       "torrentgalaxy.info",
       "torrentgalaxy.one",
+      "torrentgalaxy.online",
       "torrentgalaxy.space"
     ]
   },
@@ -9546,6 +9608,37 @@
       "torrentleech.cc",
       "torrentleech.me",
       "torrentleech.org"
+    ]
+  },
+  {
+    "id": "torrentparadise",
+    "name": "Torrent Paradise",
+    "aka": [],
+    "description": "Torrent Paradise 是一个公开的 BT 元搜索引擎，索引 DHT 网络中的种子，无需登录；列表页不直接给出 magnet，需要进详情页取",
+    "tags": [
+      "综合"
+    ],
+    "type": "public",
+    "schema": "",
+    "isDead": false,
+    "urls": [
+      "https://torrentparadise.cl/"
+    ],
+    "legacyUrls": [
+      "https://torrentparadise.org/",
+      "https://torrentparadise.to/",
+      "https://torrentparadise.cc/",
+      "https://torrentparadise.la/"
+    ],
+    "activeDomains": [
+      "torrentparadise.cl"
+    ],
+    "allDomains": [
+      "torrentparadise.cc",
+      "torrentparadise.cl",
+      "torrentparadise.la",
+      "torrentparadise.org",
+      "torrentparadise.to"
     ]
   },
   {

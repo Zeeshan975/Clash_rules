@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-10-31 08:14:29 UTC
-# Total Domains: 433
+# Updated: 2026-11-01 08:58:46 UTC
+# Total Domains: 436
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -34,6 +34,7 @@ payload:
   - '+.alpharatio.cc' # AlphaRatio
   - '+.anibt.net' # Anibt
   - '+.animebytes.tv' # AnimeBytes
+  - '+.animeclipse.com' # AnimeClipse
   - '+.animetosho.org' # AnimeTosho
   - '+.animez.to' # AnimeZ
   - '+.anirena.com' # AniRena
@@ -361,6 +362,7 @@ payload:
   - '+.tokyo-tosho.net' # Tokyo Toshokan
   - '+.tokyotosho.info' # Tokyo Toshokan
   - '+.torkitty.com' # TorrentKitty
+  - '+.torlock.com' # Torlock
   - '+.torrent.desi' # DesiTorrents
   - '+.torrent9.to' # Torrent9
   - '+.torrentday.com' # TorrentsTD
@@ -368,7 +370,7 @@ payload:
   - '+.torrentday.it' # TorrentsTD
   - '+.torrentday.me' # TorrentsTD
   - '+.torrentgalaxy.info' # TorrentGalaxyClone
-  - '+.torrentgalaxy.one' # TorrentGalaxyClone
+  - '+.torrentgalaxy.online' # TorrentGalaxyClone
   - '+.torrenting.com' # Torrenting
   - '+.torrenting.me' # Torrenting
   - '+.torrentkitty.app' # TorrentKitty
@@ -384,6 +386,7 @@ payload:
   - '+.torrentleech.me' # TorrentLeech
   - '+.torrentleech.org' # TorrentLeech
   - '+.torrentmac.net' # Mac Torrents Download
+  - '+.torrentparadise.cl' # Torrent Paradise
   - '+.torrents-csv.com' # Torrents-CSV
   - '+.torrentsome270.com' # Torrentsome
   - '+.torrenttip250.top' # Torrenttip

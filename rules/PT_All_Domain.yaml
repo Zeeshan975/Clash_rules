@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-10-31 08:14:29 UTC
-# Total Domains: 752
+# Updated: 2026-11-01 08:58:46 UTC
+# Total Domains: 764
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -55,6 +55,7 @@ payload:
   - '+.alpharatio.cc' # AlphaRatio
   - '+.anibt.net' # Anibt
   - '+.animebytes.tv' # AnimeBytes
+  - '+.animeclipse.com' # AnimeClipse
   - '+.animelovers.club' # ANIMELOVERS
   - '+.animetosho.org' # AnimeTosho
   - '+.animez.to' # AnimeZ
@@ -413,7 +414,7 @@ payload:
   - '+.nnm-club.me' # NoNaMe Club
   - '+.nnm-club.name' # NoNaMe Club
   - '+.nnmclub.to' # NoNaMe Club
-  - '+.nocensor.cloud' # EZTV, LimeTorrents
+  - '+.nocensor.cloud' # EZTV, LimeTorrents, Torlock
   - '+.nordicbytes.org' # NordicBytes
   - '+.nordicq.org' # NordicQuality
   - '+.novahd.top' # NovaHD
@@ -593,6 +594,11 @@ payload:
   - '+.tokyotosho.info' # Tokyo Toshokan
   - '+.tokyotosho.se' # Tokyo Toshokan
   - '+.torkitty.com' # TorrentKitty
+  - '+.torlock.com' # Torlock
+  - '+.torlock.icu' # Torlock
+  - '+.torlock.mrunblock.bond' # Torlock
+  - '+.torlock.unblockit.download' # Torlock
+  - '+.torlock2.com' # Torlock
   - '+.torrent.desi' # DesiTorrents
   - '+.torrent9.fm' # Torrent9
   - '+.torrent9.gg' # Torrent9
@@ -609,6 +615,7 @@ payload:
   - '+.torrentday.ru' # TorrentsTD
   - '+.torrentgalaxy.info' # TorrentGalaxyClone
   - '+.torrentgalaxy.one' # TorrentGalaxyClone
+  - '+.torrentgalaxy.online' # TorrentGalaxyClone
   - '+.torrentgalaxy.space' # TorrentGalaxyClone
   - '+.torrenthub.club' # TorrentHub
   - '+.torrenting.com' # Torrenting
@@ -627,6 +634,11 @@ payload:
   - '+.torrentleech.me' # TorrentLeech
   - '+.torrentleech.org' # TorrentLeech
   - '+.torrentmac.net' # Mac Torrents Download
+  - '+.torrentparadise.cc' # Torrent Paradise
+  - '+.torrentparadise.cl' # Torrent Paradise
+  - '+.torrentparadise.la' # Torrent Paradise
+  - '+.torrentparadise.org' # Torrent Paradise
+  - '+.torrentparadise.to' # Torrent Paradise
   - '+.torrents-csv.com' # Torrents-CSV
   - '+.torrents-csv.ml' # Torrents-CSV
   - '+.torrentseeds.org' # TorrentSeeds
