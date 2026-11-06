@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-11-05 09:15:18 UTC
-# Total Rules: 436
+# Updated: 2026-11-06 09:08:36 UTC
+# Total Rules: 439
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -72,6 +72,7 @@ payload:
   - DOMAIN-SUFFIX,bwtorrents.xyz # BWT
   - DOMAIN-SUFFIX,byr.pt # 北邮人-BYRBT
   - DOMAIN-SUFFIX,byrutgame.org # Byrutor
+  - DOMAIN-SUFFIX,c411.org # C411
   - DOMAIN-SUFFIX,cangbao.ge # 藏宝阁
   - DOMAIN-SUFFIX,capybarabr.com # CapybaraBR
   - DOMAIN-SUFFIX,carpt.net # CarPT
@@ -97,6 +98,7 @@ payload:
   - DOMAIN-SUFFIX,cyanbug.net # CyanBug
   - DOMAIN-SUFFIX,damag.net # DaMagNet
   - DOMAIN-SUFFIX,danishbytes.club # DanishBytes
+  - DOMAIN-SUFFIX,darkfox.ws # World-torrent
   - DOMAIN-SUFFIX,darkland.top # Darkland
   - DOMAIN-SUFFIX,darkpeers.org # darkpeers
   - DOMAIN-SUFFIX,datascene.xyz # DataScene
@@ -388,8 +390,8 @@ payload:
   - DOMAIN-SUFFIX,torrentmac.net # Mac Torrents Download
   - DOMAIN-SUFFIX,torrentparadise.cl # Torrent Paradise
   - DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
-  - DOMAIN-SUFFIX,torrentsome270.com # Torrentsome
-  - DOMAIN-SUFFIX,torrenttip250.top # Torrenttip
+  - DOMAIN-SUFFIX,torrentsome271.com # Torrentsome
+  - DOMAIN-SUFFIX,torrenttip251.top # Torrenttip
   - DOMAIN-SUFFIX,totheglory.im # ToTheGlory
   - DOMAIN-SUFFIX,tpb.party # The Pirate Bay
   - DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
@@ -413,6 +415,7 @@ payload:
   - DOMAIN-SUFFIX,vstorrent.org # VSTorrent
   - DOMAIN-SUFFIX,vsttorrentz.net # VST Torrentz
   - DOMAIN-SUFFIX,wiiii.dpdns.org # LongPT
+  - DOMAIN-SUFFIX,wikibox.ws # World-torrent
   - DOMAIN-SUFFIX,wintersakura.net # WinterSakura
   - DOMAIN-SUFFIX,workisboring.net # TorrentsTD
   - DOMAIN-SUFFIX,world-in-hd.net # WiHD

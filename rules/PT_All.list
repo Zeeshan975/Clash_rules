@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-11-05 09:15:18 UTC
-# Total Rules: 764
+# Updated: 2026-11-06 09:08:36 UTC
+# Total Rules: 769
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,byrutdb.org # Byrutor
 DOMAIN-SUFFIX,byrutgame.org # Byrutor
 DOMAIN-SUFFIX,byruthub.org # Byrutor
 DOMAIN-SUFFIX,byrutor.org # Byrutor
+DOMAIN-SUFFIX,c411.org # C411
 DOMAIN-SUFFIX,cangbao.ge # 藏宝阁
 DOMAIN-SUFFIX,capybarabr.com # CapybaraBR
 DOMAIN-SUFFIX,carpt.net # CarPT
@@ -153,6 +154,7 @@ DOMAIN-SUFFIX,damag.net # DaMagNet
 DOMAIN-SUFFIX,danishbytes.club # DanishBytes
 DOMAIN-SUFFIX,danishbytes2.org # DanishBytes
 DOMAIN-SUFFIX,darkfox.run # World-torrent
+DOMAIN-SUFFIX,darkfox.ws # World-torrent
 DOMAIN-SUFFIX,darkland.top # Darkland
 DOMAIN-SUFFIX,darkpeers.org # darkpeers
 DOMAIN-SUFFIX,datascene.net # DataScene
@@ -660,6 +662,7 @@ DOMAIN-SUFFIX,torrentsome267.com # Torrentsome
 DOMAIN-SUFFIX,torrentsome268.com # Torrentsome
 DOMAIN-SUFFIX,torrentsome269.com # Torrentsome
 DOMAIN-SUFFIX,torrentsome270.com # Torrentsome
+DOMAIN-SUFFIX,torrentsome271.com # Torrentsome
 DOMAIN-SUFFIX,torrenttip232.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip233.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip234.top # Torrenttip
@@ -679,6 +682,7 @@ DOMAIN-SUFFIX,torrenttip247.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip248.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip249.top # Torrenttip
 DOMAIN-SUFFIX,torrenttip250.top # Torrenttip
+DOMAIN-SUFFIX,torrenttip251.top # Torrenttip
 DOMAIN-SUFFIX,tosky.club # ToSky
 DOMAIN-SUFFIX,totheglory.im # ToTheGlory
 DOMAIN-SUFFIX,tpb.monster # The Pirate Bay
@@ -717,6 +721,7 @@ DOMAIN-SUFFIX,vsttorrentz.net # VST Torrentz
 DOMAIN-SUFFIX,whu.pt # 珞樱-WHUPT
 DOMAIN-SUFFIX,wiiii.dpdns.org # LongPT
 DOMAIN-SUFFIX,wikibox.run # World-torrent
+DOMAIN-SUFFIX,wikibox.ws # World-torrent
 DOMAIN-SUFFIX,wintersakura.net # WinterSakura
 DOMAIN-SUFFIX,workino.run # World-torrent
 DOMAIN-SUFFIX,workisboring.net # TorrentsTD

@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites) (Domain Provider Format)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-11-05 09:15:18 UTC
-# Total Domains: 293
+# Updated: 2026-11-06 09:08:36 UTC
+# Total Domains: 294
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -43,6 +43,7 @@ payload:
   - '+.bwtorrents.us' # BWT
   - '+.bwtorrents.xyz' # BWT
   - '+.byr.pt' # 北邮人-BYRBT
+  - '+.c411.org' # C411
   - '+.cangbao.ge' # 藏宝阁
   - '+.capybarabr.com' # CapybaraBR
   - '+.carpt.net' # CarPT
