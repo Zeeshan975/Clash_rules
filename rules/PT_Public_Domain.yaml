@@ -1,7 +1,7 @@
 # Public BT & Torrent Indexers (Domain Provider Format)
 # Description: Public torrent search and tracker sites (e.g. 1337x, Nyaa, E-Hentai)
-# Updated: 2026-11-08 08:48:40 UTC
-# Total Domains: 145
+# Updated: 2026-11-09 09:30:53 UTC
+# Total Domains: 151
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -87,6 +87,7 @@ payload:
   - '+.officiel.cc' # World-torrent
   - '+.onejav.com' # OneJAV
   - '+.opensharing.org' # OpenSharing
+  - '+.oxtorrent.ws' # World-torrent
   - '+.pandacd.io' # PandaCD
   - '+.pc-torrents.games' # PC-torrent
   - '+.plugintorrent.com' # PluginTorrent
@@ -99,6 +100,7 @@ payload:
   - '+.sexy-pics.us' # Sexy-Pics
   - '+.shanaproject.com' # Shana Project
   - '+.share.dmhy.org' # 動漫花園資源網
+  - '+.sharkibox.ws' # World-torrent
   - '+.showrss.info' # showRSS
   - '+.skidrowrepack.com' # SkidrowRepack
   - '+.theaudiobookbay.se' # AudioBook Bay
@@ -115,6 +117,7 @@ payload:
   - '+.torkitty.com' # TorrentKitty
   - '+.torlock.com' # Torlock
   - '+.torrent9.to' # Torrent9
+  - '+.torrent911.pw' # World-torrent
   - '+.torrentgalaxy.info' # TorrentGalaxyClone
   - '+.torrentgalaxy.online' # TorrentGalaxyClone
   - '+.torrentkitty.app' # TorrentKitty
@@ -136,10 +139,13 @@ payload:
   - '+.u3c3.com' # U3C3
   - '+.u3c3u3c3u3c3.com' # U3C3
   - '+.uindex.org' # UIndex
+  - '+.vidlox.ws' # World-torrent
   - '+.vsthouse.ru' # VSTHouse
   - '+.vstorrent.org' # VSTorrent
   - '+.vsttorrentz.net' # VST Torrentz
   - '+.wikibox.ws' # World-torrent
+  - '+.workino.ws' # World-torrent
+  - '+.worldivx.ws' # World-torrent
   - '+.wuji.me' # 0Magnet
   - '+.x1337x.cc' # 1337x
   - '+.x1337x.eu' # 1337x

@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-11-08 08:48:40 UTC
-# Total Rules: 439
+# Updated: 2026-11-09 09:30:53 UTC
+# Total Rules: 445
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -266,6 +266,7 @@ payload:
   - DOMAIN-SUFFIX,our.kelu.one # Kelu
   - DOMAIN-SUFFIX,ourbits.club # OurBits
   - DOMAIN-SUFFIX,ourhelp.club # OurBits
+  - DOMAIN-SUFFIX,oxtorrent.ws # World-torrent
   - DOMAIN-SUFFIX,pandacd.io # PandaCD
   - DOMAIN-SUFFIX,pandapt.net # PandaPT
   - DOMAIN-SUFFIX,passthepopcorn.me # PassThePopcorn
@@ -326,6 +327,7 @@ payload:
   - DOMAIN-SUFFIX,shanaproject.com # Shana Project
   - DOMAIN-SUFFIX,share.dmhy.org # 動漫花園資源網
   - DOMAIN-SUFFIX,shareisland.org # ShareIsland
+  - DOMAIN-SUFFIX,sharkibox.ws # World-torrent
   - DOMAIN-SUFFIX,showrss.info # showRSS
   - DOMAIN-SUFFIX,si-qi.xyz # 思齐
   - DOMAIN-SUFFIX,simurg.world # Simurg
@@ -367,6 +369,7 @@ payload:
   - DOMAIN-SUFFIX,torlock.com # Torlock
   - DOMAIN-SUFFIX,torrent.desi # DesiTorrents
   - DOMAIN-SUFFIX,torrent9.to # Torrent9
+  - DOMAIN-SUFFIX,torrent911.pw # World-torrent
   - DOMAIN-SUFFIX,torrentday.com # TorrentsTD
   - DOMAIN-SUFFIX,torrentday.cool # TorrentsTD
   - DOMAIN-SUFFIX,torrentday.it # TorrentsTD
@@ -411,14 +414,17 @@ payload:
   - DOMAIN-SUFFIX,upxin.net # HDU
   - DOMAIN-SUFFIX,usefultrash.net # ABTorrents
   - DOMAIN-SUFFIX,vclib.online # VC-Lib
+  - DOMAIN-SUFFIX,vidlox.ws # World-torrent
   - DOMAIN-SUFFIX,vsthouse.ru # VSTHouse
   - DOMAIN-SUFFIX,vstorrent.org # VSTorrent
   - DOMAIN-SUFFIX,vsttorrentz.net # VST Torrentz
   - DOMAIN-SUFFIX,wiiii.dpdns.org # LongPT
   - DOMAIN-SUFFIX,wikibox.ws # World-torrent
   - DOMAIN-SUFFIX,wintersakura.net # WinterSakura
+  - DOMAIN-SUFFIX,workino.ws # World-torrent
   - DOMAIN-SUFFIX,workisboring.net # TorrentsTD
   - DOMAIN-SUFFIX,world-in-hd.net # WiHD
+  - DOMAIN-SUFFIX,worldivx.ws # World-torrent
   - DOMAIN-SUFFIX,wuji.me # 0Magnet
   - DOMAIN-SUFFIX,x1337x.cc # 1337x
   - DOMAIN-SUFFIX,x1337x.eu # 1337x
