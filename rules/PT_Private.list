@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-11-12 09:34:41 UTC
-# Total Rules: 294
+# Updated: 2026-11-13 09:20:18 UTC
+# Total Rules: 296
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -187,6 +187,7 @@ DOMAIN-SUFFIX,ourhelp.club # OurBits
 DOMAIN-SUFFIX,pandapt.net # PandaPT
 DOMAIN-SUFFIX,passthepopcorn.me # PassThePopcorn
 DOMAIN-SUFFIX,peergarden.org # PeerGarden
+DOMAIN-SUFFIX,phoenixproject.app # Phoenix Project
 DOMAIN-SUFFIX,piggo.me # Piggo
 DOMAIN-SUFFIX,pixelcove.me # PixelCove
 DOMAIN-SUFFIX,playlet.cc # PlayLet
@@ -229,6 +230,7 @@ DOMAIN-SUFFIX,rutracker.net # RuTracker.org
 DOMAIN-SUFFIX,rutracker.org # RuTracker.org
 DOMAIN-SUFFIX,sbpt.link # SBPT
 DOMAIN-SUFFIX,secret-cinema.pw # Secret Cinema
+DOMAIN-SUFFIX,seedcore.net # SeedCore
 DOMAIN-SUFFIX,seedpool.org # seedpool
 DOMAIN-SUFFIX,sewerpt.com # 下水道
 DOMAIN-SUFFIX,shareisland.org # ShareIsland

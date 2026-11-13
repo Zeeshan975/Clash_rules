@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-11-12 09:34:41 UTC
-# Total Rules: 775
+# Updated: 2026-11-13 09:20:18 UTC
+# Total Rules: 779
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -446,6 +446,7 @@ payload:
   - DOMAIN-SUFFIX,pc-torrent.pro # PC-torrent
   - DOMAIN-SUFFIX,pc-torrents.games # PC-torrent
   - DOMAIN-SUFFIX,peergarden.org # PeerGarden
+  - DOMAIN-SUFFIX,phoenixproject.app # Phoenix Project
   - DOMAIN-SUFFIX,piggo.me # Piggo
   - DOMAIN-SUFFIX,pirate-proxy.page # The Pirate Bay
   - DOMAIN-SUFFIX,piratebay.by # The Pirate Bay
@@ -517,6 +518,7 @@ payload:
   - DOMAIN-SUFFIX,rintor.net # RinTor.NeT
   - DOMAIN-SUFFIX,rocket-hd.cc # RocketHD
   - DOMAIN-SUFFIX,root.yt # kickasstorrents.to
+  - DOMAIN-SUFFIX,rotorrent.info # SeedCore
   - DOMAIN-SUFFIX,rousi.pro # Rousi Pro
   - DOMAIN-SUFFIX,rousi.zip # Rousi
   - DOMAIN-SUFFIX,rutor.info # RuTor
@@ -530,6 +532,7 @@ payload:
   - DOMAIN-SUFFIX,scenefz.me # SpeedApp
   - DOMAIN-SUFFIX,sdbits.org # SDBits
   - DOMAIN-SUFFIX,secret-cinema.pw # Secret Cinema
+  - DOMAIN-SUFFIX,seedcore.net # SeedCore
   - DOMAIN-SUFFIX,seedpool.org # seedpool
   - DOMAIN-SUFFIX,sewerpt.com # 下水道
   - DOMAIN-SUFFIX,sexy-pics.us # Sexy-Pics
@@ -694,6 +697,7 @@ payload:
   - DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay
   - DOMAIN-SUFFIX,tpb.surf # The Pirate Bay
   - DOMAIN-SUFFIX,tpb.wtf # The Pirate Bay
+  - DOMAIN-SUFFIX,tr4ker.net # TR4KER
   - DOMAIN-SUFFIX,trancetraffic.com # TranceTraffic
   - DOMAIN-SUFFIX,traxary.com # Traxary
   - DOMAIN-SUFFIX,tu88.men # TU88

@@ -1,7 +1,7 @@
 # Public BT & Torrent Indexers (Domain Provider Format)
 # Description: Public torrent search and tracker sites (e.g. 1337x, Nyaa, E-Hentai)
-# Updated: 2026-11-12 09:34:41 UTC
-# Total Domains: 151
+# Updated: 2026-11-13 09:20:18 UTC
+# Total Domains: 152
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -136,6 +136,7 @@ payload:
   - '+.torrenttip251.top' # Torrenttip
   - '+.tpb.party' # The Pirate Bay
   - '+.tpb.proxyninja.org' # The Pirate Bay
+  - '+.tr4ker.net' # TR4KER
   - '+.u3c3.com' # U3C3
   - '+.u3c3u3c3u3c3.com' # U3C3
   - '+.uindex.org' # UIndex

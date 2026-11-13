@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-11-12 09:34:41 UTC
-# Total Domains: 445
+# Updated: 2026-11-13 09:20:18 UTC
+# Total Domains: 448
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -272,6 +272,7 @@ payload:
   - '+.passthepopcorn.me' # PassThePopcorn
   - '+.pc-torrents.games' # PC-torrent
   - '+.peergarden.org' # PeerGarden
+  - '+.phoenixproject.app' # Phoenix Project
   - '+.piggo.me' # Piggo
   - '+.pixelcove.me' # PixelCove
   - '+.playlet.cc' # PlayLet
@@ -321,6 +322,7 @@ payload:
   - '+.rutracker.ru' # RuTracker.RU
   - '+.sbpt.link' # SBPT
   - '+.secret-cinema.pw' # Secret Cinema
+  - '+.seedcore.net' # SeedCore
   - '+.seedpool.org' # seedpool
   - '+.sewerpt.com' # 下水道
   - '+.sexy-pics.us' # Sexy-Pics
@@ -398,6 +400,7 @@ payload:
   - '+.totheglory.im' # ToTheGlory
   - '+.tpb.party' # The Pirate Bay
   - '+.tpb.proxyninja.org' # The Pirate Bay
+  - '+.tr4ker.net' # TR4KER
   - '+.trancetraffic.com' # TranceTraffic
   - '+.traxary.com' # Traxary
   - '+.tu88.men' # TU88

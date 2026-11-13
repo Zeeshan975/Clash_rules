@@ -6849,6 +6849,29 @@
     ]
   },
   {
+    "id": "phoenixproject",
+    "name": "Phoenix Project",
+    "aka": [],
+    "description": "Phoenix Project is a Private MacOS software tracker",
+    "tags": [
+      "软件",
+      "游戏"
+    ],
+    "type": "private",
+    "schema": "Gazelle",
+    "isDead": false,
+    "urls": [
+      "https://phoenixproject.app/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "phoenixproject.app"
+    ],
+    "allDomains": [
+      "phoenixproject.app"
+    ]
+  },
+  {
     "id": "piggo",
     "name": "Piggo",
     "aka": [
@@ -6861,7 +6884,7 @@
       "少儿"
     ],
     "type": "private",
-    "schema": "NexusPHP",
+    "schema": "AbstractPrivateSite",
     "isDead": false,
     "urls": [
       "https://piggo.me/"
@@ -8279,6 +8302,35 @@
     ],
     "allDomains": [
       "secret-cinema.pw"
+    ]
+  },
+  {
+    "id": "seedcore",
+    "name": "SeedCore",
+    "aka": [
+      "ROT",
+      "Rotorrent"
+    ],
+    "description": "SeedCore (ROT) is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "private",
+    "schema": "Unit3D",
+    "isDead": false,
+    "urls": [
+      "https://seedcore.net/"
+    ],
+    "legacyUrls": [
+      "https://rotorrent.info/"
+    ],
+    "activeDomains": [
+      "seedcore.net"
+    ],
+    "allDomains": [
+      "rotorrent.info",
+      "seedcore.net"
     ]
   },
   {
@@ -9891,6 +9943,29 @@
     ],
     "allDomains": [
       "totheglory.im"
+    ]
+  },
+  {
+    "id": "tr4ker",
+    "name": "TR4KER",
+    "aka": [],
+    "description": "TR4KER is a FRENCH Semi-Private Torrent Tracker for MOVIES / TV / GENERAL",
+    "tags": [
+      "影视",
+      "综合"
+    ],
+    "type": "public",
+    "schema": "Torznab",
+    "isDead": false,
+    "urls": [
+      "https://tr4ker.net/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tr4ker.net"
+    ],
+    "allDomains": [
+      "tr4ker.net"
     ]
   },
   {

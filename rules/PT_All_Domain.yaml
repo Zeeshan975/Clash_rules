@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-11-12 09:34:41 UTC
-# Total Domains: 775
+# Updated: 2026-11-13 09:20:18 UTC
+# Total Domains: 779
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -446,6 +446,7 @@ payload:
   - '+.pc-torrent.pro' # PC-torrent
   - '+.pc-torrents.games' # PC-torrent
   - '+.peergarden.org' # PeerGarden
+  - '+.phoenixproject.app' # Phoenix Project
   - '+.piggo.me' # Piggo
   - '+.pirate-proxy.page' # The Pirate Bay
   - '+.piratebay.by' # The Pirate Bay
@@ -517,6 +518,7 @@ payload:
   - '+.rintor.net' # RinTor.NeT
   - '+.rocket-hd.cc' # RocketHD
   - '+.root.yt' # kickasstorrents.to
+  - '+.rotorrent.info' # SeedCore
   - '+.rousi.pro' # Rousi Pro
   - '+.rousi.zip' # Rousi
   - '+.rutor.info' # RuTor
@@ -530,6 +532,7 @@ payload:
   - '+.scenefz.me' # SpeedApp
   - '+.sdbits.org' # SDBits
   - '+.secret-cinema.pw' # Secret Cinema
+  - '+.seedcore.net' # SeedCore
   - '+.seedpool.org' # seedpool
   - '+.sewerpt.com' # 下水道
   - '+.sexy-pics.us' # Sexy-Pics
@@ -694,6 +697,7 @@ payload:
   - '+.tpb.proxyninja.org' # The Pirate Bay
   - '+.tpb.surf' # The Pirate Bay
   - '+.tpb.wtf' # The Pirate Bay
+  - '+.tr4ker.net' # TR4KER
   - '+.trancetraffic.com' # TranceTraffic
   - '+.traxary.com' # Traxary
   - '+.tu88.men' # TU88
