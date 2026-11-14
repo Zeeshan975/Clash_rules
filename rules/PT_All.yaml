@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-11-13 09:20:18 UTC
-# Total Rules: 779
+# Updated: 2026-11-14 08:49:00 UTC
+# Total Rules: 780
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -702,6 +702,7 @@ payload:
   - DOMAIN-SUFFIX,traxary.com # Traxary
   - DOMAIN-SUFFIX,tu88.men # TU88
   - DOMAIN-SUFFIX,turkseed.com # TURKSEED
+  - DOMAIN-SUFFIX,tv-vault.me # TV-Vault
   - DOMAIN-SUFFIX,u-torrents.ro # SpeedApp
   - DOMAIN-SUFFIX,u2.dmhy.org # U2
   - DOMAIN-SUFFIX,u3c3.com # U3C3

@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-11-13 09:20:18 UTC
-# Total Rules: 296
+# Updated: 2026-11-14 08:49:00 UTC
+# Total Rules: 297
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -274,6 +274,7 @@ payload:
   - DOMAIN-SUFFIX,traxary.com # Traxary
   - DOMAIN-SUFFIX,tu88.men # TU88
   - DOMAIN-SUFFIX,turkseed.com # TURKSEED
+  - DOMAIN-SUFFIX,tv-vault.me # TV-Vault
   - DOMAIN-SUFFIX,u2.dmhy.org # U2
   - DOMAIN-SUFFIX,ubits.club # UBits
   - DOMAIN-SUFFIX,uhddolby.com # UHDDolby

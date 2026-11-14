@@ -1,7 +1,7 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-11-13 09:20:18 UTC
-# Total Domains: 448
+# Updated: 2026-11-14 08:49:00 UTC
+# Total Domains: 449
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -405,6 +405,7 @@ payload:
   - '+.traxary.com' # Traxary
   - '+.tu88.men' # TU88
   - '+.turkseed.com' # TURKSEED
+  - '+.tv-vault.me' # TV-Vault
   - '+.u2.dmhy.org' # U2
   - '+.u3c3.com' # U3C3
   - '+.u3c3u3c3u3c3.com' # U3C3

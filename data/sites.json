@@ -10061,6 +10061,28 @@
     ]
   },
   {
+    "id": "tvvault",
+    "name": "TV-Vault",
+    "aka": [],
+    "description": "TV-Vault is a private tracker for classic television shows (XML search API only).",
+    "tags": [
+      "电视剧"
+    ],
+    "type": "private",
+    "schema": "AbstractPrivateSite",
+    "isDead": false,
+    "urls": [
+      "https://tv-vault.me/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "tv-vault.me"
+    ],
+    "allDomains": [
+      "tv-vault.me"
+    ]
+  },
+  {
     "id": "u2",
     "name": "U2",
     "aka": [
