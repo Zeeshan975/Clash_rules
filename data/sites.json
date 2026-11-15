@@ -6459,6 +6459,7 @@
     "urls": [
       "https://nyaa.si/",
       "https://sukebei.nyaa.si/",
+      "https://nyaa.wiki/",
       "https://nyaa.mom/",
       "https://nyaa.media/",
       "https://sukebei.nyaa.mom/"
@@ -6467,12 +6468,14 @@
     "activeDomains": [
       "nyaa.media",
       "nyaa.mom",
-      "nyaa.si"
+      "nyaa.si",
+      "nyaa.wiki"
     ],
     "allDomains": [
       "nyaa.media",
       "nyaa.mom",
-      "nyaa.si"
+      "nyaa.si",
+      "nyaa.wiki"
     ]
   },
   {
@@ -9784,7 +9787,7 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrentsome271.com/"
+      "https://torrentsome272.com/"
     ],
     "legacyUrls": [
       "https://torrentsome252.com/",
@@ -9805,10 +9808,11 @@
       "https://torrentsome267.com/",
       "https://torrentsome268.com/",
       "https://torrentsome269.com/",
-      "https://torrentsome270.com/"
+      "https://torrentsome270.com/",
+      "https://torrentsome271.com/"
     ],
     "activeDomains": [
-      "torrentsome271.com"
+      "torrentsome272.com"
     ],
     "allDomains": [
       "torrentsome252.com",
@@ -9830,7 +9834,8 @@
       "torrentsome268.com",
       "torrentsome269.com",
       "torrentsome270.com",
-      "torrentsome271.com"
+      "torrentsome271.com",
+      "torrentsome272.com"
     ]
   },
   {
@@ -9845,7 +9850,7 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrenttip251.top/"
+      "https://torrenttip252.top/"
     ],
     "legacyUrls": [
       "https://torrenttip232.top/",
@@ -9866,10 +9871,11 @@
       "https://torrenttip247.top/",
       "https://torrenttip248.top/",
       "https://torrenttip249.top/",
-      "https://torrenttip250.top/"
+      "https://torrenttip250.top/",
+      "https://torrenttip251.top/"
     ],
     "activeDomains": [
-      "torrenttip251.top"
+      "torrenttip252.top"
     ],
     "allDomains": [
       "torrenttip232.top",
@@ -9891,7 +9897,8 @@
       "torrenttip248.top",
       "torrenttip249.top",
       "torrenttip250.top",
-      "torrenttip251.top"
+      "torrenttip251.top",
+      "torrenttip252.top"
     ]
   },
   {

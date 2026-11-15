@@ -1,7 +1,7 @@
 # All PT/BT Domains (Including Legacy & Archived Sites) (Domain Provider Format)
 # Description: Comprehensive archive including historical domains and defunct sites
-# Updated: 2026-11-14 08:49:00 UTC
-# Total Domains: 780
+# Updated: 2026-11-15 09:02:23 UTC
+# Total Domains: 783
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -424,6 +424,7 @@ payload:
   - '+.nyaa.media' # Nyaa
   - '+.nyaa.mom' # Nyaa
   - '+.nyaa.si' # Nyaa
+  - '+.nyaa.wiki' # Nyaa
   - '+.officiel.cc' # World-torrent
   - '+.okpt.net' # OKPT
   - '+.oldtoons.world' # OldToonsWorld
@@ -670,6 +671,7 @@ payload:
   - '+.torrentsome269.com' # Torrentsome
   - '+.torrentsome270.com' # Torrentsome
   - '+.torrentsome271.com' # Torrentsome
+  - '+.torrentsome272.com' # Torrentsome
   - '+.torrenttip232.top' # Torrenttip
   - '+.torrenttip233.top' # Torrenttip
   - '+.torrenttip234.top' # Torrenttip
@@ -690,6 +692,7 @@ payload:
   - '+.torrenttip249.top' # Torrenttip
   - '+.torrenttip250.top' # Torrenttip
   - '+.torrenttip251.top' # Torrenttip
+  - '+.torrenttip252.top' # Torrenttip
   - '+.tosky.club' # ToSky
   - '+.totheglory.im' # ToTheGlory
   - '+.tpb.monster' # The Pirate Bay
