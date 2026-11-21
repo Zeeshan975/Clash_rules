@@ -1,6 +1,6 @@
 # PT Sites & Trackers (Active Private & Public)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-11-20 09:53:20 UTC
+# Updated: 2026-11-21 09:28:55 UTC
 # Total Rules: 450
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
@@ -396,8 +396,8 @@ payload:
   - DOMAIN-SUFFIX,torrentmac.net # Mac Torrents Download
   - DOMAIN-SUFFIX,torrentparadise.cl # Torrent Paradise
   - DOMAIN-SUFFIX,torrents-csv.com # Torrents-CSV
-  - DOMAIN-SUFFIX,torrentsome272.com # Torrentsome
-  - DOMAIN-SUFFIX,torrenttip252.top # Torrenttip
+  - DOMAIN-SUFFIX,torrentsome273.com # Torrentsome
+  - DOMAIN-SUFFIX,torrenttip253.top # Torrenttip
   - DOMAIN-SUFFIX,totheglory.im # ToTheGlory
   - DOMAIN-SUFFIX,tpb.party # The Pirate Bay
   - DOMAIN-SUFFIX,tpb.proxyninja.org # The Pirate Bay

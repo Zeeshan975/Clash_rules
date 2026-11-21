@@ -8314,7 +8314,7 @@
       "ROT",
       "Rotorrent"
     ],
-    "description": "SeedCore (ROT) is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
+    "description": "SeedCore (SC) is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
     "tags": [
       "影视",
       "综合"
@@ -9787,7 +9787,7 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrentsome272.com/"
+      "https://torrentsome273.com/"
     ],
     "legacyUrls": [
       "https://torrentsome252.com/",
@@ -9809,10 +9809,11 @@
       "https://torrentsome268.com/",
       "https://torrentsome269.com/",
       "https://torrentsome270.com/",
-      "https://torrentsome271.com/"
+      "https://torrentsome271.com/",
+      "https://torrentsome272.com/"
     ],
     "activeDomains": [
-      "torrentsome272.com"
+      "torrentsome273.com"
     ],
     "allDomains": [
       "torrentsome252.com",
@@ -9835,7 +9836,8 @@
       "torrentsome269.com",
       "torrentsome270.com",
       "torrentsome271.com",
-      "torrentsome272.com"
+      "torrentsome272.com",
+      "torrentsome273.com"
     ]
   },
   {
@@ -9850,7 +9852,7 @@
     "schema": "",
     "isDead": false,
     "urls": [
-      "https://torrenttip252.top/"
+      "https://torrenttip253.top/"
     ],
     "legacyUrls": [
       "https://torrenttip232.top/",
@@ -9872,10 +9874,11 @@
       "https://torrenttip248.top/",
       "https://torrenttip249.top/",
       "https://torrenttip250.top/",
-      "https://torrenttip251.top/"
+      "https://torrenttip251.top/",
+      "https://torrenttip252.top/"
     ],
     "activeDomains": [
-      "torrenttip252.top"
+      "torrenttip253.top"
     ],
     "allDomains": [
       "torrenttip232.top",
@@ -9898,7 +9901,8 @@
       "torrenttip249.top",
       "torrenttip250.top",
       "torrenttip251.top",
-      "torrenttip252.top"
+      "torrenttip252.top",
+      "torrenttip253.top"
     ]
   },
   {

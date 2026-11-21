@@ -1,6 +1,6 @@
 # PT Sites & Trackers (Active Private & Public) (Domain Provider Format)
 # Description: All active PT/BT sites and tracker domains
-# Updated: 2026-11-20 09:53:20 UTC
+# Updated: 2026-11-21 09:28:55 UTC
 # Total Domains: 450
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
@@ -396,8 +396,8 @@ payload:
   - '+.torrentmac.net' # Mac Torrents Download
   - '+.torrentparadise.cl' # Torrent Paradise
   - '+.torrents-csv.com' # Torrents-CSV
-  - '+.torrentsome272.com' # Torrentsome
-  - '+.torrenttip252.top' # Torrenttip
+  - '+.torrentsome273.com' # Torrentsome
+  - '+.torrenttip253.top' # Torrenttip
   - '+.totheglory.im' # ToTheGlory
   - '+.tpb.party' # The Pirate Bay
   - '+.tpb.proxyninja.org' # The Pirate Bay
