@@ -9198,6 +9198,30 @@
     ]
   },
   {
+    "id": "theshow",
+    "name": "TheShow",
+    "aka": [
+      "TSBZ"
+    ],
+    "description": "TheShow is a private tracker for entertainment-industry e-learning.",
+    "tags": [
+      "学习"
+    ],
+    "type": "private",
+    "schema": "TCG",
+    "isDead": false,
+    "urls": [
+      "https://theshow.click/"
+    ],
+    "legacyUrls": [],
+    "activeDomains": [
+      "theshow.click"
+    ],
+    "allDomains": [
+      "theshow.click"
+    ]
+  },
+  {
     "id": "thevault",
     "name": "TheVault",
     "aka": [

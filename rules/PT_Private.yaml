@@ -1,7 +1,7 @@
 # Private PT Trackers (Strictly Private Sites)
 # Description: Active private tracker sites only (recommended for DIRECT routing)
-# Updated: 2026-11-26 10:40:20 UTC
-# Total Rules: 297
+# Updated: 2026-11-27 10:42:10 UTC
+# Total Rules: 298
 # Source: https://github.com/pt-plugins/PT-depiler
 # Repo: https://github.com/Zeeshan975/Clash_rules
 #
@@ -253,6 +253,7 @@ payload:
   - DOMAIN-SUFFIX,teamhd.org # TeamHD
   - DOMAIN-SUFFIX,tey.cc # tey
   - DOMAIN-SUFFIX,thegeeks.click # TheGeeks
+  - DOMAIN-SUFFIX,theshow.click # TheShow
   - DOMAIN-SUFFIX,thevault.click # TheVault
   - DOMAIN-SUFFIX,tjupt.org # 北洋园PT
   - DOMAIN-SUFFIX,tleechreload.org # TorrentLeech
